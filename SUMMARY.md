@@ -19,5 +19,5 @@
 
 * [Git Commit Best Practice](engineering-team/git-best-practice.md)
 * [JSON API Specification](engineering-team/json-api-specification.md)
-* [Javascript Coding Convention](engineering-team/javascript-coding-convention.md)
+* [JavaScript Coding Convention](engineering-team/javascript-coding-convention.md)
 
