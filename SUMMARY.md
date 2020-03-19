@@ -20,4 +20,7 @@
 * [Git Commit Best Practice](engineering-team/git-best-practice.md)
 * [JSON API Specification](engineering-team/json-api-specification.md)
 * [JavaScript Coding Convention](engineering-team/javascript-coding-convention.md)
+* [Android Coding Convention](https://github.com/rollingglory/GloryConventionLint-android)
+* [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
+* [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
 
