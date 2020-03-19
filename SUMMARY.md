@@ -11,13 +11,13 @@
 
 * [Terminology](production-management/terminology.md)
 
-## Designer Team
+## Design Team <a id="designer-team"></a>
 
 * [Web Design System](designer-team/web-design-system.md)
 
 ## Engineering Team
 
-* [Git Best Practice](engineering-team/git-best-practice.md)
+* [Git Commit Best Practice](engineering-team/git-best-practice.md)
 * [JSON API Specification](engineering-team/json-api-specification.md)
 * [Javascript Coding Convention](engineering-team/javascript-coding-convention.md)
 
