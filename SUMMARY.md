@@ -14,6 +14,7 @@
 ## Design Team <a id="designer-team"></a>
 
 * [Web Design System](designer-team/web-design-system.md)
+* [Pandora Research Guideline](designer-team/pandora-research-guideline.md)
 
 ## Engineering Team
 
