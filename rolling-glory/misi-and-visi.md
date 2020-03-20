@@ -39,7 +39,11 @@ Dunia-dunia inilah yang akan coba dilayani sebaik-baiknya oleh Rolling Glory.
 
 Produk dan jasa cukup jelas, yaitu semua hal-hal yang dijalankan dan dihasilkan oleh Rolling Glory.
 
-Kenapa ada kata 'greater'/'lebih baik lagi'? Sesuai dengan semangat beta Rolling Glory, kita harus terus berkembang \(_grow_\) dengan melakukan peningkatan \(_improvement_\). Kata 'lebih baik' di sini tidak hanya berlaku untuk lebih baik dari produk dan jasa saingan Rolling Glory, namun lebih untuk Rolling Glory sendiri secara internal, yang harus bisa lebih baik dari produk dan jasa yang sebelum-sebelumnya dengan terus melakukan evaluasi dan peningkatan.
+
+
+Kenapa ada kata 'greater'/'lebih baik lagi'? 
+
+Sesuai dengan semangat beta Rolling Glory, kita harus terus berkembang \(_grow_\) dengan melakukan peningkatan \(_improvement_\). Kata 'lebih baik' di sini tidak hanya berlaku untuk lebih baik dari produk dan jasa saingan Rolling Glory, namun lebih untuk Rolling Glory sendiri secara internal, yang harus bisa lebih baik dari produk dan jasa yang sebelum-sebelumnya dengan terus melakukan evaluasi dan peningkatan.
 
 ## Visi Rolling Glory
 
