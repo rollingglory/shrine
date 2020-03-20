@@ -4,7 +4,7 @@
 
 ## Rolling Glory
 
-* [Misi & Visi](rolling-glory/misi-and-visi.md)
+* [Misi](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
 
 ## Production Management
