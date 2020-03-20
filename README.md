@@ -20,13 +20,13 @@ Silakan dibaca, diresapi, dan harapannya seluruh coaster bisa **menjalankan** **
 
 Oke, karena memang content untuk designer baru ini, jadi silakan dibaca-baca dulu dokumentasi Web Design System.
 
-{% page-ref page="designer-team/web-design-system.md" %}
+{% page-ref page="designer-team/web-design-system/" %}
 
 ### Saya adalah engineer, baca yang mana dulukah?
 
 Best practice untuk Git Commit merupakan awal yang baik dan harus dimiliki seluru engineer di Rolling Glory, dilanjutkan dengan spesifikasi JSON API yang akan di-_develop_ ataupun akan di-_consume_.
 
-{% page-ref page="engineering-team/git-best-practice.md" %}
+{% page-ref page="engineering-team/git-best-practice-1/git-best-practice.md" %}
 
 {% page-ref page="engineering-team/json-api-specification.md" %}
 
