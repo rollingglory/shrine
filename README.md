@@ -34,7 +34,7 @@ Lalu silakan lanjut ke dokumentasi-dokumentasi yang relevan dengan role masing-m
 
 #### Web Developer
 
-{% page-ref page="engineering-team/javascript-coding-convention.md" %}
+{% page-ref page="engineering-team/coding-convention/javascript-coding-convention.md" %}
 
 #### Android Developer
 
