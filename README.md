@@ -36,11 +36,9 @@ Lalu silakan lanjut ke dokumentasi-dokumentasi yang relevan dengan role masing-m
 
 {% page-ref page="engineering-team/javascript-coding-convention.md" %}
 
-Android Developer
+#### Android Developer
 
-
-
-iOS Developer
+#### iOS Developer
 
 
 
