@@ -1,10 +1,12 @@
 # Misi & Visi
 
-## Misi Rolling Glory
+## Misi Rolling Glory 
 
-"Misi hidup" adalah alasan dan _purpose_ kenapa kita hidup, demikian pula, misi Rolling Glory adalah sebuah alasan dan _purpose_ kenapa Rolling Glory hidup.
+> "Misi hidup" adalah alasan dan tujuan kenapa kita hidup.
 
-Misi ini yang akan melandasi apapun yang akan Rolling Glory lakukan sebagai sebuah entitas bisnis, secara kolektif, maupun per masing-masing individunya.
+Rolling Glory mempunyai misi yang menjadi alasan dan tujuan kenapa Rolling Glory ada dan hidup. Misi ini yang akan melandasi apapun yang akan Rolling Glory lakukan sebagai sebuah entitas bisnis, secara kolektif, maupun per masing-masing individunya.
+
+Misi Rolling Glory adalah:
 
 {% hint style="info" %}
 **Serve the world with greater products and services**
@@ -29,7 +31,7 @@ Kata 'melayani' telah mengalami perubahan rasa kata karena banyak digunakan untu
 
 Dunia mempunyai makna yang luas dan akan berbeda-beda untuk tiap orang. 
 
-Rolling Glory mendefinisikan dunia menjadi beberapa lapisan, dimulai dari dunia yang paling kecil, yaitu studio Rolling Glory sendiri dengan segenap individu/coaster di Rolling Glory.
+Rolling Glory mendefinisikan dunia menjadi beberapa lapisan, dimulai dari dunia yang paling kecil, yaitu studio Rolling Glory sendiri dengan segenap individu/coaster di Rolling Glory, keluarga, dan orang-orang yang dekat dengan kita.
 
 Kemudian klien dan partner __bisnis yang bekerja sama dengan Rolling Glory, hingga _end user_ dan konsumer dari klien yang menggunakan produk-produk buatan Rolling Glory. Secara skala pun dunia Rolling Glory bisa lebih besar lagi, mulai dari pengguna di Indonesia, Asia Tenggara, Asia, sampai dunia.
 
@@ -38,8 +40,6 @@ Dunia-dunia inilah yang akan coba dilayani sebaik-baiknya oleh Rolling Glory.
 ### With greater products & services
 
 Produk dan jasa cukup jelas, yaitu semua hal-hal yang dijalankan dan dihasilkan oleh Rolling Glory.
-
-
 
 Kenapa ada kata 'greater'/'lebih baik lagi'? 
 

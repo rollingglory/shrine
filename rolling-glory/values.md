@@ -14,7 +14,7 @@ _Values_ dari Rolling Glory adalah:
 
 Value kindness & care sangat penting untuk bisa menciptakan sebuah atmosfer yang positif dan kondusif.
 
-Dengan value kindness, coaster diharapkan untuk bisa tetap bisa _kind_/baik hati di berbagai situasi, terutama ketika situasinya kurang kondusif. _Kindness_/kebaikan hati ditentukan dari kualitas kita untuk bisa ramah, murah hati, dan tenggang hati \(_considerate_\).
+Dengan value kindness, coaster diharapkan untuk bisa tetap bisa _kind_/baik hati di berbagai situasi, terutama ketika situasinya kurang kondusif. _Kindness_/kebaikan hati ditentukan dari kemampuan kita untuk bisa ramah, murah hati, dan tenggang hati \(_considerate_\) ketika situasi tidak mendukung dan menantang kita untuk melakukan hal-hal yang tidak _kind_.
 
 Dengan value care, coaster diharapkan untuk bisa peduli kepada diri sendiri \(_self-care_\), peduli ke sesama coaster, peduli ke lingkungan kerja, peduli ke task yang sedang dikerjakan, peduli kepada klien/partner, hingga peduli kepada _user_ yang akan menggunakan produk yang dibuat Rolling Glory.
 
