@@ -6,7 +6,9 @@ description: >-
 
 # Best Practice
 
-Hampir 2 minggu berjalan kita terpaksa untuk working from home karena Corona Outbreak. Sebagai perusahaan yang sangat mendukung langkah pemerintah, Rolling Glory berpartisipasi aktif untuk mengurangi penyebaran virus Corona. Halaman ini ditujukan untuk bersama-sama berbagi mengenai hal-hal yang perlu dipertimbangkan saat working from home.
+![](../.gitbook/assets/masterdesign-67.png)
+
+Ada kalanya, situasi mendesak kita untuk bekerja di rumah atau remote. Jika saat itu tiba, tentunya ada perubahan yang harus kita lakukan terkait dengan cara kita bekerja. Halaman ini ditujukan untuk bersama-sama berbagi mengenai hal-hal yang perlu dipertimbangkan saat working from home.
 
 ## Setting Context
 
