@@ -52,3 +52,9 @@ Jika dirasa tidak memiliki momen yang pas untuk berdiskusi dengan tim, catatlah 
 6. Jangan lupa berinteraksi dengan keluarga atau orang tersayang ya.
 7. Beri apresiasi tim kalian, sapa mereka setiap pagi, tanyakan kondisinya dan berterima kasih di akhir jam kerja.
 
+## Useful Links
+
+Terakhir, seperti yang sering kita sampaikan untuk stay healthy, productive and keep updated. Berikut adalah link rekomendasi bacaan untuk selalu aware situasi terkini.  
+  
+[**Aku adalah link tersebut.**](https://drive.google.com/drive/u/1/folders/1MiYe4G8aq2Q-TSYxjNFZ3z0GuadJ2yIz)\*\*\*\*
+
