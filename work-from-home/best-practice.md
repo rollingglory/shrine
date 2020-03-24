@@ -23,5 +23,14 @@ Komunikasikan jam kerja kalian kepada keluarga. Beri tahu mereka bahwa pada jam 
 
 ## The Right Tools
 
-Pastikan kamu mempersiapkan alat komunikasi dan kordinasi dengan baik. Cek webcam dan microphone laptop atau device lainnya. RGB menggunakan Proofhub dalam task manager. Yang lebih penting, RGB sudah membuat ****[**WFH tracker**](https://docs.google.com/spreadsheets/d/1XyLhBMTfNgZSVWXGVxKEnrI5OwOTKInjL7qiaaKH4JU/edit#gid=0) yang harus kamu update setiap saat ya. Untuk hal-hal lainnya silahkan intip [**WFH best practice**](https://docs.google.com/document/d/1TPAKV-AowBpODVul5cL73mKN5caN6RQf0wvV_6O5Ees/edit) dari kantor tetangga.
+Pastikan kamu mempersiapkan alat komunikasi dan kordinasi dengan baik. Cek webcam dan microphone laptop atau device lainnya. RGB menggunakan Proofhub sebagai task manager. Yang lebih penting, RGB sudah membuat ****[**WFH tracker**](https://docs.google.com/spreadsheets/d/1XyLhBMTfNgZSVWXGVxKEnrI5OwOTKInjL7qiaaKH4JU/edit#gid=0) yang harus kamu update setiap saat ya. Untuk hal-hal lainnya silahkan intip [**WFH best practice**](https://docs.google.com/document/d/1TPAKV-AowBpODVul5cL73mKN5caN6RQf0wvV_6O5Ees/edit) dari kantor tetangga. Nah selain itu, dalam kondisi seperti ini biasakan untuk selalu:  
+  
+**Usahakan Selalu Update**  
+Sudah kita beberapa kali singgung bahwa komunikasi adalah koentji, jadi pastikan semuanya terkomunikasikan dengan baik. Bahkan hal-hal kecil seperti mau mandi, sedang makan siang, atau lurusin punggung. Selalu komunikasikan ke [**WFH Tracker**](https://docs.google.com/spreadsheets/d/1XyLhBMTfNgZSVWXGVxKEnrI5OwOTKInjL7qiaaKH4JU/edit#gid=0) ya.
+
+**Document Everything**  
+Pastikan semuanya tertulis. Setiap revisi, setiap update, setiap keputusan tertulis dengan baik. Tidak terbiasa? Chat history bisa jadi source buat kamu trace back. Gunakan juga fasilitas yang bisa diakses bersama seperti google docs, dll.
+
+**Selalu Set Konteks dalam Sebuah Diskusi**  
+Saat berdikusi dengan tim, kita akan mudah sekali untuk kehilangan sebuah konteks. Solusinya adalah selalu pergunakan bantuan visual. Kalian bisa gunakan video call atau share screen dalam diskusi. Idealnya diskusi dilakukan dalam video call, internet bermasalah? Turunkan menjadi call, atau turunkan menjadi chat.
 
