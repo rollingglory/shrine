@@ -13,6 +13,11 @@
 
 ## Design Team <a id="designer-team"></a>
 
+* [Design Team](designer-team/design-team.md)
+* [Pandora Research Guideline](designer-team/pandora-research-guideline.md)
+* [Information Architecture](designer-team/information-architecture.md)
+* [UX Writing](designer-team/ux-writing.md)
+* [Design Audit](designer-team/design-audit.md)
 * [Web Design System](designer-team/web-design-system/README.md)
   * [Desktop View Guideline](https://xd.adobe.com/view/22900b86-1b23-45c9-56fa-444616926587-54a1/?fullscreen&mv=product&mv2=accc)
   * [Responsive View Guideline](https://xd.adobe.com/view/b3d4b093-b0ab-482c-4e6e-798c90f2ae3d-c5e5/?fullscreen)
@@ -22,7 +27,6 @@
     * [Desktop View All Pages](https://xd.adobe.com/view/0b2bebb5-3201-4cfc-426c-411b9426014e-7d1a/?fullscreen)
     * [Responsive View Home Page](https://xd.adobe.com/view/d06ab905-2e0f-4606-7702-53dd97f4272e-a65b/?fullscreen)
     * [Responsive View All Pages](https://xd.adobe.com/view/ac0ad3e8-ae10-43ed-6521-2b155a02c8b2-da3b/?fullscreen)
-* [Pandora Research Guideline](designer-team/pandora-research-guideline.md)
 
 ## Engineering Team
 
@@ -34,4 +38,8 @@
 * [JSON API Specification](engineering-team/json-api-specification.md)
 * [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
+
+## Work From Home
+
+* [Best Practice](work-from-home/best-practice.md)
 
