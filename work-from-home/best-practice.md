@@ -32,5 +32,7 @@ Sudah kita beberapa kali singgung bahwa komunikasi adalah koentji, jadi pastikan
 Pastikan semuanya tertulis. Setiap revisi, setiap update, setiap keputusan tertulis dengan baik. Tidak terbiasa? Chat history bisa jadi source buat kamu trace back. Gunakan juga fasilitas yang bisa diakses bersama seperti google docs, dll.
 
 **Selalu Set Konteks dalam Sebuah Diskusi**  
-Saat berdikusi dengan tim, kita akan mudah sekali untuk kehilangan sebuah konteks. Solusinya adalah selalu pergunakan bantuan visual. Kalian bisa gunakan video call atau share screen dalam diskusi. Idealnya diskusi dilakukan dalam video call, internet bermasalah? Turunkan menjadi call, atau turunkan menjadi chat.
+Saat berdikusi dengan tim, kita akan mudah sekali untuk kehilangan sebuah konteks. Solusinya adalah selalu pergunakan bantuan visual. Kalian bisa gunakan video call atau share screen dalam diskusi. Idealnya diskusi dilakukan dalam video call, internet bermasalah? Turunkan menjadi call, atau turunkan menjadi chat.  
+  
+_Pro tip: Set default microphone dan webcam kalian dalam keadaan off atau mati. Kita tidak pernah tau apa yang akan terjadi di muka umum haha._
 
