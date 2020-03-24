@@ -10,8 +10,6 @@ We are not reinventing the wheels. We adopt from [AirBnB JavaScript Style Guide]
 
 In this document, we will rewrite the selected specification we adopt and add a few of our preferences. For anything that is not stated in this document, refer to AirBnB JavaScript Style Guide.
 
-## Table of Contents
-
 ## References
 
 * 2.1 Use `const` for all of your references; avoid using `var`. eslint: [`prefer-const`](https://eslint.org/docs/rules/prefer-const.html), [`no-const-assign`](https://eslint.org/docs/rules/no-const-assign.html)

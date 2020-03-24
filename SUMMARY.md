@@ -33,6 +33,7 @@
 * [Git Best Practice](engineering-team/git-best-practice-1/README.md)
   * [Git Commit Best Practice](engineering-team/git-best-practice-1/git-best-practice.md)
 * [Coding Convention](engineering-team/coding-convention/README.md)
+  * [PHP Coding Convention](engineering-team/coding-convention/php-coding-convention.md)
   * [JavaScript Coding Convention](engineering-team/coding-convention/javascript-coding-convention.md)
   * [Android Coding Convention](https://github.com/rollingglory/GloryConventionLint-android)
 * [JSON API Specification](engineering-team/json-api-specification.md)
