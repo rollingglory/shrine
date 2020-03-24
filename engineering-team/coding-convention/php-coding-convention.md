@@ -2,7 +2,7 @@
 
 ## Goal
 
-Sebuah kesepakatan untuk menstandardisasikan _coding_ PHP.
+Sebuah kesepakatan untuk menstandardisasikan cara dan gaya _coding_ PHP.
 
 ## Intro
 
