@@ -19,7 +19,9 @@ _Pada kondisi yang serba tidak pasti ini, Coasters mungkin tidak ada dalam kondi
 
 Perlu disadari bahwa WFH mungkin membuat working space kamu menjadi tidak ideal. Akan banyak distraksi dan gangguan dari keluarga yang tidak terbiasa melihat kamu sedang bekerja di rumah. Maka dari itu, menyiapkan working space menjadi penting. Bekerjalah di tempat yang punya pencahayaan yang cukup dengan distraksi yang minimal. Kalau bisa gunakan meja dan kursi untuk kenyamanan bekerja.   
   
-Komunikasikan jam kerja kalian kepada keluarga. Beri tahu mereka bahwa pada jam kerja, sebisa mungkin tolong jangan diganggu. WFH juga akan menuntuk kalian untuk melihat screen device/gadget kalian lebih lama karena meeting yang biasa tatap muka akan digantikan dengan menatap layar. Untuk itu, keep in mind untuk selalu beristirahat sejenak setiap 2 jam untuk memberikan mata kalian istirahat. Stretching juga baik dilakukan saat beristirahat sejenak ini.
+Komunikasikan jam kerja kalian kepada keluarga. Beri tahu mereka bahwa pada jam kerja, sebisa mungkin tolong jangan diganggu. WFH juga akan menuntuk kalian untuk melihat screen device/gadget kalian lebih lama karena meeting yang biasa tatap muka akan digantikan dengan menatap layar. Untuk itu, keep in mind untuk selalu beristirahat sejenak setiap 2 jam untuk memberikan mata kalian istirahat. Saat beristirahat sejenak ini kalian bisa lakukan stretching atau menyapa keluarga kalian sejenak.
+
+## The Right Tools
 
 
 
