@@ -23,5 +23,5 @@ Komunikasikan jam kerja kalian kepada keluarga. Beri tahu mereka bahwa pada jam 
 
 ## The Right Tools
 
-
+Pastikan kamu mempersiapkan alat komunikasi dan kordinasi dengan baik. Cek webcam dan microphone laptop atau device lainnya. RGB menggunakan Proofhub dalam task manager. Yang lebih penting, RGB sudah membuat ****[**WFH tracker**](https://docs.google.com/spreadsheets/d/1XyLhBMTfNgZSVWXGVxKEnrI5OwOTKInjL7qiaaKH4JU/edit#gid=0) yang harus kamu update setiap saat ya. Untuk hal-hal lainnya silahkan intip [**WFH best practice**](https://docs.google.com/document/d/1TPAKV-AowBpODVul5cL73mKN5caN6RQf0wvV_6O5Ees/edit) dari kantor tetangga.
 
