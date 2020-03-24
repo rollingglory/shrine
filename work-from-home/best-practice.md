@@ -36,3 +36,19 @@ Saat berdikusi dengan tim, kita akan mudah sekali untuk kehilangan sebuah kontek
   
 _Pro tip: Set default microphone dan webcam kalian dalam keadaan off atau mati. Kita tidak pernah tau apa yang akan terjadi di muka umum haha._
 
+## The Right Mindset
+
+WFH ini bisa membuat merasa kita jauh dari orang lain. Perubahan ini mungkin bisa sangat menjengkelkan bagi beberapa orang. Kembali lagi untuk selalu _be respectful and considerate,_ semua orang sudah melakukan yang mereka bisa. Transparansi menjadi kunci, perhatikan detail setiap orang seperti jam berapa orang tersebut mulai bekerja, apa yang mereka sedang kerjakan dan seberapa banyak load pekerjaan mereka.   
+  
+Jika dirasa tidak memiliki momen yang pas untuk berdiskusi dengan tim, catatlah terlebih dahulu apa saja yang akan kamu diskusikan dan set reminder untuk kembali beberapa saat lagi.
+
+## WFH Hacks
+
+1. Jika dirasa fokus kamu mulai berkurang, istirahatlah sejenak. Ngemil atau strecthing jangan lupa ya.
+2. Jangan lupa makan. Jangan. Lupa. Makan.
+3. Jangan lupa minum. Jangan. Lupa. Minum.
+4. Buatlah grup untuk nyampah, dalam hal ini kamu bisa join discord RGB dan rikues lagu di Townhall, cheers.
+5. Saat diskusi, coba selipkan 1-2 candaan, biar ga tegang tegang amat.
+6. Jangan lupa berinteraksi dengan keluarga atau orang tersayang ya.
+7. Beri apresiasi tim kalian, sapa mereka setiap pagi, tanyakan kondisinya dan berterima kasih di akhir jam kerja.
+
