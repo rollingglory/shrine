@@ -1,5 +1,5 @@
 ---
-description: 'Welcome to the team :D'
+description: You are now part of Design Glory.
 ---
 
 # Welcome to the team.
