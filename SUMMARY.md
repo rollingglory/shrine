@@ -7,6 +7,11 @@
 * [Misi & Visi](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
 
+## Onboarding
+
+* [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
+* [Engineer Onboarding](onboarding/engineer-onboarding.md)
+
 ## Production Management
 
 * [Terminology](production-management/terminology.md)
