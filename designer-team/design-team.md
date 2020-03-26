@@ -2,7 +2,7 @@
 description: 'Welcome to the team :D'
 ---
 
-# Design Team
+# Welcome to the team.
 
 ![](../.gitbook/assets/kaoswibu-11.png)
 
