@@ -31,6 +31,8 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 ### Designer
 
+{% page-ref page="designer-onboarding.md" %}
+
 
 
 

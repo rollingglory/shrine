@@ -11,6 +11,7 @@
 
 * [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
+* [Designer Onboarding](onboarding/designer-onboarding.md)
 
 ## Production Management
 
