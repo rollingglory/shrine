@@ -4,7 +4,7 @@ Untuk menjalankan misi dan mencapai visi, Rolling Glory memiliki 3 _values_ yang
 
 _Values_ dari Rolling Glory adalah: 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 1. Kindness & Care
 2. Openness
 3. Mutual Trust - _Trust & Can be Trusted_
