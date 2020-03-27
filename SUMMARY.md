@@ -6,6 +6,7 @@
 
 * [Misi & Visi](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
+* [Forte](rolling-glory/forte.md)
 
 ## Onboarding
 
