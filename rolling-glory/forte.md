@@ -4,7 +4,7 @@
 
 Forte dari Rolling Glory adalah "**we deliver expectation".**
 
-Rolling Glory menghasilkan product dan service yang sesuai dengan ekspektasi yaitu yang product dan service yang kualitasnya tinggi; premium.
+Rolling Glory mempunyai prinsip dalam menghasilkan product dan service yang sesuai dengan ekspektasi yaitu yang product dan service yang kualitasnya tinggi; premium.
 
 Definisi product dan service yang premium tersebut dijabarkan lebih dalam dengan [Satisfaction 360](forte.md#satisfaction-360) dan [Crystal Solution](forte.md#crystal-solution).
 

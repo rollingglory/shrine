@@ -4,7 +4,7 @@ Banyak sekali hal-hal yang lebih baik kamu ketahui tentang Rolling Glory sebagai
 
 ## Baik, jadi dari mana Kak saya harus memulai?
 
-### Misi, Visi, & Values
+### Misi, Visi, Values, dan Forte
 
 Misi, visi, dan values Rolling Glory adalah awal yang baik untuk memulai, semuanya adalah fundamental yang melandasi kehidupan seluruh coaster di Rolling Glory.
 
@@ -13,6 +13,10 @@ Silakan dibaca, diresapi, dan harapannya seluruh coaster bisa **menjalankan** **
 {% page-ref page="../rolling-glory/misi-and-visi.md" %}
 
 {% page-ref page="../rolling-glory/values.md" %}
+
+Selain misi, visi, dan values, Rolling Glory juga mempunyai prinsip dalam kualitas dari product yang dihasilkan, prinsip tersebut tertuang dalam Forte:
+
+{% page-ref page="../rolling-glory/forte.md" %}
 
 ### Organization Structure & Production Pipeline
 
