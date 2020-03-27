@@ -12,5 +12,5 @@ Secara umum, design team menerapkan proses _design thinking_ pada setiap project
   
 Tim desain sering kali bertukar pikiran dalam sebuah wadah bernama designer talk. Designer talk dilakukan setiap minggu dengan topik pembahasan yang berbeda. Sering kali designer talk menjadi sebuah workshop ketika kami ingin belajar sesuatu yang baru. Tujuannya semua tim desain memiliki standard knowledge yang sama.  
   
-Kami juga mendukung setiap coaster di tim desain untuk belajar hal baru. Perusahaan akan support jika coaster ingin mengikuti workshop, seminar atau short class yang bisa menambah skill dan knowledge desain mereka. Tentunya dengan satu syarat, setelah selesai mengikuti workshop, coaster tersebut wajib membagikan ilmu barunya pada coasters lainnya dalam sebuah sesi khusus.
+Kami juga mendukung setiap coaster di tim desain untuk belajar hal baru. Perusahaan akan support jika coaster ingin mengikuti workshop, seminar atau short class yang bisa menambah skill dan knowledge desain mereka. Tentunya dengan satu syarat, setelah selesai mengikuti workshop, coaster tersebut wajib membagikan ilmu barunya pada coasters lainnya dalam sebuah sesi khusus designer talk.
 
