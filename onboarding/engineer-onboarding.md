@@ -1,6 +1,8 @@
 # Engineer Onboarding
 
-Hai, selamat datang di halaman _Engineer Onboarding._
+
+
+![Hai, selamat datang di halaman Engineer Onboarding.](../.gitbook/assets/masterdesign-69.png)
 
 ## Values in Engineering Team
 

@@ -1,6 +1,6 @@
 # Designer Onboarding
 
-Halo designer, selamat datang.
+![Halo, designer, selamat datang.](../.gitbook/assets/masterdesign-68.png)
 
 ## Values in Design Team
 
