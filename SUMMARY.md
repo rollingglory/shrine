@@ -50,4 +50,5 @@
 ## Work From Home
 
 * [Best Practice](work-from-home/best-practice.md)
+* [Organization](organization.md)
 
