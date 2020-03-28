@@ -10,7 +10,7 @@ Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasark
 
 ### Rolling Glory Structure
 
-![Struktur Organisasi Rolling Glory \(2020\)](.gitbook/assets/image%20%283%29.png)
+![Struktur Organisasi Rolling Glory \(2020\)](../.gitbook/assets/image%20%283%29.png)
 
 
 

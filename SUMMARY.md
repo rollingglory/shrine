@@ -7,6 +7,7 @@
 * [Misi & Visi](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
 * [Forte](rolling-glory/forte.md)
+* [Organization](rolling-glory/organization.md)
 
 ## Onboarding
 
@@ -50,5 +51,4 @@
 ## Work From Home
 
 * [Best Practice](work-from-home/best-practice.md)
-* [Organization](organization.md)
 
