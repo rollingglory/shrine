@@ -42,7 +42,9 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 ### QA Tester
 
-{% page-ref page="qa-tester-onboarding.md" %}
+{% page-ref page="qa-onboarding.md" %}
+
+
 
 
 
