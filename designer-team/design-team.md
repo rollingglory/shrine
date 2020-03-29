@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome to the Team! You are now part of Design Glory. Design Team consist of
-  several roles with different responsibilities.
+  Welcome to the Team! Design Team consist of several roles with different
+  responsibilities.
 ---
 
 # Design Team Roles & Pipeline.
@@ -54,7 +54,23 @@ Hal lain yang menjadi tanggung jawab UI designer adalah kolaborasi, handover, da
 
 link contoh spek design
 
+### **5.2D Artist/Illustrator**
 
+Halo illustrator! Tugas utamamu di sini adalah membuat/mengembangkan asset-asset untuk kebutuhan project maupun product. Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game. 
+
+Berikut contoh-contoh asset untuk keperluan website/mobile apps yang pernah dikerjakan oleh RGB:
+
+link contoh asset.
+
+Berikut contoh-contoh asset untuk keperluan development game:
+
+link contoh asset.
+
+Pada prosesnya, kamu akan banyak berkolaborasi dengan Creative Conceptor dan juga Developer. Creative Conceptor adalah pihak yang akan meng-approve hasil pekerjaanmu, sedangkan Developer adalah pihak yang akan melanjutkan proses kreatifmu, karena itu perbanyaklah komunikasi dan diskusi dengan mereka. Pastikan pekerjaanmu sesuai dengan brief dari Creative Conceptor, dan pastikan pekerjaanmu sesuai dengan standar dan spesifikasi yang dibutuhkan oleh Developer.
+
+### **6.Copy/UX Writer**
+
+Halo UX Writer! Tugas utamamu di sini adalah untuk memastikan \(dan membuat\) konten-konten teks yang akan dibaca oleh user sudah sesuai dengan brief dari klien dan sesuai dengan user persona yang ada. 
 
 {% page-ref page="ux-writing.md" %}
 
