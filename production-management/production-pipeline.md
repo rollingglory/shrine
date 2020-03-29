@@ -2,9 +2,13 @@
 
 ## Fase Pandora / Pre-production
 
-Fase Pandora adalah fase dari project sebelum masuk tahap development. Fase ini pada umumnya terjadi sebelum ada proses _deal_ spesifikasi maupun kontrak dengan client. Pengerjaan yang dilakukan adalah requirement gathering client dan kemudian development calon solusi kepada klien—yang bisa diimplementasikan dalam bentuk proposal solusi yang disertai dengan mockup, wireframe, ataupun aplikasi proof of concept. Dalam project flow pengerjaan Pandora adalah pada early phase.
+Fase Pandora adalah fase dari project sebelum masuk tahap development. Fase ini pada umumnya terjadi sebelum ada proses _deal_ spesifikasi maupun kontrak dengan client. Pengerjaan yang dilakukan adalah requirement gathering client, research, dan kemudian development calon solusi kepada klien—yang bisa diimplementasikan dalam bentuk proposal solusi yang disertai dengan mockup, wireframe, ataupun aplikasi proof of concept. Dalam project flow pengerjaan Pandora adalah pada early phase.
 
 ![](../.gitbook/assets/rolling-glory-pandora-flow.jpg)
+
+Fase Pandora/Pre-production biasanya berkaitan erat dengan Research. Untuk lebih lengkap mengenai Pipeline Research, bisa dipelajari di sini:
+
+{% page-ref page="../designer-team/pandora-research-guideline.md" %}
 
 ## Fase Development / Production
 
