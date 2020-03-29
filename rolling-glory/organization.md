@@ -6,7 +6,7 @@
 
 Rolling Glory memiliki struktur organisasi matrix yang mengkombinasikan pembagian team secara fungsional dalam team-team dengan role yang sama maupun pembagian team secara berdasarkan project dan task.
 
-Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasarkan struktur organisasi matrix tersebut, pola komunikasi di Rolling Glory mengadopsi model flat organization di mana tidak ada birokrasi dan komunikasi secara langsung adalah hal yang disarankan. Rolling Glory mempunyai prinsip bahwa setiap coaster mempunyai kedudukan  dan suara yang sama dalam team, hanya berbeda di role dan responsibilities masing-masing. 
+Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasarkan struktur organisasi matrix tersebut, pola komunikasi di Rolling Glory mengadopsi model flat organization di mana tidak ada birokrasi dan komunikasi secara langsung adalah hal yang disarankan. Rolling Glory mempunyai prinsip bahwa setiap coaster mempunyai kedudukan dan suara yang sama dalam team, hanya berbeda di role dan responsibilities masing-masing. 
 
 ### Rolling Glory Structure
 
