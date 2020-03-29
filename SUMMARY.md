@@ -19,11 +19,11 @@
 ## Production & Project Management <a id="production-management"></a>
 
 * [Production Pipeline](production-management/production-pipeline.md)
+* [Research Pipeline & Guideline](production-management/pandora-research-guideline.md)
 
 ## Design Team <a id="designer-team"></a>
 
-* [Design Team Roles & Pipeline.](designer-team/design-team.md)
-* [Research Pipeline & Guideline](designer-team/pandora-research-guideline.md)
+* [Design Team Roles & Responsibilities](designer-team/design-team.md)
 * [Information Architecture](designer-team/information-architecture.md)
 * [Web Design System](designer-team/web-design-system/README.md)
   * [Desktop View Guideline](https://xd.adobe.com/view/22900b86-1b23-45c9-56fa-444616926587-54a1/?fullscreen&mv=product&mv2=accc)

@@ -4,7 +4,7 @@ description: >-
   responsibilities.
 ---
 
-# Design Team Roles & Pipeline.
+# Design Team Roles & Responsibilities
 
 ![](../.gitbook/assets/kaoswibu-11.png)
 
@@ -14,7 +14,7 @@ description: >-
 
 Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang kamu buat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
 
-{% page-ref page="pandora-research-guideline.md" %}
+{% page-ref page="../production-management/pandora-research-guideline.md" %}
 
 
 
@@ -22,7 +22,7 @@ Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari kli
 
 Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan kamu mempunyai Role lain seperti UX Designer atau UI Designer. Tugas Researcher yang utama adalah membantu Account Manager \(AM\) atau Creative Conceptor \(CC\) untuk mencari dan mengumpulkan data mengenai klien/project/product baru yang sedang dikerjakan. Output yang harus kamu buat adalah Document Findings, dalam melakukan tugasmu, kamu harus mempelajari Research Pipeline & Guideline berikut:
 
-{% page-ref page="pandora-research-guideline.md" %}
+{% page-ref page="../production-management/pandora-research-guideline.md" %}
 
 
 
