@@ -21,7 +21,7 @@
 
 ## Design Team <a id="designer-team"></a>
 
-* [Welcome to the team.](designer-team/design-team.md)
+* [Design Team Roles & Pipeline.](designer-team/design-team.md)
 * [Research Pipeline & Guideline](designer-team/pandora-research-guideline.md)
 * [Information Architecture](designer-team/information-architecture.md)
 * [UX Writing](designer-team/ux-writing.md)

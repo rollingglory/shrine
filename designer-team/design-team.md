@@ -1,17 +1,17 @@
 ---
 description: >-
-  You are now part of Design Glory. Design Team consist of several roles with
-  different responsibilities.
+  Welcome to the Team! You are now part of Design Glory. Design Team consist of
+  several roles with different responsibilities.
 ---
 
-# Welcome to the team.
+# Design Team Roles & Pipeline.
 
 ![](../.gitbook/assets/kaoswibu-11.png)
 
-## Design team Rolling Glory terdiri dari:
+## Design team Rolling Glory consist of:
 
 **1.Creative Conceptor**  
-Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif ini, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang kamu buat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
+Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang kamu buat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
 
 {% page-ref page="pandora-research-guideline.md" %}
 
@@ -25,11 +25,11 @@ Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan ka
 
 
 **3.UX Designer**  
-Halo UX, tugas dan tanggung jawab utamamu adalah membuat rancangan flow, wireframe serta prototype dari solusi yang sudah dirancang oleh Creative Conceptor. Tentunya kamu akan diajak brainstorm oleh Creative Conceptor yang sudah membawa konsep tersebut. Dalam membuat wireframe, kamu harus mempertimbangkan banyak hal, salah satunya adalah Information Architecture:
+Halo UX, tugas dan tanggung jawab utamamu adalah membuat rancangan flow, wireframe, serta prototype click-able dari solusi yang sudah dirancang oleh Creative Conceptor. Tentunya kamu akan diajak brainstorm oleh Creative Conceptor yang sudah membawa konsep tersebut. Dalam membuat wireframe, kamu harus mempertimbangkan banyak hal, salah satunya adalah Information Architecture:
 
 {% page-ref page="information-architecture.md" %}
 
-RGB juga sudah mengembangkan Design System untuk mempermudahmu ketika mengerjakan project berbasis web. Kamu bisa mempelajari dan menggunakan template \(sticker sheet\) dari Design System tersebut di sini:
+Kabar baik untukmu, RGB sudah mengembangkan Design System untuk membuatmu lebih mudah dalam mengerjakan project berbasis web. Kamu bisa mempelajari dan menggunakan template \(sticker sheet\) dari Web Design System tersebut di sini:
 
 {% page-ref page="web-design-system/" %}
 
@@ -38,7 +38,7 @@ Hal lain yang menjadi tanggung jawab UX designer adalah handover dan guiding yan
 
 
 **4.UI Designer**  
-Setelah UX designer sudah selesai membuat user flow dan wireframe. Tugas kamu sebagai UI Designer untuk membuat finalisasi desain berupa mock up dan prototype. Berikut hal yang perlu dipertimbangkan sebelum kamu mendesain.
+Halo UI Designer, tugas utama kamu di sini adalah mem-visualisasi-kan wireframe yang sudah dibuat agar terlihat indah, cantik, dan sesuai dengan kebutuhan klien \(visual identity brand ataupun persona user\). Hal yang tidak boleh kamu lewatkan adalah meminta brand book klien ataupun data findings yang sudah dibuat di fase sebelumnya. Kamu harus mempelajari dahulu brand dari klien maupun findings mengenai user agar desainmu benar-benar tepat guna. Berikut hal yang perlu dipertimbangkan sebelum kamu mendesain.
 
 {% page-ref page="ux-writing.md" %}
 
