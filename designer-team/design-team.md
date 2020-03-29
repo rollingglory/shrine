@@ -21,7 +21,7 @@ Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan ka
 {% page-ref page="pandora-research-guideline.md" %}
 
 **UX Designer**  
-Halo UX, tugas dan tanggung jawab utamamu adalah membuat rancangan flow, wireframe serta prototype dari solusi yang sudah dirancang oleh Creative Conceptor. Tentunya kamu akan diajak brainstorm dengan Creative Conceptor yang sudah membawa konsep tersebut. Tugas kamu adalah merancang user flow yang memenuhi kebutuhan klien. Beberapa hal yang biasa kami pertimbangkan sebelum memulai membuat user flow.
+Halo UX, tugas dan tanggung jawab utamamu adalah membuat rancangan flow, wireframe serta prototype dari solusi yang sudah dirancang oleh Creative Conceptor. Tentunya kamu akan diajak brainstorm dengan Creative Conceptor yang sudah membawa konsep tersebut. Dalam membuat wireframe, kamu harus mempertimbangkan banyak hal, salah satunya adalah Information Architecture Beberapa hal yang biasa kami pertimbangkan sebelum memulai membuat user flow.
 
 {% page-ref page="information-architecture.md" %}
 
