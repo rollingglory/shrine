@@ -14,7 +14,7 @@ Research Pipeline & Guideline ini dibuat untuk Account Manager \(AM\), Creative 
 
 ### **Before we start.**
 
-Guideline ini diciptakan untuk mempermudahmu dalam menentukan apa saja langkah yang harus kamu lakukan ketika membuat Dokumen Solusi \(a.k.a menge-deal-kan sebuah project\). Harus berangkat dari mana, data apa yang harus ada/dicari, dan apa saja yang harus dipresent ke klien. Selain untuk keperluan Project \(Pandora\), Guideline ini juga bisa kamu gunakan setiap kali hendak membuat sebuah product baru.
+Pipeline & Guideline ini diciptakan untuk mempermudahmu dalam menentukan apa saja langkah yang harus kamu lakukan ketika membuat Dokumen Solusi \(a.k.a menge-deal-kan sebuah project\). Harus berangkat dari mana, data apa yang harus ada/dicari, dan apa saja yang harus dipresent ke klien. Selain untuk keperluan Project \(Pandora\), Guideline ini juga bisa kamu gunakan setiap kali hendak membuat sebuah product baru.
 
 
 
