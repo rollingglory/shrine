@@ -12,8 +12,9 @@
 ## Onboarding
 
 * [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
-* [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [Designer Onboarding](onboarding/designer-onboarding.md)
+* [Engineer Onboarding](onboarding/engineer-onboarding.md)
+* [QA Tester Onboarding](onboarding/qa-tester-onboarding.md)
 
 ## Production & Project Management <a id="production-management"></a>
 
@@ -47,6 +48,7 @@
 * [JSON API Specification](engineering-team/json-api-specification.md)
 * [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
+* [QA Team Guideline](https://docs.google.com/document/d/1pF_EVTSsvI-d_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
 
 ## Work From Home
 

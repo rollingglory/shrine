@@ -40,6 +40,10 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 {% page-ref page="designer-onboarding.md" %}
 
+### QA Tester
+
+{% page-ref page="qa-tester-onboarding.md" %}
+
 
 
 
