@@ -15,7 +15,7 @@ Guideline ini diciptakan untuk mempermudahmu dalam menentukan apa saja langkah y
 **The Fundamentals.**  
 Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rolling Glory sangat beraneka ragam, dengan permasalahan dan kebutuhan yang beraneka ragam pula. Dalam dokumen ini RGB membagi jenis-jenis klien berdasarkan kategorinya, dan setiap kategori klien bisa dijawab menggunakan tahapan solusi yang sesuai.
 
-\*\*\*\*[**Pandora Research Guideline Document**](https://xd.adobe.com/view/d421d84c-15e8-422b-4adb-610c90e61942-a210/)**.  
+\*\*\*\*[**Research Pipeline & Guideline Document**](https://xd.adobe.com/view/d421d84c-15e8-422b-4adb-610c90e61942-a210/)**.  
   
 Do Your Research**  
 Nah sudah dapat gambaran secara umum mengenai proses pandora? Sekarang kamu bisa memulai melakukan riset. Ketahuilah bahwa tugas kamu adalah mempunyai insight dari bisnis klien, teknologi terkini dan user behaviour. Karena itu, ajaklah Account Manager dan UX Designer kamu untuk berdiskusi. Tidak menutup kemungkinan untuk mengajak diskusi Tech Lead atau Engineer yang mempunyai expertise terkait. Untuk bacaan lengkap mengenai riset kamu bisa lihat di link berikut ya, [**Research Method**](https://drive.google.com/drive/folders/1S_vNfjITPgNk6o7NtMWJVLkbXLNLNl63?usp=sharing).
