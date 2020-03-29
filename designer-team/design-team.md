@@ -16,7 +16,7 @@ Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari kli
 {% page-ref page="pandora-research-guideline.md" %}
 
 **Researcher**  
-Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan kamu mempunyai Role lain seperti UX Designer atau UI Designer. Tugas Researcher yang utama adalah membantu Account Manager \(AM\) atau Creative Conceptor \(CC\) untuk 
+Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan kamu mempunyai Role lain seperti UX Designer atau UI Designer. Tugas Researcher yang utama adalah membantu Account Manager \(AM\) atau Creative Conceptor \(CC\) untuk mencari dan mengumpulkan data mengenai klien/project/product baru yang sedang dikerjakan. Output yang harus kamu buat adalah Document Findings, dalam melakukan tugasmu, kamu harus mempelajari Research Pipeline & Guideline berikut:
 
 **UX Designer**  
 Kamu akan diajak brainstorm dengan Creative Conceptor yang sudah membawa konsep tertentu. Tugas kamu adalah merancang user flow yang memenuhi kebutuhan klien. Beberapa hal yang biasa kami pertimbangkan sebelum memulai membuat user flow.
