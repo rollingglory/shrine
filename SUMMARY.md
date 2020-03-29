@@ -14,6 +14,7 @@
 * [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
 * [Designer Onboarding](onboarding/designer-onboarding.md)
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
+* [QA Onboarding](onboarding/qa-onboarding.md)
 * [QA Tester Onboarding](onboarding/qa-tester-onboarding.md)
 
 ## Production & Project Management <a id="production-management"></a>
