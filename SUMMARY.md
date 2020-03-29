@@ -22,7 +22,7 @@
 ## Design Team <a id="designer-team"></a>
 
 * [Welcome to the team.](designer-team/design-team.md)
-* [Pandora Research Guideline](designer-team/pandora-research-guideline.md)
+* [Product/Project Research Pipeline & Guideline](designer-team/pandora-research-guideline.md)
 * [Information Architecture](designer-team/information-architecture.md)
 * [UX Writing](designer-team/ux-writing.md)
 * [Design Audit](designer-team/design-audit.md)

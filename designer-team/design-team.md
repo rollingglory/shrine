@@ -1,15 +1,17 @@
 ---
-description: You are now part of Design Glory.
+description: >-
+  You are now part of Design Glory. Design Team consist of several roles with
+  different responsibilities.
 ---
 
 # Welcome to the team.
 
 ![](../.gitbook/assets/kaoswibu-11.png)
 
-## Design team Rolling Glory sejauh ini menaungi:
+## Design team Rolling Glory terdiri dari:
 
 **Creative Conceptor**  
-Kamu adalah orang pertama yang akan menerima brief dari klien. Bersama dengan Account Manager, kamu akan merumuskan solusi kreatif apa yang akan ditawarkan kepada klien. Berikut ini dokumen yang biasa CC kami buat untuk kebutuhan pitching/solusi untuk klien.
+Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif ini, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang dibuat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
 
 {% page-ref page="pandora-research-guideline.md" %}
 
