@@ -16,3 +16,11 @@ Tim desain sering kali bertukar pikiran dalam sebuah wadah bernama designer talk
   
 Kami juga mendukung setiap coaster di tim desain untuk belajar hal baru. Perusahaan akan support jika coaster ingin mengikuti workshop, seminar atau short class yang bisa menambah skill dan knowledge desain mereka. Tentunya dengan satu syarat, setelah selesai mengikuti workshop, coaster tersebut wajib membagikan ilmu barunya pada coasters lainnya dalam sebuah sesi khusus designer talk.
 
+## Roles in Design Team 
+
+Design team terdiri dari roles yang cukup beragam, dan dengan tanggung jawab yang berbeda-beda. Pelajari masing-masing roles tersebut di sini:
+
+{% page-ref page="../designer-team/design-team.md" %}
+
+
+
