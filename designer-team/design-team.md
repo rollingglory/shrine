@@ -70,7 +70,7 @@ Pada prosesnya, kamu akan banyak berkolaborasi dengan Creative Conceptor dan jug
 
 ### **6.Copy/UX Writer**
 
-Halo UX Writer! Tugas utamamu di sini adalah untuk memastikan \(dan membuat\) konten-konten teks yang akan dibaca oleh user sudah sesuai dengan brief dari klien dan sesuai dengan user persona yang ada. 
+Halo UX Writer! Tugas utamamu di sini adalah untuk memastikan \(dan membuat\) konten-konten teks di dalam website/game/mobile app yang akan dibaca oleh user sudah sesuai dengan brief dari klien dan sesuai dengan user persona yang ada. Berikut guideline dan knowledge yang bisa membantumu dalam mengerjakan tugas-tugasmu:
 
 {% page-ref page="ux-writing.md" %}
 
