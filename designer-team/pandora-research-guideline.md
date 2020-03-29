@@ -4,7 +4,7 @@ description: >-
   (develop) suatu project ataupun product.
 ---
 
-# Product/Project Research Pipeline & Guideline
+# Research Pipeline & Guideline
 
 **Untuk Siapa Dokumen ini?**  
 Research Pipeline & Guideline ini dibuat untuk Account Manager \(AM\), Creative Conceptor \(CC\), Researcher, dan UX designer. Bila kamu adalah salah satu dari role diatas, maka kamu harus mempelajari dokumen di bawah ini.

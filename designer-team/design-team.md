@@ -11,9 +11,12 @@ description: >-
 ## Design team Rolling Glory terdiri dari:
 
 **Creative Conceptor**  
-Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif ini, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang dibuat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
+Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif ini, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang kamu buat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
 
 {% page-ref page="pandora-research-guideline.md" %}
+
+**Researcher**  
+Halo Researcher! Di RGB belum ada role murni Researcher, jadi bisa dipastikan kamu mempunyai Role lain seperti UX Designer atau UI Designer. Tugas Researcher yang utama adalah membantu Account Manager \(AM\) atau Creative Conceptor \(CC\) untuk 
 
 **UX Designer**  
 Kamu akan diajak brainstorm dengan Creative Conceptor yang sudah membawa konsep tertentu. Tugas kamu adalah merancang user flow yang memenuhi kebutuhan klien. Beberapa hal yang biasa kami pertimbangkan sebelum memulai membuat user flow.
