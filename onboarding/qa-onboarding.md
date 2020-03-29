@@ -8,7 +8,7 @@ Tidak berbeda dengan Value RGB,  kita mengaplikasikan value yang sama seperti ya
 
 ## General Briefing
 
-Goal dari tim QA di RGB adalah memastikan project/product yang dikerjakan oleh tim development sudah pada kualitas **TERBAIK**.
+Goal dari tim QA \(Quality Assurance\) di RGB adalah memastikan project/product yang dikerjakan oleh tim development sudah pada kualitas **TERBAIK**.
 
 Tim QA mempunyai tanggung jawab untuk melakukan testing dan pengecekan project/product secara menyeluruh sesuai dengan desain dan kebutuhan yang sudah disepakati. Pengecekan yang dilakukan meliputi
 
