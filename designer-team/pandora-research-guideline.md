@@ -13,7 +13,7 @@ Research Pipeline & Guideline ini dibuat untuk Account Manager \(AM\), Creative 
 Guideline ini diciptakan untuk mempermudahmu dalam menentukan apa saja langkah yang harus kamu lakukan ketika membuat Dokumen Solusi \(a.k.a menge-deal-kan sebuah project\). Harus berangkat dari mana, data apa yang harus ada/dicari, dan apa saja yang harus dipresent ke klien. Selain untuk keperluan Project \(Pandora\), Guideline ini juga bisa kamu gunakan setiap kali hendak membuat sebuah product baru.
 
 **The Fundamentals.**  
-Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rolling Glory sangat beraneka ragam, dengan permasalahan dan kebutuhan yang beraneka ragam pula. Dalam dokumen ini RGB membagi jenis-jenis klien berdasarkan kategorinya, dan setiap kategori klien bisa dijawab menggunakan tahapan solusi yang sesuai. Kamu bisa mempelajarinya secara lebih lengkap di dokumen berikut:
+Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rolling Glory sangat beraneka ragam, dengan permasalahan dan kebutuhan yang beraneka ragam pula. Dalam dokumen ini, RGB membagi jenis-jenis klien berdasarkan kategorinya, dan setiap kategori klien bisa dijawab menggunakan tahapan solusi yang sesuai. Kamu bisa mempelajarinya secara lebih lengkap di dokumen berikut:
 
 \*\*\*\*[**Research Pipeline & Guideline Document**](https://xd.adobe.com/view/d421d84c-15e8-422b-4adb-610c90e61942-a210/)**.  
   

@@ -40,6 +40,8 @@ Hal lain yang menjadi tanggung jawab UX designer adalah handover dan guiding yan
 **4.UI Designer**  
 Halo UI Designer, tugas utama kamu di sini adalah mem-visualisasi-kan wireframe yang sudah dibuat agar terlihat indah, cantik, dan sesuai dengan kebutuhan klien \(visual identity brand ataupun persona user\). Hal yang tidak boleh kamu lewatkan adalah meminta brand book klien ataupun data findings yang sudah dibuat di fase sebelumnya. Kamu harus mempelajari dahulu brand dari klien maupun findings mengenai user agar desainmu benar-benar tepat guna. Berikut hal yang perlu dipertimbangkan sebelum kamu mendesain.
 
+Hal lain yang menjadi tanggung jawab UI designer adalah kolaborasi, handover, dan guiding yang tepat & lengkap untuk Developer. Kenapa? karna output pekerjaanmu akan dilanjutkan oleh Developer, sehingga kamu harus berkomunikasi dan memberikan panduan yang lengkap dan jelas kepada Developer. Ada waktunya kamu harus merubah Desain-mu karna keterbatasan teknis/development, itu adalah hal yang wajar dan biasa terjadi. Jangan lupa selalu ajak diskusi developer terkait mengenai kendala-kendala yang kamu temui, dengan komunikasi yang baik, semua akan berjalan dengan baik. Berikut adalah panduan guide/spek yang perlu kamu berikan untuk developer:
+
 {% page-ref page="ux-writing.md" %}
 
 {% page-ref page="design-audit.md" %}
