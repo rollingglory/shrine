@@ -22,8 +22,7 @@ Selain misi, visi, dan values, Rolling Glory juga mempunyai prinsip dalam kualit
 
 Setelah meresapi misi, visi, dan values, berikut adalah beberapa hal tentang struktur organisasi dan production pipeline di Rolling Glory: 
 
-* TODO link to Organization Structure
-* TODO link to Production Pipeline
+{% page-ref page="../rolling-glory/organization.md" %}
 
 ## Sudah Kak, secara general sudah kebayang, lalu apalagi?
 
