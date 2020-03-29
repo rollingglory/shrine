@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/kaoswibu-11.png)
 
-## Design team Rolling Glory consist of:
+## Design team Roles & Responsibilities:
 
 **1.Creative Conceptor**  
 Creative Conceptor \(CC\) adalah orang pertama yang akan menerima brief dari klien \(atau dari Account Manager\). Bersama dengan Account Manager, kamu bertanggung jawab dalam memberikan solusi kreatif untuk menjawab kebutuhan klien. Dalam merumuskan solusi kreatif, ada tahapan-tahapan yang harus kamu lakukan agar solusi yang kamu buat benar-benar tepat sasaran. Berikut dokumen yang harus kamu pelajari dan jadikan panduan dalam membuat solusi kreatif:
@@ -38,7 +38,11 @@ Hal lain yang menjadi tanggung jawab UX designer adalah handover dan guiding yan
 
 
 **4.UI Designer**  
-Halo UI Designer, tugas utama kamu di sini adalah mem-visualisasi-kan wireframe yang sudah dibuat agar terlihat indah, cantik, dan sesuai dengan kebutuhan klien \(visual identity brand ataupun persona user\). Hal yang tidak boleh kamu lewatkan adalah meminta brand book klien ataupun data findings yang sudah dibuat di fase sebelumnya. Kamu harus mempelajari dahulu brand dari klien maupun findings mengenai user agar desainmu benar-benar tepat guna. Berikut hal yang perlu dipertimbangkan sebelum kamu mendesain.
+Halo UI Designer, tugas utama kamu di sini adalah mem-visualisasi-kan wireframe yang sudah dibuat agar terlihat indah, cantik, dan sesuai dengan kebutuhan klien \(visual identity brand ataupun persona user\). Hal yang tidak boleh kamu lewatkan adalah meminta brand book klien ataupun data findings yang sudah dibuat di fase sebelumnya. Kamu harus mempelajari dahulu brand dari klien maupun findings mengenai user agar desainmu benar-benar tepat guna. 
+
+Kabar baik bila kamu sedang mengerjakan web based project, karena RGB sudah membuat Web Design System untuk memudahkanmu dalam bekerja. Kamu harus mempelajari Design System tersebut di sini:
+
+{% page-ref page="web-design-system/" %}
 
 Hal lain yang menjadi tanggung jawab UI designer adalah kolaborasi, handover, dan guiding yang tepat & lengkap untuk Developer. Kenapa? karna output pekerjaanmu akan dilanjutkan oleh Developer, sehingga kamu harus berkomunikasi dan memberikan panduan yang lengkap dan jelas kepada Developer. Ada waktunya kamu harus merubah Desain-mu karna keterbatasan teknis/development, itu adalah hal yang wajar dan biasa terjadi. Jangan lupa selalu ajak diskusi developer terkait mengenai kendala-kendala yang kamu temui, dengan komunikasi yang baik, semua akan berjalan dengan baik. Berikut adalah panduan guide/spek yang perlu kamu berikan untuk developer:
 

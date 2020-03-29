@@ -15,10 +15,19 @@ Guideline ini diciptakan untuk mempermudahmu dalam menentukan apa saja langkah y
 **The Fundamentals.**  
 Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rolling Glory sangat beraneka ragam, dengan permasalahan dan kebutuhan yang beraneka ragam pula. Dalam dokumen ini, RGB membagi jenis-jenis klien berdasarkan kategorinya, dan setiap kategori klien bisa dijawab menggunakan tahapan solusi yang sesuai. Kamu bisa mempelajarinya secara lebih lengkap di dokumen berikut:
 
-\*\*\*\*[**Research Pipeline & Guideline Document**](https://xd.adobe.com/view/d421d84c-15e8-422b-4adb-610c90e61942-a210/)**.  
-  
-The Output**  
+\*\*\*\*[**Research Pipeline & Guideline Document**](https://xd.adobe.com/view/d421d84c-15e8-422b-4adb-610c90e61942-a210/)**.**  
+
+
+Bila dalam pekerjaanmu kali ini kamu membutuhkan Design Audit, berikut guideline yang bisa membantumu:
+
+{% page-ref page="design-audit.md" %}
+
+
+
+**The Output**  
 Nah sudah dapat gambaran secara umum mengenai proses di atas? Sekarang kamu bisa memulai melakukan riset. Secara garis besar tugas kamu adalah mendapatkan insight dari bisnis klien, market, user, competitor, benchmark reference, dan teknologi terkini. Karena itu, ajaklah Account Manager, UX Designer, Tech Lead, atau siapapun yang bisa membantumu mendapatkan insight. Pada akhirnya kamu harus mendokumentasikan penemuanmu dalam sebuah dokumen yang kita sebut Document Solution/Recommendation atau Document Findings. Berikut contoh-contoh Document Solution dan Document Findings yang pernah dibuat oleh RGB: 
+
+link Document solution
 
 **Reference & Knowledge terkait**  
 Untuk tambahan knowledge mengenai research, bisa kamu lihat di link berikut ya  [**Research Method**](https://drive.google.com/drive/folders/1S_vNfjITPgNk6o7NtMWJVLkbXLNLNl63?usp=sharing).
