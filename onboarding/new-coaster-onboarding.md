@@ -2,6 +2,8 @@
 
 Banyak sekali hal-hal yang lebih baik kamu ketahui tentang Rolling Glory sebagai seorang Coaster. Mulai dari hal-hal remeh-temeh sehari-hari, _guideline policy_, _design system_, _code convention_, _team culture_, hingga filosofi dari berbagai macam hal di Rolling Glory.
 
+![](../.gitbook/assets/masterdesign-70.png)
+
 ## Baik, jadi dari mana Kak saya harus memulai?
 
 ### Misi, Visi, Values, dan Forte

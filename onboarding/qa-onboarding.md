@@ -1,6 +1,6 @@
 # QA Onboarding
 
-![](../.gitbook/assets/qa-04.png)
+![](../.gitbook/assets/masterdesign-71.png)
 
 ## Values in QA Team
 
