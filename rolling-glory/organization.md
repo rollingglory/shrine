@@ -16,11 +16,11 @@ Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasark
 
 ### Leader-Manager System
 
-Berdasarkan model matrix yang, tiap coaster akan tergabung dalam sebuah team fungsional \(team PM, engineering, designer, operasional, dkk\) dengan lead masing-masing, dan akan tergabung dalam satu atau lebih team project / task.
+Berdasarkan model organization matrix, tiap coaster akan tergabung dalam sebuah team fungsional \(team PM, engineering, designer, operasional, dkk\) dengan Team Lead masing-masing, dan akan tergabung dalam satu atau lebih team project / task.
 
-Dalam setiap team fungsional/roles, akan ada seorang Lead yang memimpin. Lead ini merupakan bagian dari first management level yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam teamnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis project, ilmu-ilmu terbaru, atau bahkan personal issue dengan lead masing-masing.
+Dalam setiap team fungsional/roles, akan ada seorang Team Lead yang memimpin. Team Lead ini merupakan bagian dari _first management level_ yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam teamnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis project, ilmu-ilmu terbaru, atau bahkan personal issue dengan lead masing-masing.
 
-Dalam pengerjaan task sehari-hari, coaster akan mempunyai seorang manager/direct report yang akan memberikan task dan memanajemen pengerjaan task tersebut. Dalam team project, direct reportnya adalah seorang Project Manager, sedangkan dalam task-task yang di luar project, yang menjadi direct reportnya adalah manager dari team-team yang bersangkutan \(misal direct report HR Officer adalah HR Manager, dkk\).
+Dalam pengerjaan task sehari-hari, coaster akan mempunyai seorang manager/direct report yang akan memberikan task dan memanajemen pengerjaan task tersebut. Dalam sebuah team project, direct reportnya adalah seorang Project Manager, sedangkan dalam task-task yang di luar project, yang menjadi direct reportnya adalah manager dari team-team yang bersangkutan \(misal direct report HR Officer adalah HR Manager, dkk\).
 
 ### Cohesive Coherence 2020 \(CoCo 2020\)
 
@@ -44,6 +44,8 @@ Pola pikir dalam CoCo 2020 adalah setiap elemen di studio Rolling Glory adalah _
 
 ### Project Team
 
+#### Business Analyst
+
 #### Designer
 
 #### Developer
@@ -57,4 +59,6 @@ Pola pikir dalam CoCo 2020 adalah setiap elemen di studio Rolling Glory adalah _
 #### HR Officer
 
 ### Finance Team
+
+#### Finance Administrator
 
