@@ -1,4 +1,4 @@
-# Misi & Visi
+# Mission & Vision
 
 ## Misi Rolling Glory 
 

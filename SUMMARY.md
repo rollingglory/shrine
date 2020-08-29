@@ -2,12 +2,18 @@
 
 * [Welcome to Rolling Shrine](README.md)
 
-## Rolling Glory
+## RGB Principles <a id="rolling-glory"></a>
 
-* [Misi & Visi](rolling-glory/misi-and-visi.md)
+* [Principles](rolling-glory/principles.md)
+* [Mission & Vision](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
 * [Forte](rolling-glory/forte.md)
-* [Organization](rolling-glory/organization.md)
+* [Spirit](rolling-glory/spirit.md)
+
+## Organization
+
+* [Organization Structure](organization/organization.md)
+* [Roles](organization/roles.md)
 
 ## Onboarding
 

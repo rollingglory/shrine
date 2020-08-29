@@ -24,7 +24,7 @@ Selain misi, visi, dan values, Rolling Glory juga mempunyai prinsip dalam kualit
 
 Setelah meresapi misi, visi, dan values, berikut adalah beberapa hal tentang struktur organisasi, filosofi maupun implementasinya:
 
-{% page-ref page="../rolling-glory/organization.md" %}
+{% page-ref page="../organization/organization.md" %}
 
 #### Production Pipeline
 
