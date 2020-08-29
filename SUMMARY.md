@@ -45,6 +45,7 @@
 
 ## Engineering Team
 
+* [Software Testing](engineering-team/software-testing.md)
 * [Git Best Practice](engineering-team/git-best-practice-1/README.md)
   * [Git Commit Best Practice](engineering-team/git-best-practice-1/git-best-practice.md)
 * [Coding Convention](engineering-team/coding-convention/README.md)
