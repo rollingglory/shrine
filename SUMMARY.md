@@ -16,6 +16,8 @@
 
 * [Organization Structure](organization/organization.md)
 * [Roles](organization/roles.md)
+* [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
+  * [Engineer](organization/accountabilities-responsibilities/engineer.md)
 
 ## Onboarding
 
