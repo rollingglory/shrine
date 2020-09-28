@@ -6,23 +6,15 @@ Banyak sekali hal-hal yang lebih baik kamu ketahui tentang Rolling Glory sebagai
 
 ## Baik, jadi dari mana Kak saya harus memulai?
 
-### Misi, Visi, Values, dan Forte
+### Glory Principles
 
-Misi, visi, dan values Rolling Glory adalah awal yang baik untuk memulai, semuanya adalah fundamental yang melandasi kehidupan seluruh coaster di Rolling Glory.
+Rolling Glory memiliki prinsip-prinsip yang dipegang teguh dan selalu berusaha untuk diamalkan setiap saat dalam kehidupan dalam studio, secara profesional maupun personal.
 
-Silakan dibaca, diresapi, dan harapannya seluruh coaster bisa **menjalankan** **misi**, **mencapai** **visi**, sembari **mengamalkan** **values** dari Rolling Glory.
-
-{% page-ref page="../rolling-glory/misi-and-visi.md" %}
-
-{% page-ref page="../rolling-glory/values.md" %}
-
-Selain misi, visi, dan values, Rolling Glory juga mempunyai prinsip dalam kualitas dari product yang dihasilkan, prinsip tersebut tertuang dalam Forte:
-
-{% page-ref page="../rolling-glory/forte.md" %}
+Principles ini terdiri dari **Mission & Vision**, **Values**, **Forte**, dan **Spirit**. Tentunya Rolling Glory tidak ingin prinsip-prinsip tersebut hanya menjadi jargon semata, oleh karena itu, ada section juga yang memuat contoh-contoh pengamalan dalam kehidupan sehari-hari juga.
 
 ### Organization Structure
 
-Setelah meresapi misi, visi, dan values, berikut adalah beberapa hal tentang struktur organisasi, filosofi maupun implementasinya:
+Setelah meresapi Glory Principles, berikut adalah beberapa hal tentang struktur organisasi, filosofi maupun implementasinya:
 
 {% page-ref page="../organization/organization.md" %}
 
@@ -33,6 +25,10 @@ Setelah meresapi misi, visi, dan values, berikut adalah beberapa hal tentang str
 ## Sudah Kak, secara general sudah kebayang, lalu apalagi?
 
 Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
+
+### Project Manager
+
+{% page-ref page="project-manager-onboarding.md" %}
 
 ### Engineer
 

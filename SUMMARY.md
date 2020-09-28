@@ -23,6 +23,7 @@
 ## Onboarding
 
 * [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
+* [Project Manager Onboarding](onboarding/project-manager-onboarding.md)
 * [Designer Onboarding](onboarding/designer-onboarding.md)
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [QA Onboarding](onboarding/qa-onboarding.md)
