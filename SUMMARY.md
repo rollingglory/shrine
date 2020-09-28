@@ -4,11 +4,13 @@
 
 ## RGB Principles <a id="rolling-glory"></a>
 
-* [Principles](rolling-glory/principles.md)
+* [Glory Principles](rolling-glory/principles.md)
 * [Mission & Vision](rolling-glory/misi-and-visi.md)
 * [Values](rolling-glory/values.md)
 * [Forte](rolling-glory/forte.md)
 * [Spirit](rolling-glory/spirit.md)
+* [Coaster Traits](rolling-glory/coaster-traits.md)
+* [Glory Principles in Daily Practices](rolling-glory/glory-principles-in-daily-practices.md)
 
 ## Organization
 
