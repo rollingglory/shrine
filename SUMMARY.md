@@ -18,6 +18,7 @@
 * [Roles](organization/roles.md)
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
+  * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
 
 ## Onboarding
 

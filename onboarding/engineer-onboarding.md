@@ -8,6 +8,16 @@
 
 Tim engineering di Rolling Glory pun tentu saja juga menerapkan nilai-nilai Kindness & Care, Opennes, dan Mutual Trust. 
 
+## Accountabilities & Responsibilities
+
+Apakah yang ekspektasi Rolling Glory pada seorang coaster engineer? Semuanya tertuliskan di link Engineer Accountabilities & Responsibilities berikut:
+
+{% page-ref page="../organization/accountabilities-responsibilities/engineer.md" %}
+
+Jika kamu seorang Tech Lead, baca ini juga:
+
+{% page-ref page="../organization/accountabilities-responsibilities/tech-lead.md" %}
+
 ## Convention as a Culture
 
 Secara umum, salah satu _team culture_ dari tim engineering Rolling Glory adalah _convention_ / kesepakatan dan keseragaman dalam _coding,_ dimulai dari _best practice_, _coding style, IDE, framework / library_ yang dipakai, hingga hal-hal lain seperti API format. _Convention_ diberlakukan dengan tujuan untuk __ menyeragamkan banyaknya engineer dalam team maupun project yang dikerjakan dalam Rolling Glory. 
