@@ -1,6 +1,6 @@
 # Project Manager
 
-### What does the PM do at RGB?
+### What do Project Managers do at RGB?
 
 Project Manager is the center figure of the project which means you are not only expected to do administrative PM tasks e.g. creating timeline, progress report, etc. Instead, you are also responsible to directing the team to achieve the project goals, finding solution, and take care of the team not only as a project resource but ultimately as a person :\). 
 
