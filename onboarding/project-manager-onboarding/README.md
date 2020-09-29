@@ -8,5 +8,9 @@ Our team proudly believe and implement core values of Rolling Glory such as[ **K
 
 ### Accountabilities & Responsibilities
 
-Let's explore about your responsibilities and accountabilities as a project manager.
+Let's explore about your responsibilities and accountabilities as a Project Manager.
+
+{% page-ref page="project-manager.md" %}
+
+If you are a Project Manager Lead, check this out.
 
