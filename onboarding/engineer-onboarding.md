@@ -10,7 +10,7 @@ Tim engineering di Rolling Glory pun tentu saja juga menerapkan nilai-nilai Kind
 
 ## Accountabilities & Responsibilities
 
-Apakah yang ekspektasi Rolling Glory pada seorang coaster engineer? Semuanya tertuliskan di link Engineer Accountabilities & Responsibilities berikut:
+Apakah ekspektasi Rolling Glory pada seorang coaster engineer? Semuanya tertuliskan di link Engineer Accountabilities & Responsibilities berikut:
 
 {% page-ref page="../organization/accountabilities-responsibilities/engineer.md" %}
 
