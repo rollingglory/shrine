@@ -190,19 +190,17 @@ How will your days as a project manager look like? Check this out.
         </p>
         <ul>
           <li>Timeline</li>
-          <li>Business Requirement Design</li>
+          <li>Requirement Specification Document (if your team got an Business Analyst,
+            then he/she will do this document)</li>
           <li>User Story/Proofhub Ticket</li>
           <li>Internal Weekly Report</li>
           <li>External Weekly Report (for the clients)</li>
           <li>Meeting of Minutes</li>
           <li>Release Log</li>
           <li>Feedback Log (from client)</li>
-          <li>Requirement Specification Document (if you are acting as a BA as well)</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
-
 
