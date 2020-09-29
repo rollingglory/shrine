@@ -28,7 +28,7 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 ### Project Manager
 
-{% page-ref page="project-manager-onboarding/" %}
+{% page-ref page="project-manager-onboarding.md" %}
 
 ### Engineer
 

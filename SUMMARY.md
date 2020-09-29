@@ -19,13 +19,13 @@
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
+  * [Project Manager](organization/accountabilities-responsibilities/project-manager.md)
+  * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
 
 ## Onboarding
 
 * [New Coaster Onboarding](onboarding/new-coaster-onboarding.md)
-* [Project Manager Onboarding](onboarding/project-manager-onboarding/README.md)
-  * [Project Manager Lead](onboarding/project-manager-onboarding/project-manager-lead.md)
-  * [Project Manager](onboarding/project-manager-onboarding/project-manager.md)
+* [Project Manager Onboarding](onboarding/project-manager-onboarding.md)
 * [Designer Onboarding](onboarding/designer-onboarding.md)
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [QA Onboarding](onboarding/qa-onboarding.md)
