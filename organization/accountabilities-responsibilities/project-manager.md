@@ -9,6 +9,24 @@ In short, there are 2 main tasks:
 1. **Keeps our backlog organized**.  Being organized means the backlog must be clearly defined, regularly updated, correctly prioritized, and delivered on time within the correct priority order. 
 2. **Shield the team from unnecessary distractions** as possible so they can focus on their own task.
 
+### Accountabilities
+
+We believe in you, hence we got a few of expected abilities from you as follows.
+
+|  | Accountability |
+| :--- | :--- |
+| 1. | Able to comprehend, dig the requirement detail as needed, and define a clear scope of project to the team members. |
+| 2. | Able to create a comprehensive timeline by breaking down the task, discuss with team members to provide man-days estimation for each task, analyze dependencies, and allocate buffers wisely. |
+| 3. | Able to act as the filter between external/client and internal team. Thus, when giving an assignment to your team members, you have to be able to elaborate on why, how, and when the task should be done. |
+| 4. | Always check the difficulty of the task to your team member. In this aspect, you better be able to put yourself in their shoes to practice empathy. |
+| 5. | Make sure the task is well documented as stored in the project management system, given a clear deadline and assigned to the respective team member. |
+| 6. | Able to set clear priority for each task based on business or technical impact |
+| 7. | Able constantly tracking progress of each team member \(by project management tool and daily/weekly meeting\) to enforce smooth and on time delivery within the correct priority order |
+| 8. | Able to escalate issues/enquiries to respective upper managers as necessary. |
+| 9. | Able to maintain a smooth relationship with clients, external partners, and team members. |
+| 10 | Ensure the deliverable has premium quality by efficiently managing the testing process done by QA and by yourself. |
+| 11. | Able to create and maintain comprehensive project documentation and make sure it’s updated as needed. |
+
 ### Responsibilities and Day to Day Detail
 
 How will your days as a project manager look like? Check this out. 
@@ -185,24 +203,6 @@ How will your days as a project manager look like? Check this out.
     </tr>
   </tbody>
 </table>
-
-### Accountabilities
-
-We believe in you, hence we got a few of expected abilities from you as follows.
-
-|  | Accountability |
-| :--- | :--- |
-| 1. | Able to comprehend, dig the requirement detail as needed, and define a clear scope of project to the team members. |
-| 2. | Able to create a comprehensive timeline by breaking down the task, discuss with team members to provide man-days estimation for each task, analyze dependencies, and allocate buffers wisely. |
-| 3. | Able to act as the filter between external/client and internal team. Thus, when giving an assignment to your team members, you have to be able to elaborate on why, how, and when the task should be done. |
-| 4. | Always check the difficulty of the task to your team member. In this aspect, you better be able to put yourself in their shoes to practice empathy. |
-| 5. | Make sure the task is well documented as stored in the project management system, given a clear deadline and assigned to the respective team member. |
-| 6. | Able to set clear priority for each task based on business or technical impact |
-| 7. | Able constantly tracking progress of each team member \(by project management tool and daily/weekly meeting\) to enforce smooth and on time delivery within the correct priority order |
-| 8. | Able to escalate issues/enquiries to respective upper managers as necessary. |
-| 9. | Able to maintain a smooth relationship with clients, external partners, and team members. |
-| 10 | Ensure the deliverable has premium quality by efficiently managing the testing process done by QA and by yourself. |
-| 11. | Able to create and maintain comprehensive project documentation and make sure it’s updated as needed. |
 
 
 
