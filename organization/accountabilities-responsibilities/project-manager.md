@@ -9,6 +9,8 @@ In short, there are 2 main tasks:
 1. **Keeps our backlog organized**.  Being organized means the backlog must be clearly defined, regularly updated, correctly prioritized, and delivered on time within the correct priority order. 
 2. **Shield the team from unnecessary distractions** as possible so they can focus on their own task.
 
+
+
 ### Accountabilities
 
 We believe in you, hence we got a few of expected abilities from you as follows.
@@ -26,6 +28,8 @@ We believe in you, hence we got a few of expected abilities from you as follows.
 | 9. | Able to maintain a smooth relationship with clients, external partners, and team members. |
 | 10 | Ensure the deliverable has premium quality by efficiently managing the testing process done by QA and by yourself. |
 | 11. | Able to create and maintain comprehensive project documentation and make sure it’s updated as needed. |
+
+### 
 
 ### Responsibilities and Day to Day Detail
 
