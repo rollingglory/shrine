@@ -17,6 +17,7 @@
 * [Organization Structure](organization/organization.md)
 * [Roles](organization/roles.md)
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
+  * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
   * [Project Manager](organization/accountabilities-responsibilities/project-manager.md)
