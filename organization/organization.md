@@ -14,7 +14,7 @@ Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasark
 
 ### Leader-Manager System
 
-Berdasarkan model organization matrix, tiap coaster akan tergabung dalam sebuah team fungsional \(team PM, engineering, designer, operasional, dkk\) dengan Team Lead masing-masing, dan akan tergabung dalam satu atau lebih team project / task.
+Berdasarkan model organization matrix, tiap coaster akan tergabung dalam sebuah team fungsional \(team PM, engineering, designer, operasional, dkk\) dengan [Team Leader](accountabilities-responsibilities/team-leader.md) masing-masing, dan akan tergabung dalam satu atau lebih team project / task.
 
 Dalam setiap team fungsional/roles, akan ada seorang Team Lead yang memimpin. Team Lead ini merupakan bagian dari _first management level_ yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam teamnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis project, ilmu-ilmu terbaru, atau bahkan personal issue dengan lead masing-masing.
 
