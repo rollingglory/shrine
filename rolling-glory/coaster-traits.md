@@ -33,7 +33,7 @@ Dengan mengamalkan Glory Principles dalam kehidupan sehari-hari di Rolling Glory
 * **Business Solution -** _crystal solution_
 * **Modest User Experience -** _crystal solution_
 * **Dazzling Visual -** _crystal solution_
-* **Convenient Teknologi -** _crystal solution_
+* **Convenient Technology -** _crystal solution_
 * **Build for future -** _forte_
 * **Continuous improvement -** _spirit_
 

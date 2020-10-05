@@ -2,7 +2,7 @@
 
 ### Accountability
 
-Dalam setiap team fungsional/roles di Rolling Glory, akan ada seorang Team Leader yang memimpin. Team Lead ini merupakan bagian dari first management level yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam timnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis dan pengerjaan project, ilmu-ilmu terbaru, atau bahkan personal issue dengan team lead masing-masing.
+Dalam setiap team fungsional/roles di Rolling Glory, akan ada seorang Team Leader yang memimpin. Team Lead ini merupakan bagian dari first level management yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam timnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis dan pengerjaan project, ilmu-ilmu terbaru, atau bahkan personal issue dengan team lead masing-masing.
 
 Seorang Team Leader di Rolling Glory dituntut juga untuk bisa menjadi panutan dan inspirasi coaster lain dalam mengamalkan [RGB Glory Principles](../../rolling-glory/principles.md).
 

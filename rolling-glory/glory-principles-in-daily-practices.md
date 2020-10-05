@@ -1,6 +1,6 @@
 # Glory Principles in Daily Practices
 
-Untuk contoh-contoh implementasi dari Glory Principles dalam kehidupan sehari-hari di studio, dapat dilihat dari link berikut ini, list ini merupakan contoh dan membatasi implementasinya.
+Berikut adalah list dari contoh-contoh implementasi dari [Glory Principles](principles.md) dalam kehidupan sehari-hari di studio, list ini merupakan contoh dan membatasi implementasinya.
 
 List dikategorikan menjadi sesuai dengan konteksnya agar mudah dan ini akan terus dikembangkan:
 
