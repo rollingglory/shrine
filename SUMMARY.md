@@ -75,4 +75,5 @@
 ---
 
 * [Work Hour, Leave & WFH Policy Guideline](https://docs.google.com/presentation/d/1SfkBRhd-T3pfsBC52duGnyjfbDaLJzgzslXIDQfro_c/edit#slide=id.g55a7c7f7ac_0_1)
+* [Coaster Review Guideline \(for Manager & Leader\)](https://docs.google.com/presentation/d/1m0Oos9-MfTWhkNn2HxC2vQjVOja27ltuSnurq0-GuFQ/edit#slide=id.g9bd6c3f831_0_898)
 
