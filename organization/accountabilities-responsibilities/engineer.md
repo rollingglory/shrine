@@ -11,7 +11,7 @@ Selain dari aspek kompetensi / kemampuan technical, engineer di Rolling Glory ad
 1. **Collaboration -** berkolaborasi dengan Project Manager, team, maupun stakeholder dalam keseluruhan proses development produk digital.
 2. **Design -** melakukan proses analisis, planning, dan design untuk software yang akan dikembangkan berdasarkan dengan requirement dan specification: arsitektur, algoritma, skema database, API, 3rd party, dan lain-lain.
 3. **Implementation -** mengimplementasikan user requirement dan design menjadi sebuah software dengan mengimplementasikan best practice dan convention untuk menghasilkan product digital yang optimal dan premium.
-4. **Test -** melakukan test level 1 dan 2 untuk task yang dilakukan untuk memastikan sudah sesuai dengan requirement dan design dengan berbagai skenario yang ada.
+4. **Test -** melakukan [test level 1 dan 2](https://shrine.rollingglory.com/engineering-team/software-testing) untuk task yang dilakukan untuk memastikan sudah sesuai dengan requirement dan design dengan berbagai skenario yang ada.
 5. **Deploy -** melakukan deployment ke staging ataupun production sesuai dengan best practice, sehingga product bisa digunakan oleh tester, stakeholders, ataupun end-users.
 6. **Maintenance & improvement -** melakukan maintenance, troubleshooting, dan debugging pada software yang sudah di production dan melakukan improvement agar bisa menjadi lebih baik.
 7. **Documentation -** membuat technical documentation sehingga bisa digunakan sebagai guideline di masa depan ataupun digunakan oleh PM ataupun client.
