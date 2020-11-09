@@ -12,6 +12,8 @@ Rolling Glory memiliki prinsip-prinsip yang dipegang teguh dan selalu berusaha u
 
 Principles ini terdiri dari **Mission & Vision**, **Values**, **Forte**, dan **Spirit**. Tentunya Rolling Glory tidak ingin prinsip-prinsip tersebut hanya menjadi jargon semata, oleh karena itu, ada section juga yang memuat contoh-contoh pengamalan dalam kehidupan sehari-hari juga.
 
+{% page-ref page="../rolling-glory/principles.md" %}
+
 ### Organization Structure
 
 Setelah meresapi Glory Principles, berikut adalah beberapa hal tentang struktur organisasi, filosofi maupun implementasinya:
