@@ -34,3 +34,5 @@ Kepercayaan ditentukan dari sifat-sifat seperti memiliki tanggung jawab, berinte
 
 
 
+
+
