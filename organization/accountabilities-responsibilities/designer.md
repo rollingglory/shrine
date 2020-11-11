@@ -78,5 +78,9 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh Creative Concep
 
 ![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.51.07.png)
 
-Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: [https://shrine.rollingglory.com/rolling-glory/principles](https://shrine.rollingglory.com/rolling-glory/principles)
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+
+{% page-ref page="../../rolling-glory/principles.md" %}
+
+
 
