@@ -16,6 +16,10 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Responsibility for design resources** — Mempersiapkan dan membangun UI kits/design system untuk project yang memerlukan.
 * **On-boarding for new members -** terlibat dalam on-boarding proses designer baru
 
+### Direct Reports
+
+* Report ke Creative Director terkait team/project
+
 ## Design Ops
 
 **Responsibilities**
@@ -23,7 +27,12 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Team management —** Bertanggung jawab manage design resources dan project assignment, Manage upcoming dan ongoing projects;  Rutin melakukan project progress check.
 * **Time and budget estimates** - Resource & Timeline planning.
 * **Hiring** — Develop Precoaster Designer test, pre-screening, portfolio reviews, 1 on 1 interviews, test project review. 
-* **Responsibility for design team** — sebagai PIC untuk seluruh tim desain.
+
+### Direct Reports
+
+* Report ke Creative Director terkait team
+* Report ke AM/PM lead terkait project
+* Report ke HR director terkait Hiring
 
 ## Design Lead
 
@@ -34,4 +43,9 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Cooperation with marketing team** — bertanggung jawab dalam mengembangkan asset2 fundamental dan guideline seperti brand guideline, portfolio, materi untuk social media, dan membantu ideasi marketing.
 * **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
 * **Design activities & collaboration/promotion** — Merencanakan aktivitas tim design agar selalu belajar sekaligus refresh, Merencanakan side project yang produktif, bertanggung jawab untuk Designer Talk.
+
+### Direct Reports
+
+* Report ke Creative Director dalam functional team
+* Report ke AM/PM di dalam project
 
