@@ -127,3 +127,9 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Researcher:
 
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+
+{% page-ref page="../../rolling-glory/principles.md" %}
+
+
+
