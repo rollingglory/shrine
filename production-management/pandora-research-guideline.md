@@ -30,7 +30,11 @@ Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rol
 
 ![](../.gitbook/assets/screen-shot-2020-11-11-at-12.15.02.png)
 
+![](../.gitbook/assets/screen-shot-2020-11-11-at-12.16.37.png)
+
 ![](../.gitbook/assets/screen-shot-2020-11-11-at-12.16.10.png)
+
+
 
 Bila dalam pekerjaanmu kali ini kamu membutuhkan Design Audit, berikut guideline yang bisa membantumu:
 
