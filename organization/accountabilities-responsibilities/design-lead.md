@@ -8,7 +8,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 
 {% page-ref page="team-leader.md" %}
 
-**Internal Responsibilities**
+**Responsibilities**
 
 * **Team happiness** — rutin melakukan 1 on 1 ke setiap designer untuk check happiness, discover personal issue/problem.
 * **Individual team member growth** — Membantu personal growth dan development untuk setiap designer, mentoring dan arahan untuk menjadi lebih baik secara personal dan kualitas.
@@ -18,7 +18,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 
 ## Design Ops
 
-**Internal**
+**Responsibilities**
 
 * **Team management —** Bertanggung jawab manage design resources dan project assignment, Manage upcoming dan ongoing projects;  Rutin melakukan project progress check.
 * **Time and budget estimates** - Resource & Timeline planning.
@@ -27,7 +27,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 
 ## Design Lead
 
-**Internal**
+**Responsibilities**
 
 * **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
 * **Cooperation with production team** —  bertanggung jawab dalam produksi, berkoordinasi dengan AM/PM/Lead department yang lain dalam rangka memastikan tim mampu menyelesaikan project sebaik mungkin. 
