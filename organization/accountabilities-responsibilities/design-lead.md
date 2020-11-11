@@ -23,15 +23,15 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Team management —** Bertanggung jawab manage design resources dan project assignment, Manage upcoming dan ongoing projects;  Rutin melakukan project progress check.
 * **Time and budget estimates** - Resource & Timeline planning.
 * **Hiring** — Develop Precoaster Designer test, pre-screening, portfolio reviews, 1 on 1 interviews, test project review. 
-* **Responsibility for design team** — sebai PIC untuk tim desain dan bertanggung jawab untuk semuanya.
+* **Responsibility for design team** — sebagai PIC untuk seluruh tim desain.
 
 ## Design Lead
 
 **Internal**
 
-* **Cooperation with client/pandora team** —  bertanggung jawab membuat design concept & proposal dan concept, reviews dokumen dan konsep dari tim, membantu koordinasi antara klien dengan tim.
-* **Cooperation with production team** —  bertanggung jawab dalam produksi, berkoordinasi dengan PM/Lead department yang lain dalam rangka menyelesaikan project sebaik mungkin. 
+* **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
+* **Cooperation with production team** —  bertanggung jawab dalam produksi, berkoordinasi dengan AM/PM/Lead department yang lain dalam rangka memastikan tim mampu menyelesaikan project sebaik mungkin. 
 * **Cooperation with marketing team** — bertanggung jawab dalam mengembangkan asset2 fundamental dan guideline seperti brand guideline, portfolio, materi untuk social media, dan membantu ideasi marketing.
-* **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, product ideas dan solusi desain yang inovatif.
+* **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
 * **Design activities & collaboration/promotion** — Merencanakan aktivitas tim design agar selalu belajar sekaligus refresh, Merencanakan side project yang produktif, bertanggung jawab untuk Designer Talk.
 
