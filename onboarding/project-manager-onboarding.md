@@ -14,7 +14,7 @@ Let's explore about your responsibilities and accountabilities as a Project Mana
 
 If you are a Project Manager Lead, check this out.
 
-{% page-ref page="../organization/accountabilities-responsibilities/project-manager-lead/" %}
+{% page-ref page="../organization/accountabilities-responsibilities/project-manager-lead.md" %}
 
 
 

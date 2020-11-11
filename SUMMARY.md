@@ -19,10 +19,10 @@
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
+  * [Designer](organization/accountabilities-responsibilities/designer.md)
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
   * [Project Manager](organization/accountabilities-responsibilities/project-manager.md)
-  * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead/README.md)
-    * [Designer](organization/accountabilities-responsibilities/project-manager-lead/designer.md)
+  * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
 
 ## Onboarding
 
