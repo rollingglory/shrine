@@ -4,7 +4,7 @@ description: >-
   (develop) suatu project ataupun product.
 ---
 
-# Research Pipeline & Guideline
+# Solution Pipeline & Guideline
 
 ### **Untuk Siapa Dokumen ini?**
 
@@ -22,7 +22,7 @@ Pipeline & Guideline Research ini diciptakan untuk mempermudahmu dalam menentuka
 
 Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rolling Glory sangat beraneka ragam, dengan permasalahan dan kebutuhan yang beraneka ragam pula. Dalam dokumen ini, RGB membagi jenis-jenis klien berdasarkan kategorinya, dan setiap kategori klien bisa dijawab menggunakan tahapan solusi yang sesuai. Kamu bisa mempelajarinya secara lebih lengkap di dokumen berikut:
 
-**Research Pipeline & Guideline Document.** [**https://xd.adobe.com/view/cbca06fb-b5f8-42be-7f26-457e9547515c-bdfb/**](https://xd.adobe.com/view/cbca06fb-b5f8-42be-7f26-457e9547515c-bdfb/)\*\*\*\*
+**Solution Pipeline & Guideline Document.** [**https://xd.adobe.com/view/cbca06fb-b5f8-42be-7f26-457e9547515c-bdfb/**](https://xd.adobe.com/view/cbca06fb-b5f8-42be-7f26-457e9547515c-bdfb/)\*\*\*\*
 
 Bila dalam pekerjaanmu kali ini kamu membutuhkan Design Audit, berikut guideline yang bisa membantumu:
 

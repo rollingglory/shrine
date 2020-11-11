@@ -35,7 +35,7 @@
 ## Production & Project Management <a id="production-management"></a>
 
 * [Production Pipeline](production-management/production-pipeline.md)
-* [Research Pipeline & Guideline](production-management/pandora-research-guideline.md)
+* [Solution Pipeline & Guideline](production-management/pandora-research-guideline.md)
 
 ## Design Team <a id="designer-team"></a>
 

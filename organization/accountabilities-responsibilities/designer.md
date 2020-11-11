@@ -54,6 +54,12 @@ Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principle
 
 ## Creative Conceptor
 
+Seorang Creative Conceptor mempunyai tanggung jawab untuk memberikan solusi kreatif dalam rangka menjawab kebutuhan klien, sesuai dengan proses yang baik dan benar.
+
+{% page-ref page="../../production-management/pandora-research-guideline.md" %}
+
+
+
 Sebagai CC kamu harus:
 
 * Mempunyai: enough amount knowledge of Design/Visual principle
