@@ -15,6 +15,7 @@ Sebagai UI designer kamu harus:
 * Mempunyai pondasi knowledge yang kuat di **prinsip-pirinsip design/visual**
 * **Bisa meng-implementasikan** prinsip-prinsip design/visual tersebut pada real case
 * Bisa **memberikan rekomendasi** terbaik terhadap suatu issue berdasarkan prinsip-prinsip design/visual yang ada
+* Mempunyai pondasi knowledge yang kuat dalam **membuat dokumen/presentasi yang menggambarkan rancangan/konsep visual**
 * **Selalu mengupdate diri** dengan knowledge terbaru terkait prinsip-prinsip design/visual
 
 Tambahan yang harus kamu punya:
@@ -41,6 +42,7 @@ sebagai UX designer kamu harus:
 * Curiosity dan Empathy yang tinggi pada **user/customer needs & behaviour**
 * Mempunyai pondasi knowledge di **User Research & Testing**
 * Pondasi knowledge yang kuat dalam membuat **Prototype**
+* Mempunyai pondasi knowledge yang kuat dalam **membuat dokumen/presentasi yang menggambarkan rancangan**
 * **Selalu mengupdate diri** dengan knowledge terbaru terkait prinsip-prinsip HCD
 
 Tambahan yang harus kamu punya:
@@ -48,7 +50,7 @@ Tambahan yang harus kamu punya:
 * Enough amount **knowledge of Tech**
 * Little amount **knowledge of Design/Visual**
 
-Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX designer:
+Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Designer:
 
 ![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.40.38.png)
 
@@ -72,7 +74,7 @@ Sebagai CC kamu harus:
 
 Tambahan yang kamu harus punya:
 
-* Mempunyai pondasi knowledge yang kuat dalam **membuat presentasi yang menggambarkan solusi**
+* Mempunyai pondasi knowledge yang kuat dalam **membuat dokumen/presentasi yang menggambarkan solusi**
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh Creative Conceptor:
 
@@ -82,5 +84,46 @@ Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principle
 
 {% page-ref page="../../rolling-glory/principles.md" %}
 
+## UX Writer
 
+Seorang UX Writer **bertanggung jawab dalam membuat konten tekstual di dalam website/game/mobile app** agar mudah dipahami oleh pengguna
+
+sebagai UX writer kamu harus:
+
+* Mempunyai pondasi knowledge yang kuat di **Technical Writing**
+* **Bisa meng-implementasikan** prinsip-prinsip Writing pada real case
+* Curiosity dan Empathy yang tinggi pada **user/customer needs & behaviour**
+* **Selalu mengupdate diri** dengan knowledge terbaru terkait prinsip-prinsip Writing
+
+Tambahan yang harus kamu punya:
+
+* Enough amount **knowledge of User behaviour**
+* Little amount **knowledge of Design/Visual**
+* Little amount **knowledge of Tech**
+
+Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Writer:
+
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+
+{% page-ref page="designer.md" %}
+
+## UX Researcher
+
+Seorang UX Researcher **bertanggung jawab dalam melakukan riset terhadap user ataupun project/product** yang sedang didevelop. ****UX researcher harus **membuat dokumen report** based on hasil riset nya.
+
+sebagai UX Researcher kamu harus:
+
+* Mempunyai pondasi knowledge yang kuat di **Design Thinking & Human Centered Design**
+* Mempunyai pondasi knowledge yang kuat di **User Research & Testing**
+* **Bisa meng-implementasikan** prinsip-prinsip Research pada real case
+* Curiosity dan Empathy yang tinggi pada **user/customer needs & behaviour**
+* Pondasi knowledge yang kuat dalam membuat **Dokumen dan Presentasi**
+* **Selalu mengupdate diri** dengan knowledge terbaru terkait prinsip-prinsip Research
+
+Tambahan yang harus kamu punya:
+
+* Enough amount **knowledge of Tech**
+* Little amount **knowledge of Design/Visual**
+
+Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Researcher:
 
