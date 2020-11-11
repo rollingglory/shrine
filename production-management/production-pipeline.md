@@ -6,7 +6,7 @@ Fase Pandora adalah fase dari project sebelum masuk tahap development. Fase ini 
 
 ![](../.gitbook/assets/rolling-glory-pandora-flow.jpg)
 
-Fase Pandora/Pre-production biasanya berkaitan erat dengan Research. Untuk lebih lengkap mengenai Pipeline Research, bisa dipelajari di sini:
+Fase Pandora/Pre-production biasanya berkaitan erat dengan Development Solution & Research. Untuk lebih lengkap mengenai Pipeline Solution, bisa dipelajari di sini:
 
 {% page-ref page="pandora-research-guideline.md" %}
 
