@@ -21,6 +21,7 @@
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Designer](organization/accountabilities-responsibilities/designer.md)
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
+  * [Design Lead](organization/accountabilities-responsibilities/design-lead.md)
   * [Project Manager](organization/accountabilities-responsibilities/project-manager.md)
   * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
 
