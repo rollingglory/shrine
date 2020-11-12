@@ -67,6 +67,7 @@
 * [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
 * [QA Team Guideline](https://docs.google.com/document/d/1pF_EVTSsvI-d_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
+* [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4_gkRLs/edit#)
 
 ## Work From Home
 
@@ -77,5 +78,6 @@
 ---
 
 * [Work Hour, Leave & WFH Policy Guideline](https://docs.google.com/presentation/d/1SfkBRhd-T3pfsBC52duGnyjfbDaLJzgzslXIDQfro_c/edit#slide=id.g55a7c7f7ac_0_1)
+* [Rolling Ekstra Kulikuler](https://docs.google.com/spreadsheets/d/1ck-e114ufj0IfPjoQyiCov5EypNgo1ntN5lgaxaknb0/edit#gid=0)
 * [Coaster Review Guideline \(for Manager & Leader\)](https://docs.google.com/presentation/d/1m0Oos9-MfTWhkNn2HxC2vQjVOja27ltuSnurq0-GuFQ/edit#slide=id.g9bd6c3f831_0_898)
 
