@@ -20,8 +20,8 @@ Sebagai UI designer kamu harus:
 
 Tambahan yang harus kamu punya:
 
-* Little amount **knowledge of user**
-* Little amount **knowledge of tech**
+* A little amount of **knowledge of user**
+* A little amount of **knowledge of tech**
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UI designer
 
@@ -47,8 +47,8 @@ sebagai UX designer kamu harus:
 
 Tambahan yang harus kamu punya:
 
-* Enough amount **knowledge of Tech**
-* Little amount **knowledge of Design/Visual**
+* Enough amount of **knowledge of Tech**
+* A little amount of **knowledge of Design/Visual**
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Designer:
 
@@ -66,11 +66,11 @@ Seorang Creative Conceptor mempunyai **tanggung jawab untuk memberikan solusi kr
 
 Sebagai CC kamu harus:
 
-* Mempunyai: enough amount **knowledge of Design/Visual** principle
-* Mempunyai: enough amount **knowledge of User behaviour** principle
-* Mempunyai: enough amount **knowledge of Technical** sides
-* Mempunyai: enough amount **knowledge of Business** sides
-* Mempunyai **critical/analitycal thinking** yang kuat
+* Mempunyai: enough amount of **knowledge of Design/Visual** principle
+* Mempunyai: enough amount of **knowledge of User behaviour** principle
+* Mempunyai: enough amount of **knowledge of Technical** sides
+* Mempunyai: enough amount of **knowledge of Business** sides
+* Mempunyai **critical/analytical thinking** yang kuat
 
 Tambahan yang kamu harus punya:
 
@@ -97,9 +97,9 @@ sebagai UX writer kamu harus:
 
 Tambahan yang harus kamu punya:
 
-* Enough amount **knowledge of User behaviour**
-* Little amount **knowledge of Design/Visual**
-* Little amount **knowledge of Tech**
+* Enough amount of **knowledge of User behavior**
+* A little amount of **knowledge of Design/Visual**
+* A little amount of **knowledge of Tech**
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Writer:
 
@@ -122,8 +122,8 @@ sebagai UX Researcher kamu harus:
 
 Tambahan yang harus kamu punya:
 
-* Enough amount **knowledge of Tech**
-* Little amount **knowledge of Design/Visual**
+* Enough amount of **knowledge of Tech**
+* A little amount of **knowledge of Design/Visual**
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Researcher:
 
