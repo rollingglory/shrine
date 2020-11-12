@@ -1,6 +1,6 @@
 # Project Manager Lead
 
-### Direct Reports
+### Reports
 
 Operation Director
 

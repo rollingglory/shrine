@@ -1,6 +1,6 @@
 # Tech Lead
 
-### Direct Reports
+### Reports
 
 * Report ke Director of Engineering dalam functional team
 * Report ke PM di dalam project

@@ -1,10 +1,10 @@
 # Design Lead
 
-Di Design Team struktural terbagi 3 role, Team Design Lead, Design Ops, dan Design Lead. 
+Di Design Team struktural terbagi 3 role, Design Team Leader, Design Ops, dan Design Lead. 
 
-## Team Design Lead
+## Design Team Leader
 
-Untuk lebih lengkap Team Design Lead bisa mengacu ke:
+Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 {% page-ref page="team-leader.md" %}
 
@@ -16,7 +16,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Responsibility for design resources** — Mempersiapkan dan membangun UI kits/design system untuk project yang memerlukan.
 * **On-boarding for new members -** terlibat dalam on-boarding proses designer baru
 
-### Direct Reports
+### Reports
 
 * Report ke Creative Director terkait team/project
 
@@ -28,7 +28,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **Time and budget estimates** - Resource & Timeline planning.
 * **Hiring** — Develop Precoaster Designer test, pre-screening, portfolio reviews, 1 on 1 interviews, test project review. 
 
-### Direct Reports
+### Reports
 
 * Report ke Creative Director terkait team
 * Report ke AM/PM lead terkait project
@@ -44,7 +44,7 @@ Untuk lebih lengkap Team Design Lead bisa mengacu ke:
 * **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
 * **Design activities & collaboration/promotion** — Merencanakan aktivitas tim design agar selalu belajar sekaligus refresh, Merencanakan side project yang produktif, bertanggung jawab untuk Designer Talk.
 
-### Direct Reports
+### Reports
 
 * Report ke Creative Director dalam functional team
 * Report ke AM/PM di dalam project
