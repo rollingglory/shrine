@@ -24,6 +24,8 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 * Report ke Creative Director terkait team/project
 
+
+
 ## UX Lead
 
 ### **Responsibilities**
@@ -46,6 +48,8 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 * Report ke Creative Director dalam functional team
 * Report ke AM/PM di dalam project
+
+
 
 ## UI Lead
 
