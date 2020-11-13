@@ -2,7 +2,7 @@
 
 Di Design Team struktural terbagi 3 role, Team Leader, Design Lead, Design Ops.. 
 
-## Design Team Leader
+## Team Lead
 
 Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
@@ -11,8 +11,6 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 ### **Responsibilities**
 
 **Team happiness** — rutin melakukan 1 on 1 ke setiap designer untuk check happiness, discover personal issue/problem.
-
-**Individual team member growth** — Membantu personal growth dan development untuk setiap designer, mentoring dan arahan untuk menjadi lebih baik secara personal dan kualitas.
 
 **Individual team member growth** — Membantu personal growth dan development untuk setiap designer, mentoring dan arahan untuk menjadi lebih baik secara personal dan kualitas.
 
@@ -26,7 +24,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 
 
-## UX Lead
+## UX Lead \(Design Lead\)
 
 ### **Responsibilities**
 
@@ -51,7 +49,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 
 
-## UI Lead
+## UI Lead \(Design Lead\)
 
 ### **Responsibilities**
 
@@ -74,19 +72,20 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 * Report ke Creative Director dalam functional team
 * Report ke AM/PM di dalam project
 
-## 
 
-## 
 
-## 
+
 
 ## Others
 
 \*\*\*\*
 
-**Marketing Lead**
+**Marketing**
 
-* **Cooperation with marketing team** — bertanggung jawab dalam mengembangkan asset2 fundamental dan guideline seperti brand guideline, portfolio, materi untuk social media, dan membantu ideasi marketing.
+* **Cooperation with marketing team** — bertanggung jawab dalam mengembangkan asset2 fundamental dan guideline seperti brand guideline, portfolio, materi untuk social media, hiring material, dan membantu ideasi marketing.
+
+**Hura-hura**
+
 * **Design activities & collaboration/promotion** — Merencanakan aktivitas tim design agar selalu belajar sekaligus refresh, Merencanakan side project yang produktif, bertanggung jawab untuk Designer Talk.
 
 
