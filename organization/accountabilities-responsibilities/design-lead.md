@@ -78,15 +78,21 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 ## Others
 
-**CC Lead**
-
-* **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
-* **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
+\*\*\*\*
 
 **Marketing Lead**
 
 * **Cooperation with marketing team** — bertanggung jawab dalam mengembangkan asset2 fundamental dan guideline seperti brand guideline, portfolio, materi untuk social media, dan membantu ideasi marketing.
 * **Design activities & collaboration/promotion** — Merencanakan aktivitas tim design agar selalu belajar sekaligus refresh, Merencanakan side project yang produktif, bertanggung jawab untuk Designer Talk.
+
+
+
+**CC Lead**
+
+* **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
+* **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
+
+\*\*\*\*
 
 **Design Ops**
 
