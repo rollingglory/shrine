@@ -33,6 +33,11 @@
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [QA Onboarding](onboarding/qa-onboarding.md)
 
+---
+
+* [RGB BRAND BOOK](rgb-brand-book.md)
+* [Brand Story](brand-story.md)
+
 ## Production & Project Management <a id="production-management"></a>
 
 * [Production Pipeline](production-management/production-pipeline.md)
