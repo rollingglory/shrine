@@ -73,6 +73,8 @@
 
 * [RGB BRAND BOOK](rgb-brand-book.md)
 * [Brand Story](brand-story.md)
+* [Brand Personality](brand-personality.md)
+* [Visual Implementation](visual-implementation.md)
 * [Brand Guideline](brand-guideline.md)
 
 ## Work From Home
