@@ -33,11 +33,6 @@
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [QA Onboarding](onboarding/qa-onboarding.md)
 
----
-
-* [RGB BRAND BOOK](rgb-brand-book.md)
-* [Brand Story](brand-story.md)
-
 ## Production & Project Management <a id="production-management"></a>
 
 * [Production Pipeline](production-management/production-pipeline.md)
@@ -73,6 +68,12 @@
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
 * [QA Team Guideline](https://docs.google.com/document/d/1pF_EVTSsvI-d_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
 * [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4_gkRLs/edit#)
+
+---
+
+* [RGB BRAND BOOK](rgb-brand-book.md)
+* [Brand Story](brand-story.md)
+* [Brand Guideline](brand-guideline.md)
 
 ## Work From Home
 
