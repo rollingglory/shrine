@@ -24,6 +24,7 @@
   * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
   * [Design Lead](organization/accountabilities-responsibilities/design-lead.md)
+  * [Quality Assurance](organization/accountabilities-responsibilities/quality-assurance.md)
 
 ## Onboarding
 
