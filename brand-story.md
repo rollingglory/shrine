@@ -1,5 +1,7 @@
 # Brand Story
 
+![](.gitbook/assets/screen-shot-2020-11-16-at-13.52.03.png)
+
 ## Brand Core
 
 ![](.gitbook/assets/screen-shot-2020-11-15-at-19.55.15.png)
