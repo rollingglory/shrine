@@ -45,7 +45,7 @@ Kemunikasi yang bagus juga tidak hanya pada komunikasi lisan saja, tetapi juga t
 
 ## Guideline
 
-Untuk detail mengenai Guideline QA di RGB dapat dilihat di link berikut
+Untuk informasi detail mengenai Guideline QA di RGB dapat dilihat di link berikut
 
 
 
