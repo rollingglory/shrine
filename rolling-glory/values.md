@@ -56,6 +56,10 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 * Aktif bertanya apabila merasa/melihat ada coaster yang mengalami kesulitan.
 * Menawarkan bantuan apabila ada seseorang yang membutuhkan bantuan.
 
+**Give Help**
+
+* Siap sedia membantu tim ketika dibutuhkan, terutama pada project yang sedang dipegang.
+
 
 
 ### **Care in Project/Product:** 
