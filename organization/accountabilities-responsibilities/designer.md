@@ -6,6 +6,33 @@ Untuk melihat Panduan Roles Designer dan Responsibilites-nya bisa dilihat di sin
 
 Di section ini lebih dibahas apa saja yang harus dipunyai oleh masing-masing roles
 
+## 2D Artist/Illustrator
+
+Seorang 2D Artist **bertanggung jawab untuk membuat/mengembangkan asset-asset ilustrasi untuk kebutuhan project maupun product.** Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game.  
+
+Sebagai 2D Artist kamu harus:
+
+* Mempunyai pondasi knowledge yang kuat di **prinsip-pirinsip art/visual**
+* **Bisa meng-implementasikan** prinsip-prinsip art/visual tersebut pada real case
+* Bisa **memberikan rekomendasi** terbaik terhadap suatu issue berdasarkan prinsip-prinsip art/visual yang ada
+* Mempunyai pondasi knowledge yang kuat dalam **membuat dokumen/presentasi yang menggambarkan rancangan konsep art/visual.**
+* **Selalu mengupdate diri** dengan knowledge terbaru terkait prinsip-prinsip art/visual
+
+Tambahan yang harus kamu punya:
+
+* A little amount of **knowledge of user**
+* A little amount of **knowledge of tech**
+
+Berikut sedikit visualisasi trait/character yang dibutuhkan oleh 2D artist:
+
+![](../../.gitbook/assets/screen-shot-2020-11-18-at-10.45.29.png)
+
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
+
+{% page-ref page="../../rolling-glory/principles.md" %}
+
+
+
 ## UI Designer
 
 Seorang UI designer **bertanggung jawab untuk mem-visualisasi-kan wireframe yang sudah dibuat supaya terlihat indah, cantik, dan sesuai dengan kebutuhan klien** \(sesuai dengan visual identity brand ataupun persona user\).
