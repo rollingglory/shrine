@@ -8,7 +8,7 @@ Di section ini lebih dibahas apa saja yang harus dipunyai oleh masing-masing rol
 
 ## 2D Artist/Illustrator
 
-Seorang 2D Artist **bertanggung jawab untuk membuat/mengembangkan asset-asset ilustrasi untuk kebutuhan project maupun product.** Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game.  
+Seorang 2D Artist **bertanggung jawab untuk membuat/mengembangkan asset-asset ilustrasi untuk kebutuhan project maupun product** \(sesuai dengan visual identity brand ataupun persona user\)**.** Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game.  
 
 Sebagai 2D Artist kamu harus:
 
