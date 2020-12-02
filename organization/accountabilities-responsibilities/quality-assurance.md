@@ -2,9 +2,9 @@
 
 ## **Akuntabilitas**
 
-QA di RGB mempunyai tanggung jawab untuk melakukan pengujian dan pengecekan fitur maupun fungsionalitas dari project/product sesuai dengan persyaratan yang telah disepakati.
+QA di RGB mempunyai tanggung jawab untuk melakukan pengujian dan pengecekan fitur maupun fungsionalitas dan non-fungsionalitas dari project/product sesuai dengan persyaratan yang telah disepakati.
 
-Hal tersebut ditujukan untuk memastikan bahwa project/product yang dikerjakan oleh tim development sudah pada kualitas **TERBAIK**
+Hal tersebut ditujukan untuk memastikan bahwa project/product yang dikerjakan oleh tim development sudah pada kualitas [**PREMIUM**](https://shrine.rollingglory.com/rolling-glory/forte#crystal-solution)**.**
 
 ## Tanggung Jawab
 
