@@ -2,7 +2,7 @@
 
 ### What do Project Managers do at RGB?
 
-Project Manager is the center figure of the project which means you are not only expected to do administrative PM tasks e.g. creating timeline, progress report, etc. Instead, you are also responsible to directing the team to achieve the project goals, finding solution, and take care of the team not only as a project resource but ultimately as a person :\). 
+**Project Manager is the central figure of the project** which means you are not only expected to do administrative PM tasks e.g. creating timeline, progress report, etc. Instead, you are also responsible for directing the team to achieve the project goals, finding solutions, and take care of the team not only as a project resource but ultimately as a person :\). 
 
 In short, there are 2 main tasks:
 
@@ -13,21 +13,21 @@ In short, there are 2 main tasks:
 
 ### Accountabilities
 
-We believe in you, hence we got a few of expected abilities from you as follows.
+We believe in you, hence we got a few of the expected abilities from you as follows.
 
 |  | Accountability |
 | :--- | :--- |
-| 1. | Able to comprehend, dig the requirement detail as needed, and define a clear scope of project to the team members. |
-| 2. | Able to create a comprehensive timeline by breaking down the task, discuss with team members to provide man-days estimation for each task, analyze dependencies, and allocate buffers wisely. |
-| 3. | Able to act as the filter between external/client and internal team. Thus, when giving an assignment to your team members, you have to be able to elaborate on why, how, and when the task should be done. |
-| 4. | Always check the difficulty of the task to your team member. In this aspect, you better be able to put yourself in their shoes to practice empathy. |
-| 5. | Make sure the task is well documented as stored in the project management system, given a clear deadline and assigned to the respective team member. |
-| 6. | Able to set clear priority for each task based on business or technical impact |
-| 7. | Able constantly tracking progress of each team member \(by project management tool and daily/weekly meeting\) to enforce smooth and on time delivery within the correct priority order |
-| 8. | Able to escalate issues/enquiries to respective upper managers as necessary. |
-| 9. | Able to maintain a smooth relationship with clients, external partners, and team members. |
-| 10 | Ensure the deliverable has premium quality by efficiently managing the testing process done by QA and by yourself. |
-| 11. | Able to create and maintain comprehensive project documentation and make sure it’s updated as needed. |
+| 1. | Able to **comprehend**, dig the requirement detail as needed, and define a clear scope of the project to the team members. |
+| 2. | Able to **create a comprehensive timeline** by breaking down the task, discuss with team members to provide man-days estimation for each task, analyze dependencies, and allocate buffers wisely. |
+| 3. | Able to act as the **filter** between the external/client and internal team. Thus, when **giving an assignment** to your team members, you have to **be able to elaborate** on why, how, and when the task should be done. |
+| 4. | Always check the difficulty of the task to your team member. In this aspect, you better be able to put yourself in their shoes to **practice empathy**. |
+| 5. | Make sure the task is **well documented** as stored in the project management system, given a clear deadline, and assigned to the respective team member. |
+| 6. | Able to **set clear priorities** for each task based on business or technical impact. |
+| 7. | Able constantly **tracking progress** of each team member \(by project management tool and daily/weekly meeting\) to **enforce smooth and on-time delivery** within the correct priority order |
+| 8. | Able to **escalate issues/inquiries** to respective upper managers as necessary. |
+| 9. | Able to **maintain a smooth relationship** with clients, external partners, and team members. |
+| 10 | **Ensure the deliverable has premium quality** by efficiently managing the testing process done by QA and by yourself. |
+| 11. | Able to **create and maintain comprehensive project documentation** and make sure it’s updated as needed. |
 
 ### 
 
