@@ -20,7 +20,7 @@ Kami juga mendukung setiap coaster di tim desain untuk belajar hal baru. Perusah
 
 Design team terdiri dari roles yang cukup beragam, dan dengan tanggung jawab yang berbeda-beda. Pelajari masing-masing roles tersebut di sini:
 
-{% page-ref page="../designer-team/design-team.md" %}
+{% page-ref page="../design-team/design-team.md" %}
 
 {% page-ref page="../organization/accountabilities-responsibilities/designer.md" %}
 

@@ -2,7 +2,7 @@
 
 Untuk melihat Panduan Roles Designer dan Responsibilites-nya bisa dilihat di sini
 
-{% page-ref page="../../designer-team/design-team.md" %}
+{% page-ref page="../../design-team/design-team.md" %}
 
 Di section ini lebih dibahas apa saja yang harus dipunyai oleh masing-masing roles
 

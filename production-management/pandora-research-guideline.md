@@ -38,7 +38,7 @@ Landasan dari dokumen ini dibuat adalah kenyataan bahwa klien yang datang ke Rol
 
 Bila dalam pekerjaanmu kali ini kamu membutuhkan Design Audit, berikut guideline yang bisa membantumu:
 
-{% page-ref page="../designer-team/design-audit.md" %}
+{% page-ref page="../design-team/design-audit.md" %}
 
 
 
