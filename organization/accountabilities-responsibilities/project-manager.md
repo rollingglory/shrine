@@ -193,7 +193,10 @@ How will your days as a project manager look like? Check this out.
           <br />
         </p>
         <ul>
-          <li>Timeline</li>
+          <li><a href="https://docs.google.com/spreadsheets/d/1fv2N5WuxwTAGk0IRJ4eYmPNSzOgV1ahMm01ugW0KIpg/edit?usp=sharing">Mandays Estimation</a>
+          </li>
+          <li><a href="https://docs.google.com/spreadsheets/d/1fum7_kbixaR_knYB70zFgYZ3sv-ufJPE5lVEbkb93bs/edit?usp=sharing">Timeline</a>
+          </li>
           <li>Requirement Specification Document (if your team got an Business Analyst,
             then he/she will do this document)</li>
           <li>User Story/Proofhub Ticket</li>
