@@ -197,6 +197,8 @@ How will your days as a project manager look like? Check this out.
           </li>
           <li><a href="https://docs.google.com/spreadsheets/d/1fum7_kbixaR_knYB70zFgYZ3sv-ufJPE5lVEbkb93bs/edit?usp=sharing">Timeline</a>
           </li>
+          <li><a href="https://docs.google.com/spreadsheets/d/14qyonvezZYTZZxyTUFOk1gBuDNuOS5hnud2gOuLKkAg/edit?usp=sharing">Maintenance Mandays Usage Report for Change Requests</a>
+          </li>
           <li>Requirement Specification Document (if your team got an Business Analyst,
             then he/she will do this document)</li>
           <li>User Story/Proofhub Ticket</li>
