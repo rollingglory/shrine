@@ -44,6 +44,10 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 {% page-ref page="qa-onboarding.md" %}
 
+### Web Administrator
+
+{% page-ref page="web-administrator-onboarding.md" %}
+
 
 
 

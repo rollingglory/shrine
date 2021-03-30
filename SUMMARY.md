@@ -41,6 +41,7 @@
 * [Designer Onboarding](onboarding/designer-onboarding.md)
 * [Engineer Onboarding](onboarding/engineer-onboarding.md)
 * [QA Onboarding](onboarding/qa-onboarding.md)
+* [Web Administrator Onboarding](onboarding/web-administrator-onboarding.md)
 
 ## Production & Project Management <a id="production-management"></a>
 
