@@ -32,6 +32,7 @@
   * [Tech Lead](organization/accountabilities-responsibilities/tech-lead.md)
   * [Design Lead](organization/accountabilities-responsibilities/design-lead.md)
   * [Quality Assurance](organization/accountabilities-responsibilities/quality-assurance.md)
+  * [Web Administrator](organization/accountabilities-responsibilities/web-administrator.md)
 
 ## Onboarding
 
