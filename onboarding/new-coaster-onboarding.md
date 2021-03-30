@@ -24,6 +24,12 @@ Setelah meresapi Glory Principles, berikut adalah beberapa hal tentang struktur 
 
 {% page-ref page="../production-management/production-pipeline.md" %}
 
+### Ekstra Kurikuler
+
+Yap, seperti yang sudah disampaikan sebelumnya, kita di Rolling Glory tidak hanya bekerja bersama, tapi juga berkarya bersama, hidup bersama. 
+
+Ada group-group di Telegram yang menaungi berbagai kesenangan, hobi, ataupun hal-hal lain, silakan cari apa yang cocok buat kamu dan pastikan kamu bergabung.
+
 ## Sudah Kak, secara general sudah kebayang, lalu apalagi?
 
 Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
