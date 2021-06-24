@@ -1,4 +1,4 @@
-# Project Manager
+# Project Manager \(PM\)
 
 ### What do Project Managers do at RGB?
 
@@ -212,4 +212,8 @@ How will your days as a project manager look like? Check this out.
     </tr>
   </tbody>
 </table>
+
+### Collaboration with Program Manager \(PgM\)
+
+Here is the responsibility list of Project Manager showing clearer relationship and collaboration between these PM and PgM role, not limiting but sure can be a guideline in the process: [PgM's Responsibilities](program-manager-pgm.md#responsibility).
 

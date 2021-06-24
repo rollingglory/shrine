@@ -26,7 +26,7 @@
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
   * [Program Manager \(PgM\)](organization/accountabilities-responsibilities/program-manager-pgm.md)
-  * [Project Manager](organization/accountabilities-responsibilities/project-manager.md)
+  * [Project Manager \(PM\)](organization/accountabilities-responsibilities/project-manager.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Designer](organization/accountabilities-responsibilities/designer.md)
   * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
