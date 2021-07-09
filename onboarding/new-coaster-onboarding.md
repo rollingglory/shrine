@@ -24,11 +24,23 @@ Setelah meresapi Glory Principles, berikut adalah beberapa hal tentang struktur 
 
 {% page-ref page="../production-management/production-pipeline.md" %}
 
+### Jam Kerja dan Pengambilan Cuti
+
+Nah, udah kebayang kan Rolling Glory seperti apa dan bagaimana cara kerjanya.
+
+Berikut adalah hal-hal terkait Jam Kerja yang perlu kamu ketahui, lengkap dengan bagaimana terkait cuti dan cara mengajukan cuti jika dibutuhkan:
+
+{% page-ref page="../work-hour-and-leave-policy.md" %}
+
 ### Ekstra Kurikuler
 
 Yap, seperti yang sudah disampaikan sebelumnya, kita di Rolling Glory tidak hanya bekerja bersama, tapi juga berkarya bersama, hidup bersama. 
 
 Ada group-group di Telegram yang menaungi berbagai kesenangan, hobi, ataupun hal-hal lain, silakan cari apa yang cocok buat kamu dan pastikan kamu bergabung.
+
+Wajib untuk join minimal 3 group yang sesuai dengan kamu ya:
+
+{% page-ref page="../rolling-ekstra-kurikuler.md" %}
 
 ## Sudah Kak, secara general sudah kebayang, lalu apalagi?
 
