@@ -88,7 +88,7 @@
 
 ---
 
-* [Work Hour, Leave & WFH Policy Guideline](https://docs.google.com/presentation/d/1SfkBRhd-T3pfsBC52duGnyjfbDaLJzgzslXIDQfro_c/edit#slide=id.g55a7c7f7ac_0_1)
+* [Work Hour, Leave & WFH Policy Guideline](https://docs.google.com/presentation/d/1n7KNzgMpGaZYsrNUK5-ToY18dR0gHc-vjJv_aFMiiFc/edit?usp=sharing)
 * [Rolling Ekstra Kulikuler](https://docs.google.com/spreadsheets/d/1ck-e114ufj0IfPjoQyiCov5EypNgo1ntN5lgaxaknb0/edit#gid=0)
 * [Coaster Review Guideline \(for Manager & Leader\)](https://docs.google.com/presentation/d/1m0Oos9-MfTWhkNn2HxC2vQjVOja27ltuSnurq0-GuFQ/edit#slide=id.g9bd6c3f831_0_898)
 
