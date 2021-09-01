@@ -88,6 +88,7 @@
 
 ---
 
+* [Rolling Daily Log](rolling-daily-log.md)
 * [Work Hour & Leave Policy](work-hour-and-leave-policy.md)
 * [Rolling Ekstra Kurikuler](rolling-ekstra-kurikuler.md)
 * [Coaster Review Guideline \(for Manager & Leader\)](https://docs.google.com/presentation/d/1m0Oos9-MfTWhkNn2HxC2vQjVOja27ltuSnurq0-GuFQ/edit#slide=id.g9bd6c3f831_0_898)
