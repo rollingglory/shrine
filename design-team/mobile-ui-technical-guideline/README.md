@@ -20,7 +20,7 @@ _Sebelum memasuki guideline, baiknya coaster melihat dulu pemilihan canvas sebag
 
 Pada dasarnya _guideline_ yang tersedia memiliki tujuan untuk menciptakan _design system_ yang sesuai dengan kaidah-kaidah yang dipaparkan. _Design system_ sebagai hasil akhir dari implementasi seluruh _guideline_ yang akan membantu _coasters_ dalam bekerja. Bersinggungan dengan itu, untuk memudahkan penentuan prioritas desainer dalam mengikuti _guideline_, digunakan apa yang disebut sebagai _**design system complexity pyramid**_, seperti ditunjukkan pada gambar di bawah.
 
-![Design system complexity pyramid](../../.gitbook/assets/image%20%2822%29.png)
+![Design system complexity pyramid](../../.gitbook/assets/image%20%2840%29.png)
 
 Dibaca dari bawah ke atas, dan dimulai dari _**foundation**_ yang mencakup unsur-unsur dasar dalam _UI design_, yang menjadi cikal bakal dari rangkaian komponen sebagai tubuh dari _layout_ desain yang diciptakan untuk diimplementasi oleh _developer_. Unsur-unsur tersebut di antaranya: _grid, column,_ warna, tipografi, jarak \(_space, margin, padding_\), _icon_, dan sebagainya.
 
@@ -32,7 +32,7 @@ Selanjutnya adalah _**core components**_**.** Tingkatan ini berisi komponen-komp
 
 Untuk melihat detil dari _guideline core component, coaster_ bisa pindah ke halaman ini:
 
-{% page-ref page="core-components.md" %}
+{% page-ref page="core-components/" %}
 
 Setelah _core components_, tingkat selanjutnya adalah _**complex components**_**.** Singkatnya tingkatan ini berisi komponen besar/utuh yang dirangkai oleh beberapa komponen dasar \(_core components_\) dan dibalut oleh unsur-unsur _foundation._ Benda-benda kompleks seperti _scrolling list_ baik yang berbentuk horisontal, vertikal, atau _grid_ \(gabungan keduanya\), _carousel, card,_ serta komponen lain yang menjadi komponen utama dari desain yang diciptakan.
 

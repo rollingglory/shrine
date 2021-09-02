@@ -8,15 +8,15 @@ Dalam menentukan jarak/spasi antar komponen dalam sebuah desain aplikasi _mobile
 
 Rolling Glory mengikuti acuan Apple dan Google dalam menentukan _base unit_ untuk spasi, yaitu sebesar **8** _**pixel/point**_ ****atau oleh beberapa sumber biasa disebut _**Rule of 8**_. Artinya, segala spasi yang digunakan dalam desain merupakan faktor dan kelipatan dari 8, yaitu 1, 2, 4, 8, 16, 24, 32, dst.
 
-![Rule of 8](../../../.gitbook/assets/image%20%2818%29.png)
+![Rule of 8](../../../.gitbook/assets/image%20%2834%29.png)
 
 Namun banyak kasus di mana penggunaan spasi 8 dirasa terlalu sempit, sementara 16 dirasa terlalu lebar. Maka dari itu toleransi penggunaan angka tengah dapat dilakukan. Seperti pertengahan antara 8 dan 16 adalah 12, maka digunakan spasi sebesar 12 _pixel_. Untuk lebih jelasnya, referensi gambar dari _material design_ dapat membantu _coaster_ memahami _base unit_. \(Angka tengah ini secara tidak langsung berupa faktor dan kelipatan dari 4, maka kombinasi _base unit_ 4 dan 8 adalah kombinasi yang cocok\)
 
-![Base unit 4 dan 8 dp pada Material Design](../../../.gitbook/assets/image%20%2817%29.png)
+![Base unit 4 dan 8 dp pada Material Design](../../../.gitbook/assets/image%20%2832%29.png)
 
 Dari sekian banyak angka yang menjadi faktor dan kelipatan 4 dan 8, yang paling banyak digunakan dalam desain aplikasi _mobile_ adalah 2, 4, 8 dan 16 _pixel_.
 
-![Most used spatial system in mobile app UI design](../../../.gitbook/assets/image%20%2816%29.png)
+![Most used spatial system in mobile app UI design](../../../.gitbook/assets/image%20%2831%29.png)
 
 ### Aplikasi _Spacing_ Pada Komponen UI
 
@@ -40,21 +40,21 @@ _Padding_ _container_ secara umum lazim menggunakan spasi sebesar **minimal 16px
 
 _Content_ merupakan isi dari _container_. Bisa berupa teks, gambar, _divider_, dan lain-lain. Untuk konten berupa teks _header_ yang berada di dalam suatu _container_, baiknya gunakan spasi \(sekaligus padding dari _container_ yang membalut si konten\) sebesar **4px**.
 
-![Spasi konten header terhadap container](../../../.gitbook/assets/image%20%289%29.png)
+![Spasi konten header terhadap container](../../../.gitbook/assets/image%20%2814%29.png)
 
 Sementara untuk spasi antar konten, terutama yang berupa _body text_ yang memiliki posisi bertetanggaan langsung \(tidak dipisah oleh _whitespace_\) atau berbentuk _list_, bisa menggunakan _range_ angka 0px-8px. Namun dianjurkan menggunakan **2px**.
 
-![Spasi body text](../../../.gitbook/assets/image%20%2810%29.png)
+![Spasi body text](../../../.gitbook/assets/image%20%2815%29.png)
 
-![Padding konten dalam komponen lepas yang berukuran kecil \(seperti button\)](../../../.gitbook/assets/image%20%288%29.png)
+![Padding konten dalam komponen lepas yang berukuran kecil \(seperti button\)](../../../.gitbook/assets/image%20%289%29.png)
 
 #### 3C: _Component_
 
 Adalah hubungan spasial antar komponen di dalam suatu _container,_ atau antar _container_ itu sendiri. Besaran umum dari jarak ini adalah **8px**, dan pada kasus khusus, dapat digunakan **4px.**
 
-![Spasi antar komponen. Ungu: 8px, oranye: 4px](../../../.gitbook/assets/image%20%2821%29.png)
+![Spasi antar komponen. Ungu: 8px, oranye: 4px](../../../.gitbook/assets/image%20%2839%29.png)
 
-![Spasi antar komponen](../../../.gitbook/assets/image%20%2815%29.png)
+![Spasi antar komponen](../../../.gitbook/assets/image%20%2830%29.png)
 
 {% hint style="info" %}
 Besaran spasi yang digunakan dalam menciptakan desain tidak melulu kaku dan harus mengikuti aturan yang ada. Desainer memiliki keluwesan dalam menentukan spasi yang cocok untuk desain yang diciptakan. **Poin penting** dalam implementasi spasi pada desain terletak pada **konsistensi angka** yang digunakan, sehingga tidak menimbulkan kebingungan baik bagi sesama desainer maupun _developer_.
