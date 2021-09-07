@@ -20,7 +20,7 @@ _Bottom navigation bar_ memiliki tingkat kustomisasi tinggi sehingga kreativitas
 
 {% embed url="https://material.io/archive/guidelines/components/bottom-navigation.html" %}
 
-TODO: icon, text specs
+TODO: icon, text specs, practical examples
 {% endtab %}
 
 {% tab title="iOS" %}
