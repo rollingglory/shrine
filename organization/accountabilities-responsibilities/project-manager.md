@@ -204,7 +204,8 @@ How will your days as a project manager look like? Check this out.
           <li>User Story/Proofhub Ticket</li>
           <li>Internal Weekly Report</li>
           <li>External Weekly Report (for the clients)</li>
-          <li>Meeting of Minutes</li>
+          <li><a href="https://docs.google.com/document/d/18MLqs66-lkjU4IhDLAOLuBGWqERyJ2Si/edit?usp=sharing&amp;ouid=110724964321644211337&amp;rtpof=true&amp;sd=true">Meeting of Minutes</a>
+          </li>
           <li>Release Log</li>
           <li>Feedback Log (from client)</li>
         </ul>
