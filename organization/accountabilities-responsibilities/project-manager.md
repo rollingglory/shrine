@@ -196,6 +196,10 @@ How will your days as a project manager look like? Check this out.
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1fv2N5WuxwTAGk0IRJ4eYmPNSzOgV1ahMm01ugW0KIpg/edit?usp=sharing"><b>Mandays Estimation</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1fum7_kbixaR_knYB70zFgYZ3sv-ufJPE5lVEbkb93bs/edit?usp=sharing"><b>Timeline</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li><a href="https://docs.google.com/spreadsheets/d/14qyonvezZYTZZxyTUFOk1gBuDNuOS5hnud2gOuLKkAg/edit?usp=sharing">Maintenance Mandays Usage Report for Change Requests</a>
+            <ul>
+              <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1QItWVo4akd8GX4wPETzAOMRYo2afras2RhHAbWC0fPM/edit?usp=sharing"><b>Initial Format</b></a>&lt;b&gt;&lt;/b&gt;</li>
+              <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1xbbGfFCA9B2QeAsnzEksFdP5gy8BZRjwNlOGSXP9li8/edit?usp=sharing"><b>Alternative Format</b></a>&lt;b&gt;&lt;/b&gt;</li>
+            </ul>
           </li>
           <li>Requirement Specification Document (if your team got an Business Analyst,
             then he/she will do this document)</li>
