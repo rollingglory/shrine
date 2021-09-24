@@ -207,8 +207,7 @@ How will your days as a project manager look like? Check this out.
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/presentation/d/1tddX58U_t3R-DvpXym99JQpEfSvVRUqcb-oIeHAofaI/edit?usp=sharing"><b>Weekly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/document/d/18MLqs66-lkjU4IhDLAOLuBGWqERyJ2Si/edit?usp=sharing&amp;ouid=110724964321644211337&amp;rtpof=true&amp;sd=true"><b>Meeting of Minutes</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://drive.google.com/file/d/12TCgkV77f7qWmQlmnt-HePmtwHemin0L/view?usp=sharing"><b>Maintenance Monthly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
-          <li>Release Log</li>
-          <li>Feedback Log (from client)</li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1zlLuDYqpfIaT4WxwKnbkihZYQ2Zg8qgRXELQTkMzvJI/edit?usp=sharing"><b>Release Log</b></a>&lt;b&gt;&lt;/b&gt;</li>
         </ul>
       </td>
     </tr>
