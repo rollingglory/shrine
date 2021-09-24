@@ -193,19 +193,16 @@ How will your days as a project manager look like? Check this out.
           <br />
         </p>
         <ul>
-          <li><a href="https://docs.google.com/spreadsheets/d/1fv2N5WuxwTAGk0IRJ4eYmPNSzOgV1ahMm01ugW0KIpg/edit?usp=sharing">Mandays Estimation</a>
-          </li>
-          <li><a href="https://docs.google.com/spreadsheets/d/1fum7_kbixaR_knYB70zFgYZ3sv-ufJPE5lVEbkb93bs/edit?usp=sharing">Timeline</a>
-          </li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1fv2N5WuxwTAGk0IRJ4eYmPNSzOgV1ahMm01ugW0KIpg/edit?usp=sharing"><b>Mandays Estimation</b></a>&lt;b&gt;&lt;/b&gt;</li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/spreadsheets/d/1fum7_kbixaR_knYB70zFgYZ3sv-ufJPE5lVEbkb93bs/edit?usp=sharing"><b>Timeline</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li><a href="https://docs.google.com/spreadsheets/d/14qyonvezZYTZZxyTUFOk1gBuDNuOS5hnud2gOuLKkAg/edit?usp=sharing">Maintenance Mandays Usage Report for Change Requests</a>
           </li>
           <li>Requirement Specification Document (if your team got an Business Analyst,
             then he/she will do this document)</li>
           <li>User Story/Proofhub Ticket</li>
-          <li>Internal Weekly Report</li>
-          <li>External Weekly Report (for the clients)</li>
-          <li><a href="https://docs.google.com/document/d/18MLqs66-lkjU4IhDLAOLuBGWqERyJ2Si/edit?usp=sharing&amp;ouid=110724964321644211337&amp;rtpof=true&amp;sd=true">Meeting of Minutes</a>
-          </li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/presentation/d/1tddX58U_t3R-DvpXym99JQpEfSvVRUqcb-oIeHAofaI/edit?usp=sharing"><b>Weekly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/document/d/18MLqs66-lkjU4IhDLAOLuBGWqERyJ2Si/edit?usp=sharing&amp;ouid=110724964321644211337&amp;rtpof=true&amp;sd=true"><b>Meeting of Minutes</b></a>&lt;b&gt;&lt;/b&gt;</li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://drive.google.com/file/d/12TCgkV77f7qWmQlmnt-HePmtwHemin0L/view?usp=sharing"><b>Maintenance Monthly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>Release Log</li>
           <li>Feedback Log (from client)</li>
         </ul>
