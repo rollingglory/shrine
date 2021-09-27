@@ -27,7 +27,7 @@
   * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
   * [Program Manager \(PgM\)](organization/accountabilities-responsibilities/program-manager-pgm.md)
   * [Project Manager \(PM\)](organization/accountabilities-responsibilities/project-manager.md)
-  * [Traffic Manager](organization/accountabilities-responsibilities/traffic-manager.md)
+  * [Traffic Management](organization/accountabilities-responsibilities/traffic-manager.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Designer](organization/accountabilities-responsibilities/designer.md)
   * [Project Manager Lead](organization/accountabilities-responsibilities/project-manager-lead.md)
