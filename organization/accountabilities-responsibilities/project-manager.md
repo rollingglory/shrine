@@ -203,11 +203,7 @@ How will your days as a project manager look like? Check this out.
           </li>
           <li>Requirement Specification Document (if your team got an Business Analyst,
             then he/she will do this document)</li>
-          <li>User Story/Proofhub Ticket
-            <ul>
-              <li>Ask PM Lead to access the proofhub ticket samples</li>
-            </ul>
-          </li>
+          <li>&lt;b&gt;&lt;/b&gt;<a href="https://rollingglory.proofhub.com/bapplite/#app/todos/project-5951488036/list-204986412374"><b>User Story/Proofhub Ticket</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/presentation/d/1tddX58U_t3R-DvpXym99JQpEfSvVRUqcb-oIeHAofaI/edit?usp=sharing"><b>Weekly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://docs.google.com/document/d/18MLqs66-lkjU4IhDLAOLuBGWqERyJ2Si/edit?usp=sharing&amp;ouid=110724964321644211337&amp;rtpof=true&amp;sd=true"><b>Meeting of Minutes</b></a>&lt;b&gt;&lt;/b&gt;</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="https://drive.google.com/file/d/12TCgkV77f7qWmQlmnt-HePmtwHemin0L/view?usp=sharing"><b>Maintenance Monthly Report</b></a>&lt;b&gt;&lt;/b&gt;</li>
