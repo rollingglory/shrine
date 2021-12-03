@@ -1,12 +1,14 @@
 # Design Lead
 
-Di Design Team struktural terbagi 3 role, Team Leader, Design Lead, Design Ops.. 
+Di Design Team struktural terbagi 3 role, Team Leader, Design Lead, Design Ops..&#x20;
 
 ## Team Lead
 
 Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
-{% page-ref page="team-leader.md" %}
+{% content-ref url="team-leader.md" %}
+[team-leader.md](team-leader.md)
+{% endcontent-ref %}
 
 ### **Responsibilities**
 
@@ -24,15 +26,15 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 
 
-## UX Lead \(Design Lead\)
+## UX Lead (Design Lead)
 
 ### **Responsibilities**
 
-**Standard & Quality** - bertanggung jawab memastikan/me-review **UX/Wireframe/Wireflow** yang dibuat sudah sesuai dengan kualitas terbaik. \(sesuai dengan kebutuhan user, teknis, maupun bisnis\).
+**Standard & Quality** - bertanggung jawab memastikan/me-review **UX/Wireframe/Wireflow** yang dibuat sudah sesuai dengan kualitas terbaik. (sesuai dengan kebutuhan user, teknis, maupun bisnis).
 
 **Review** - Melakukan review terhadap **UX/Wireframe/Wireflow** yang sudah dibuat
 
-**Ensure implementation** —  bertanggung jawab memastikan/me-review product \(termasuk UI\) yang nantinya didevelop sudah sesuai dengan **UX/Wireframe/Wireflow** yang sudah dirancang sebelumnya.
+**Ensure implementation** —  bertanggung jawab memastikan/me-review product (termasuk UI) yang nantinya didevelop sudah sesuai dengan **UX/Wireframe/Wireflow** yang sudah dirancang sebelumnya.
 
 **Collaboration** - Berkolaborasi dengan dengan AM, PM, Tech lead, dan Team dalam proses development dalam rangka memastikan product didevelop sesuai dengan **UX/Wireframe/Wireflow**.
 
@@ -49,7 +51,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 
 
-## UI Lead \(Design Lead\)
+## UI Lead (Design Lead)
 
 ### **Responsibilities**
 
@@ -78,7 +80,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 ## Others
 
-\*\*\*\*
+****
 
 **Marketing**
 
@@ -93,13 +95,12 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 **CC Lead**
 
 * **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
-* **New project concepts** —  bertanggung jawab dalam mendalami \(digging\) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
+* **New project concepts** —  bertanggung jawab dalam mendalami (digging) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
 
-\*\*\*\*
+****
 
 **Design Ops**
 
 * **Team management —** Bertanggung jawab manage design resources dan project assignment, Manage upcoming dan ongoing projects;  Rutin melakukan project progress check.
 * **Time and budget estimates** - Resource & Timeline planning.
 * **Hiring** — Develop Precoaster Designer test, pre-screening, portfolio reviews, 1 on 1 interviews, test project review.
-

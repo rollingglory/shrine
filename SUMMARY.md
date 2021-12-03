@@ -2,7 +2,7 @@
 
 * [Welcome to Rolling Shrine](README.md)
 
-## RGB Principles <a id="rolling-glory"></a>
+## RGB Principles <a href="#rolling-glory" id="rolling-glory"></a>
 
 * [Glory Principles](rolling-glory/principles.md)
 * [Mission & Vision](rolling-glory/misi-and-visi.md)
@@ -23,10 +23,11 @@
 
 * [Organization Structure](organization/organization.md)
 * [Roles](organization/roles.md)
+* [Career Grade & Performance Management](organization/career-grade-and-performance-management.md)
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
-  * [Program Manager \(PgM\)](organization/accountabilities-responsibilities/program-manager-pgm.md)
-  * [Project Manager \(PM\)](organization/accountabilities-responsibilities/project-manager.md)
+  * [Program Manager (PgM)](organization/accountabilities-responsibilities/program-manager-pgm.md)
+  * [Project Manager (PM)](organization/accountabilities-responsibilities/project-manager.md)
   * [Traffic Management](organization/accountabilities-responsibilities/traffic-manager.md)
   * [Engineer](organization/accountabilities-responsibilities/engineer.md)
   * [Designer](organization/accountabilities-responsibilities/designer.md)
@@ -45,7 +46,7 @@
 * [QA Onboarding](onboarding/qa-onboarding.md)
 * [Web Administrator Onboarding](onboarding/web-administrator-onboarding.md)
 
-## Production & Project Management <a id="production-management"></a>
+## Production & Project Management <a href="#production-management" id="production-management"></a>
 
 * [Production Pipeline](production-management/production-pipeline.md)
 * [Solution Pipeline & Guideline](production-management/pandora-research-guideline.md)
@@ -55,7 +56,7 @@
 * [Design Team Roles & Responsibilities](design-team/design-team.md)
 * [Information Architecture](design-team/information-architecture.md)
 * [Web Design System](design-team/web-design-system/README.md)
-  * [Desktop View Guideline](https://xd.adobe.com/view/22900b86-1b23-45c9-56fa-444616926587-54a1/?fullscreen&mv=product&mv2=accc)
+  * [Desktop View Guideline](https://xd.adobe.com/view/22900b86-1b23-45c9-56fa-444616926587-54a1/?fullscreen\&mv=product\&mv2=accc)
   * [Responsive View Guideline](https://xd.adobe.com/view/b3d4b093-b0ab-482c-4e6e-798c90f2ae3d-c5e5/?fullscreen)
   * [Principle - Typography](https://xd.adobe.com/view/555221bd-7f76-4614-7ce8-08dabdd1acf1-2363/?fullscreen)
   * [Sticker Sheets](design-team/web-design-system/sticker-sheets/README.md)
@@ -97,8 +98,8 @@
 * [JSON API Specification](engineering-team/json-api-specification.md)
 * [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
-* [QA Team Guideline](https://docs.google.com/document/d/1pF_EVTSsvI-d_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
-* [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4_gkRLs/edit#)
+* [QA Team Guideline](https://docs.google.com/document/d/1pF\_EVTSsvI-d\_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
+* [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4\_gkRLs/edit#)
 
 ## Work From Home
 
@@ -106,10 +107,10 @@
 
 ## Documents
 
----
+***
 
+* [Review Guideline](review-guideline.md)
 * [Rolling Daily Log](rolling-daily-log.md)
 * [Work Hour & Leave Policy](work-hour-and-leave-policy.md)
 * [Rolling Ekstra Kurikuler](rolling-ekstra-kurikuler.md)
-* [Coaster Review Guideline \(for Manager & Leader\)](https://docs.google.com/presentation/d/1m0Oos9-MfTWhkNn2HxC2vQjVOja27ltuSnurq0-GuFQ/edit#slide=id.g9bd6c3f831_0_898)
-
+* [Rolling Soft Loan](rolling-soft-loan.md)

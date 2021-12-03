@@ -8,9 +8,9 @@ Hal tersebut ditujukan untuk memastikan bahwa project/product yang dikerjakan ol
 
 ## Tanggung Jawab
 
-* **Understand** - Memahami atau mengerti bagaimana flow atau fungsionalitas dari project/product yang akan test. 
-* **Preparing Scenario** - Mempersiapkan rencana pengujian kualitas/testing dari project/product yang sedang didevelop dengan detail dan jelas. 
-* **Testing** - Melakukan pengujian dari project/product dengan teliti untuk memastikan bahwa sudah sesuai dengan fungsionalitas dan kebutuhan yang telah disepakati. 
+* **Understand** - Memahami atau mengerti bagaimana flow atau fungsionalitas dari project/product yang akan test.&#x20;
+* **Preparing Scenario** - Mempersiapkan rencana pengujian kualitas/testing dari project/product yang sedang didevelop dengan detail dan jelas.&#x20;
+* **Testing** - Melakukan pengujian dari project/product dengan teliti untuk memastikan bahwa sudah sesuai dengan fungsionalitas dan kebutuhan yang telah disepakati.&#x20;
 * **Bug / Defect Reporting** - Melaporkan kepada PM dan Engineer jika menemukan fitur yang tidak berfungsi sesuai dengan yang diharapkan.
 * **Documentation** - Menuliskan dengan baik dan jelas seluruh tanggung jawab diatas pada platfom yang sudah disepakati bersama di tim internal.
 * **Re-Doing** - Melakukan pengecekan ulang seluruh tanggung jawab diatas untuk memastikan bahwa apa yang sudah didevelop maupun yang sudah diperbaiki sudah siap untuk diluncurkan / dikirimkan ke stakeholder / enduser.
@@ -25,7 +25,7 @@ Dengan adanya rasa memiliki tersebut diharapkan QA dapat memastikan bahwa apa ya
 
 #### Teliti
 
-Untuk mencapai produk yang sempurna tidaklah mudah. Banyak faktor yang terjadi jika error itu terjadi, seperti kesalahan dalam penulisan kode dari developer, device yang kurang mendukung, kesalahan dalam pengerjaan desain, atau bahkan kesalahan dari end user. 
+Untuk mencapai produk yang sempurna tidaklah mudah. Banyak faktor yang terjadi jika error itu terjadi, seperti kesalahan dalam penulisan kode dari developer, device yang kurang mendukung, kesalahan dalam pengerjaan desain, atau bahkan kesalahan dari end user.&#x20;
 
 Ketelitian QA dalam melakukan pengujian sangat diharapkan agar hal-hal diatas tidak terjadi pada project/ product yang kita develop.
 
@@ -37,7 +37,7 @@ Hal-hal kritis dan proaktif diatas dapat membuat produk mampu melewati jaminan k
 
 #### Kemampuan Komunikasi yang Bagus
 
-Komunikasi yang bagus merupakah bagian dari pengamalan value RGB. Seorang QA diharapkan untuk dapat berkomunikasi dengan baik, terutama dalam bertanya, menyampaikan ide, melakukan diskusi pada kemungkinan-kemungkinan yang dapat terjadi pada project / product yang didevelop. 
+Komunikasi yang bagus merupakah bagian dari pengamalan value RGB. Seorang QA diharapkan untuk dapat berkomunikasi dengan baik, terutama dalam bertanya, menyampaikan ide, melakukan diskusi pada kemungkinan-kemungkinan yang dapat terjadi pada project / product yang didevelop.&#x20;
 
 Kemunikasi yang bagus juga tidak hanya pada komunikasi lisan saja, tetapi juga termasuk komunikasi tertulis baik dalam menyampaikan masalah maupun menuliskan dokumentasi.
 
@@ -47,7 +47,9 @@ Kemunikasi yang bagus juga tidak hanya pada komunikasi lisan saja, tetapi juga t
 
 Untuk informasi detail mengenai Guideline QA di RGB dapat dilihat di link berikut
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 

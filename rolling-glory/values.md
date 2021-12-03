@@ -2,7 +2,7 @@
 
 Untuk menjalankan misi dan mencapai visi, Rolling Glory memiliki 3 _values_ yang menjadi pedoman untuk seluruh coaster. Nilai-nilai ini harus selalu menjadi pedoman dalam kehidupan sehari-hari di studio secara sosial maupun profesional dan juga menjadi pedoman saat berhubungan dengan pihak luar seperti klien, partner, dan komunitas.
 
-_Values_ dari Rolling Glory adalah: 
+_Values_ dari Rolling Glory adalah:&#x20;
 
 {% hint style="warning" %}
 1. Kindness & Care
@@ -14,13 +14,13 @@ _Values_ dari Rolling Glory adalah:
 
 Value kindness & care sangat penting untuk bisa menciptakan sebuah atmosfer yang positif dan kondusif.
 
-Dengan value kindness, coaster diharapkan untuk bisa tetap bisa _kind_/baik hati di berbagai situasi, terutama ketika situasinya kurang kondusif. _Kindness_/kebaikan hati ditentukan dari kemampuan kita untuk bisa ramah, murah hati, dan tenggang hati \(_considerate_\) ketika situasi tidak mendukung dan menantang kita untuk melakukan hal-hal yang tidak _kind_.
+Dengan value kindness, coaster diharapkan untuk bisa tetap bisa _kind_/baik hati di berbagai situasi, terutama ketika situasinya kurang kondusif. _Kindness_/kebaikan hati ditentukan dari kemampuan kita untuk bisa ramah, murah hati, dan tenggang hati (_considerate_) ketika situasi tidak mendukung dan menantang kita untuk melakukan hal-hal yang tidak _kind_.
 
-Dengan value care, coaster diharapkan untuk bisa peduli kepada diri sendiri \(_self-care_\), peduli ke sesama coaster, peduli ke lingkungan kerja, peduli ke task yang sedang dikerjakan, peduli kepada klien/partner, hingga peduli kepada _user_ yang akan menggunakan produk yang dibuat Rolling Glory.
+Dengan value care, coaster diharapkan untuk bisa peduli kepada diri sendiri (_self-care_), peduli ke sesama coaster, peduli ke lingkungan kerja, peduli ke task yang sedang dikerjakan, peduli kepada klien/partner, hingga peduli kepada _user_ yang akan menggunakan produk yang dibuat Rolling Glory.
 
 ### Openness
 
-Openness bermakna terbuka dalam berkomunikasi dan juga berpikiran terbuka \(_open minded_\). 
+Openness bermakna terbuka dalam berkomunikasi dan juga berpikiran terbuka (_open minded_).&#x20;
 
 Komunikasi adalah salah kunci dalam bekerja bersama tim, dengan komunikasi yang baik, tim akan bisa kokoh dan memiliki resultan gaya yang maksimum untuk mencapai tujuan yang mau dicapai. Dengan value openness ini, coaster diharapkan bisa mengkomunikasikan apapun yang perlu dikomunikasikan walaupun mungkin itu bukan hal yang baik atau mudah disampaikan.
 
@@ -36,7 +36,7 @@ Kepercayaan ditentukan dari sifat-sifat seperti memiliki tanggung jawab, berinte
 
 ## Applying Values on Daily Bases
 
-Knowledge hanyalah sebuah knowledge sampai dia dipahami, tetapi pemahaman \(understanding\) juga hanyalah sebuah pemahaman sampai dia di-amalkan/dilakukan. 
+Knowledge hanyalah sebuah knowledge sampai dia dipahami, tetapi pemahaman (understanding) juga hanyalah sebuah pemahaman sampai dia di-amalkan/dilakukan.&#x20;
 
 Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
@@ -44,7 +44,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Care in Team:** 
+### **Care in Team:**&#x20;
 
 **Memahami dan mengerti bahwa kita tidak bekerja sendirian.**
 
@@ -62,20 +62,20 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Care in Project/Product:** 
+### **Care in Project/Product:**&#x20;
 
 **Memahami dan mengerti apa yang hendak dibuat dan bagaimana mencapainya.**
 
-* Aktif mengikuti daily/weekly meeting agar selalu terupdate dengan milestone dan tujuan bersama. 
+* Aktif mengikuti daily/weekly meeting agar selalu terupdate dengan milestone dan tujuan bersama.&#x20;
 * Aktif memastikan apakah pekerjaan yang sudah dilakukan sudah sesuai dengan kebutuhan/keinginan/brief/kontrak.
 
 **Memahami dan mengerti siapa pengguna produk, bagaimana mereka menggunakannya dan untuk apa produk ini dibuat.**
 
-* Aktif bertanya dan mencari tahu apabila ada hal yang kurang dipahami. \(bukan pasif dan asal pekerjaan selesai\).
+* Aktif bertanya dan mencari tahu apabila ada hal yang kurang dipahami. (bukan pasif dan asal pekerjaan selesai).
 
 
 
-### **Care in Company:** 
+### **Care in Company:**&#x20;
 
 **Memahami dan mengerti tujuan RGB dan bagaimana kita akan mencapainya.**
 
@@ -87,11 +87,11 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Care with Client:** 
+### **Care with Client:**&#x20;
 
 **Memahami dan mengerti problem klien.**
 
-* Aktif bertanya/berdiskusi dengan klien \(atau AM\) dalam rangka memahami bahwa memang problem ini yang mau di address
+* Aktif bertanya/berdiskusi dengan klien (atau AM) dalam rangka memahami bahwa memang problem ini yang mau di address
 * Membantu klien untuk melihat permasalahan lagi secara lebih luas.
 
 **Memahami dan mengerti tujuan & keinginan klien.**
@@ -103,18 +103,18 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 ![](../.gitbook/assets/screen-shot-2020-11-11-at-11.03.28.png)
 
-\*\*\*\*
+****
 
-### **Openness in Team:** 
+### **Openness in Team:**&#x20;
 
 **Speak up idea**
 
-* Berani menyampaikan idenya, apabila mempunyai ide yang dirasa bagus \(ataupun ganjalan\) untuk tim dalam suatu pekerjaan.
+* Berani menyampaikan idenya, apabila mempunyai ide yang dirasa bagus (ataupun ganjalan) untuk tim dalam suatu pekerjaan.
 
 **No hard feeling**
 
-* Bisa menerima/memahami apabila ada perbedaan pendapat 
-* Bisa memahami kalau ide yang disampaikan, pada akhirnya tidak bisa diimplementasikan oleh tim. 
+* Bisa menerima/memahami apabila ada perbedaan pendapat&#x20;
+* Bisa memahami kalau ide yang disampaikan, pada akhirnya tidak bisa diimplementasikan oleh tim.&#x20;
 * Tidak berhenti memberikan pendapat karena ini.
 
 **Advance notice**
@@ -123,20 +123,20 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Openness in Project/Product:** 
+### **Openness in Project/Product:**&#x20;
 
 **Always Beta**
 
 * Memahami bahwa product/project yang dikerjakan ini selalu mempunyai ruang yg cukup untuk dieksplorasi.
-* Terbuka dengan masukan/ide/improvement/kritik terhadap product/project yang sedang dikerjakan meskipun masukan tersebut dirasa berbeda. 
+* Terbuka dengan masukan/ide/improvement/kritik terhadap product/project yang sedang dikerjakan meskipun masukan tersebut dirasa berbeda.&#x20;
 
-**Actively asking question about the product \(curious\)**
+**Actively asking question about the product (curious)**
 
-* Aktif/berani bertanya, untuk mendalami \(atau kurang mengerti\) mengenai product/project yang sedang dikembangkan.
+* Aktif/berani bertanya, untuk mendalami (atau kurang mengerti) mengenai product/project yang sedang dikembangkan.
 
 
 
-### **Openness in Company:** 
+### **Openness in Company:**&#x20;
 
 **Speak up in good and bad**
 
@@ -150,16 +150,16 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Openness with Clients:** 
+### **Openness with Clients:**&#x20;
 
 **Menjadi teman diskusi yang baik**
 
-* Terbuka dengan segala masukan, input, pertimbangan dari pihak klien. 
+* Terbuka dengan segala masukan, input, pertimbangan dari pihak klien.&#x20;
 * Bisa memberikan saran yang saling membangun demi tercapainya tujuan bersama.
 
 **Honest and gives notice**
 
-* Selalu memberi tahu/raise sebelumnya ketika diketahui akan terjadi sesuatu yang urgent. \(jangan menutup-nutupi/terlambat dalam memberikan update/berita\).
+* Selalu memberi tahu/raise sebelumnya ketika diketahui akan terjadi sesuatu yang urgent. (jangan menutup-nutupi/terlambat dalam memberikan update/berita).
 
 
 
@@ -167,7 +167,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Be Trusted in Team:** 
+### **Be Trusted in Team:**&#x20;
 
 **Be there**
 
@@ -183,7 +183,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Be Trusted in Project/Product:** 
+### **Be Trusted in Project/Product:**&#x20;
 
 **Meet the Dates**
 
@@ -195,7 +195,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Be Trusted in Company:** 
+### **Be Trusted in Company:**&#x20;
 
 **Know our Mission**
 
@@ -207,7 +207,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 
-### **Be Trusted with Clients:** 
+### **Be Trusted with Clients:**&#x20;
 
 **Honest & Open**
 
@@ -220,8 +220,6 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 
 ![](../.gitbook/assets/screen-shot-2020-11-11-at-11.32.05.png)
-
-
 
 
 

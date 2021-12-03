@@ -2,13 +2,15 @@
 
 Untuk melihat Panduan Roles Designer dan Responsibilites-nya bisa dilihat di sini
 
-{% page-ref page="../../design-team/design-team.md" %}
+{% content-ref url="../../design-team/design-team.md" %}
+[design-team.md](../../design-team/design-team.md)
+{% endcontent-ref %}
 
 Di section ini lebih dibahas apa saja yang harus dipunyai oleh masing-masing roles
 
 ## 2D Artist/Illustrator
 
-Seorang 2D Artist **bertanggung jawab untuk membuat/mengembangkan asset-asset ilustrasi untuk kebutuhan project maupun product** \(sesuai dengan visual identity brand ataupun persona user\)**.** Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game.  
+Seorang 2D Artist **bertanggung jawab untuk membuat/mengembangkan asset-asset ilustrasi untuk kebutuhan project maupun product** (sesuai dengan visual identity brand ataupun persona user)**.** Seperti contohnya icon/ilustrasi untuk website, mobile apps, juga asset-asset ilustrasi untuk kebutuhan development game. &#x20;
 
 Sebagai 2D Artist kamu harus:
 
@@ -29,13 +31,15 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh 2D artist:
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% page-ref page="../../rolling-glory/principles.md" %}
+{% content-ref url="../../rolling-glory/principles.md" %}
+[principles.md](../../rolling-glory/principles.md)
+{% endcontent-ref %}
 
 
 
 ## UI Designer
 
-Seorang UI designer **bertanggung jawab untuk mem-visualisasi-kan wireframe yang sudah dibuat supaya terlihat indah, cantik, dan sesuai dengan kebutuhan klien** \(sesuai dengan visual identity brand ataupun persona user\).
+Seorang UI designer **bertanggung jawab untuk mem-visualisasi-kan wireframe yang sudah dibuat supaya terlihat indah, cantik, dan sesuai dengan kebutuhan klien** (sesuai dengan visual identity brand ataupun persona user).
 
 Sebagai UI designer kamu harus:
 
@@ -56,7 +60,9 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UI designer
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% page-ref page="../../rolling-glory/principles.md" %}
+{% content-ref url="../../rolling-glory/principles.md" %}
+[principles.md](../../rolling-glory/principles.md)
+{% endcontent-ref %}
 
 ## UX Designer
 
@@ -83,13 +89,17 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Designer:
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% page-ref page="../../rolling-glory/principles.md" %}
+{% content-ref url="../../rolling-glory/principles.md" %}
+[principles.md](../../rolling-glory/principles.md)
+{% endcontent-ref %}
 
 ## Creative Conceptor
 
-Seorang Creative Conceptor mempunyai **tanggung jawab untuk memberikan solusi kreatif** dalam rangka menjawab kebutuhan klien, **sesuai dengan proses yang baik dan benar**. 
+Seorang Creative Conceptor mempunyai **tanggung jawab untuk memberikan solusi kreatif** dalam rangka menjawab kebutuhan klien, **sesuai dengan proses yang baik dan benar**.&#x20;
 
-{% page-ref page="../../production-management/pandora-research-guideline.md" %}
+{% content-ref url="../../production-management/pandora-research-guideline.md" %}
+[pandora-research-guideline.md](../../production-management/pandora-research-guideline.md)
+{% endcontent-ref %}
 
 Sebagai CC kamu harus:
 
@@ -107,9 +117,11 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh Creative Concep
 
 ![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.51.07.png)
 
-Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:&#x20;
 
-{% page-ref page="../../rolling-glory/principles.md" %}
+{% content-ref url="../../rolling-glory/principles.md" %}
+[principles.md](../../rolling-glory/principles.md)
+{% endcontent-ref %}
 
 ## UX Writer
 
@@ -130,13 +142,15 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Writer:
 
-Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:&#x20;
 
-{% page-ref page="designer.md" %}
+{% content-ref url="designer.md" %}
+[designer.md](designer.md)
+{% endcontent-ref %}
 
 ## UX Researcher
 
-Seorang UX Researcher **bertanggung jawab dalam melakukan riset terhadap user ataupun project/product** yang sedang didevelop. ****UX researcher harus **membuat dokumen report** based on hasil riset nya.
+Seorang UX Researcher **bertanggung jawab dalam melakukan riset terhadap user ataupun project/product** yang sedang didevelop. **** UX researcher harus **membuat dokumen report** based on hasil riset nya.
 
 sebagai UX Researcher kamu harus:
 
@@ -154,9 +168,9 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Researcher:
 
-Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles: 
+Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:&#x20;
 
-{% page-ref page="../../rolling-glory/principles.md" %}
-
-
+{% content-ref url="../../rolling-glory/principles.md" %}
+[principles.md](../../rolling-glory/principles.md)
+{% endcontent-ref %}
 
