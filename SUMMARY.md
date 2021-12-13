@@ -114,3 +114,4 @@
 * [Work Hour & Leave Policy](work-hour-and-leave-policy.md)
 * [Rolling Ekstra Kurikuler](rolling-ekstra-kurikuler.md)
 * [Rolling Soft Loan](rolling-soft-loan.md)
+* [Overtime Reward](overtime-reward.md)
