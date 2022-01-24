@@ -2,7 +2,7 @@
 
 ### Quarter Reward
 
-_Akses dengan dengan account Rolling Glory:_
+_Akses dengan account Rolling Glory:_
 
 __
 
