@@ -1,6 +1,6 @@
 # House Party Program
 
-### Quarter Reward
+### House Party Program
 
 House Party adalah program makan-makan merayakan milestone project, retrospective, maupun sekadar bonding antar tim bersama-sama yang disupport oleh Rolling Glory.
 
