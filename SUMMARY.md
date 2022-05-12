@@ -114,7 +114,7 @@
 * [Work Hour & Leave Policy](work-hour-and-leave-policy.md)
 * [Rolling Ekstra Kurikuler](rolling-ekstra-kurikuler.md)
 * [Rolling Soft Loan](rolling-soft-loan.md)
-* [Overtime Reward](overtime-reward.md)
+* [Overtime Appreciation](overtime-appreciation.md)
 * [Quarter Reward](quarter-reward.md)
 * [House Party Program](house-party-program.md)
 * [Tribe Leader Guideline](tribe-leader-guideline.md)

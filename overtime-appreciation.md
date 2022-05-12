@@ -1,8 +1,8 @@
-# Overtime Reward
+# Overtime Appreciation
 
-### Overtime (OT) Reward
+### Overtime (OT) Appreciation
 
-Overtime (OT) Reward adalah program apreasiasi Rolling Glory akan coaster yang sudah berkontribusi dan bekerja keras hingga melebihi waktu kerja yang seharusnya.
+Overtime (OT) Appreciation adalah program apreasiasi Rolling Glory akan coaster yang sudah berkontribusi dan bekerja keras hingga melebihi waktu kerja yang seharusnya.
 
 _Akses dengan account Rolling Glory:_
 
