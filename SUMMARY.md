@@ -85,6 +85,9 @@
     * [Vertical List](design-team/mobile-ui-technical-guideline/core-components/vertical-list.md)
   * [Complex Components](design-team/mobile-ui-technical-guideline/complex-components.md)
   * [Layout](design-team/mobile-ui-technical-guideline/layout.md)
+* [Web UI Technical Guideline](design-team/web-ui-technical-guideline/README.md)
+  * [Design System](design-team/web-ui-technical-guideline/design-system/README.md)
+    * [Design System Checklist](design-team/web-ui-technical-guideline/design-system/design-system-checklist.md)
 
 ## Engineering Team
 
@@ -99,7 +102,7 @@
 * [GlorySDK for Android](https://github.com/rollingglory/GlorySDK-android)
 * [GloryKit for iOS](https://github.com/rollingglory/GloryKit)
 * [QA Team Guideline](https://docs.google.com/document/d/1pF\_EVTSsvI-d\_r6IcE6cfMqFA2JoEAXwbrPyi05uqSM/edit#heading=h.nyj45ywvi77d)
-* [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4\_gkRLs/edit#)
+* [Engineering Stuff Documents](https://docs.google.com/document/d/1Kln7IVP1SlI58BHeBPFiSD2LojWUYr1Zn86i4\_gkRLs/edit)
 
 ## Work From Home
 
