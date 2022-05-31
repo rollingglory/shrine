@@ -113,6 +113,7 @@
 ***
 
 * [Review Guideline](review-guideline.md)
+* [COVID-19 Prevention - Studio Protocol](covid-19-prevention-studio-protocol.md)
 * [Rolling Daily Log](rolling-daily-log.md)
 * [Work Hour & Leave Policy](work-hour-and-leave-policy.md)
 * [Rolling Ekstra Kurikuler](rolling-ekstra-kurikuler.md)
