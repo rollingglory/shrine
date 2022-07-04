@@ -122,3 +122,4 @@
 * [Quarter Reward](quarter-reward.md)
 * [House Party Program](house-party-program.md)
 * [Tribe Leader Guideline](tribe-leader-guideline.md)
+* [HRIS Talenta Onboard](hris-talenta-onboard.md)
