@@ -42,11 +42,11 @@ Berisi rangkaian field input di mana user dapat memasukkan informasi ke dalam fi
 
 Merupakan serangkaian efek/trait pada komponen lain, biasanya mencakup **shadow, radius** dan **border**. Semua trait ini dapat digunakan ke dalam komponen lain seperti card, container, button, input field, dst.
 
-#### Cards
+#### Cards (opsional)
 
 Card sudah menjadi suatu komponen yang hampir selalu ada di setiap website, sehingga kebutuhan akan card yg terstandarisasi menjadi lebih tinggi supaya engineer tidak meraba-raba dalam membuat komponen yang satu ini. Card menggabungkan container dengan effect, serta layout di dalamnya yang juga merupakan kumpulan komponen-komponen kecil.
 
-#### Navigations
+#### Navigations (opsional)
 
 Berisi **tab, breadcrumbs, pagination, header** dan (opsional) **footer**. Segala navigasi website sesuai flow/fiturnya bisa diakses oleh user ada di sini.
 
