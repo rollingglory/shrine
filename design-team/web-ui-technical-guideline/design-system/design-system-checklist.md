@@ -53,3 +53,7 @@ Berisi **tab, breadcrumbs, pagination, header** dan (opsional) **footer**. Segal
 #### Icons (opsional)
 
 Apabila designer menggunakan icon pack (misal Favicon, atau Flaticon, di mana disediakan juga oleh penyedia icon pack bagi enginer) maka tidak perlu memasukkan list icon ke dalam design system. Akan tetapi, apabila icon yang digunakan agak custom atau buat sendiri, maka penting untuk dimasukkan.
+
+#### Feedback (opsional)
+
+Feedback berisi komponen-komponen yang bermaksud untuk memberikan informasi balikan dari suatu aksi yang dilakukan oleh user, bisa berupa notifikasi/**toast**, atau **modal dialog** dengan kemungkinan user untuk menginputkan sesuatu kembali.
