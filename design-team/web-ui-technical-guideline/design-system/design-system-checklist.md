@@ -40,7 +40,19 @@ Berisi rangkaian field input di mana user dapat memasukkan informasi ke dalam fi
 
 #### Effects
 
-Merupakan serangkaian efek/trait pada komponen lain, biasanya mencakup **shadow, radius** dan **border**. Semua trait ini dapat digunakan ke dalam komponen lain seperti card, container, button, input field, dst.
+Merupakan serangkaian efek/trait pada komponen lain, biasanya mencakup **shadow/elevation, radius** dan **border**. Semua trait ini dapat digunakan ke dalam komponen lain seperti card, container, button, input field, dst.
+
+#### Data State
+
+Pada sebuah container yang memiliki data untuk dimuat atau diproses, misal sebuah list, terdapat beberapa state pada container tersebut yang dapat ditampilkan berdasarkan data yang dimuat.\
+State **Complete** adalah state ideal app tersebut di mana data dimuat dengan baik.\
+State **Empty** adalah state di mana app sudah memanggil data, namun tidak ada data tersedia.\
+State **Loading** adalah state ketika app sedang dalam proses menunggu pengambilan data.\
+State **Error** adalah state apabila app tidak dapat mengambil data karena suatu hal.
+
+#### Feedback
+
+Feedback berisi komponen-komponen yang bermaksud untuk memberikan informasi balikan dari suatu aksi yang dilakukan oleh user, bisa berupa notifikasi/**toast**, atau **modal dialog** dengan kemungkinan user untuk menginputkan sesuatu kembali.
 
 #### Cards (opsional)
 
@@ -53,7 +65,3 @@ Berisi **tab, breadcrumbs, pagination, header** dan (opsional) **footer**. Segal
 #### Icons (opsional)
 
 Apabila designer menggunakan icon pack (misal Favicon, atau Flaticon, di mana disediakan juga oleh penyedia icon pack bagi enginer) maka tidak perlu memasukkan list icon ke dalam design system. Akan tetapi, apabila icon yang digunakan agak custom atau buat sendiri, maka penting untuk dimasukkan.
-
-#### Feedback (opsional)
-
-Feedback berisi komponen-komponen yang bermaksud untuk memberikan informasi balikan dari suatu aksi yang dilakukan oleh user, bisa berupa notifikasi/**toast**, atau **modal dialog** dengan kemungkinan user untuk menginputkan sesuatu kembali.
