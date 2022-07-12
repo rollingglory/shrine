@@ -86,8 +86,8 @@
   * [Complex Components](design-team/mobile-ui-technical-guideline/complex-components.md)
   * [Layout](design-team/mobile-ui-technical-guideline/layout.md)
 * [Web UI Technical Guideline](design-team/web-ui-technical-guideline/README.md)
-  * [Design System](design-team/web-ui-technical-guideline/design-system/README.md)
-    * [Design System Checklist](design-team/web-ui-technical-guideline/design-system/design-system-checklist.md)
+  * [Design System](design-team/web-ui-technical-guideline/design-system.md)
+  * [Design System Checklist](design-team/web-ui-technical-guideline/design-system-checklist.md)
 
 ## Engineering Team
 
