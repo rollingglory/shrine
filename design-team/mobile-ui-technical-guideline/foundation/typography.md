@@ -75,6 +75,12 @@ Beberapa hal yang perlu diperhatikan untuk _text scale_ di atas adalah:
 1. Pada komponen teks tunggal (bukan paragraf atau _button_), desainer dan developer bisa menghiraukan _line height_ (membuat _line height_-nya 1x dari _font size_), supaya posisi teks tersebut bisa dengan tepat berada di tengah _container_.
 2. _Subtitle_ dan _body_ memiliki ukuran yang sama, yang membedakannya hanyalah pada _font weight_. _Body_ biasanya memiliki _weight_ regular (400\~500) sementara _subtitle_ memiliki _weight_ lebih _medium/semibold_ (600\~800).
 
+**Contoh penggunaan **_**type scale**_
+
+![Penggunaan type scale pada UI #1](<../../../.gitbook/assets/Screen Shot 2022-07-20 at 16.39.54.png>)
+
+![Penggunaan type scale pada UI #2](<../../../.gitbook/assets/Screen Shot 2022-07-20 at 16.41.48.png>)
+
 Referensi untuk bacaan lebih lanjut:
 
 {% embed url="https://developer.apple.com/design/human-interface-guidelines/foundations/typography/" %}
