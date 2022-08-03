@@ -1,3 +1,7 @@
+---
+description: Styles of the family
+---
+
 # Typography
 
 Tipografi yang digunakan dalam suatu aplikasi _mobile_ memiliki andil dalam merepresentasikan _brand_ yang diangkat. Selain keperluan tersebut, tipografi juga baiknya memiliki aturan penggunaan sebagai komponen dalam aplikasi serta bersifat memudahkan bagi pengguna yang membacanya.
