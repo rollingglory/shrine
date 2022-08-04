@@ -8,7 +8,7 @@ Dalam menentukan jarak/spasi antar komponen dalam sebuah desain aplikasi _mobile
 
 Rolling Glory mengikuti acuan Apple dan Google dalam menentukan _base unit_ untuk spasi, yaitu sebesar **8 **_**pixel/point**_** ** atau oleh beberapa sumber biasa disebut _**Rule of 8**_. Artinya, segala spasi yang digunakan dalam desain merupakan faktor dan kelipatan dari 8, yaitu 1, 2, 4, 8, 16, 24, 32, dst.
 
-![Rule of 8](<../../../.gitbook/assets/image (34).png>)
+![Rule of 8](<../../../.gitbook/assets/image (34) (1).png>)
 
 Namun banyak kasus di mana penggunaan spasi 8 dirasa terlalu sempit, sementara 16 dirasa terlalu lebar. Maka dari itu toleransi penggunaan angka tengah dapat dilakukan. Seperti pertengahan antara 8 dan 16 adalah 12, maka digunakan spasi sebesar 12 _pixel_. Untuk lebih jelasnya, referensi gambar dari _material design_ dapat membantu _coaster_ memahami _base unit_. (Angka tengah ini secara tidak langsung berupa faktor dan kelipatan dari 4, maka kombinasi _base unit_ 4 dan 8 adalah kombinasi yang cocok)
 
@@ -34,7 +34,7 @@ _Container_ merupakan sebuah bingkai yang menyimpan berbagai konten di dalamnya.
 
 _Padding_ _container_ secara umum lazim menggunakan spasi sebesar **minimal 16px** dan diterapkan di segala sisi, seperti referensi gambar berikut:
 
-![16px padding for containers](<../../../.gitbook/assets/image (6).png>)
+![16px padding for containers](<../../../.gitbook/assets/image (6) (1).png>)
 
 #### 2C: _Content_
 
