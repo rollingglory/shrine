@@ -125,3 +125,4 @@
 * [House Party Program](house-party-program.md)
 * [Tribe Leader Guideline](tribe-leader-guideline.md)
 * [HRIS Talenta Onboard](hris-talenta-onboard.md)
+* [Coaster Loyalty Reward](coaster-loyalty-reward.md)

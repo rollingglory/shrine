@@ -27,7 +27,7 @@ Secara umum, dengan membawa brand dari projek/produk yang digarap, warna pada de
 
 Warna-warna primer adalah warna yang paling sering digunakan pada UI, membedakan produk dengan produk lainnya. Warna primer biasanya diambil dari warna utama brand yang diusung. Menggunakan warna brand sebagai warna primer memperkuat identitas brand pada UI yg dibuat.
 
-![Warna primer dan warna brand](<../../../.gitbook/assets/image (3) (2).png>)
+![Warna primer dan warna brand](<../../../.gitbook/assets/image (3).png>)
 
 **Secondary colors**
 
@@ -47,7 +47,7 @@ Warna netral dapat berupa kumpulan nuansa abu-abu, dari putih hingga hitam, atau
 
 Adalah kumpulan warna yang memiliki maksud untuk memberitahukan kondisi tertentu. Secara umum, warna semantik mencakup warna untuk memvisualisasikan status **success, error, warning** dan **information**. Success biasanya diberi warna kehijauan, error diberi warna kemerahan, warning diberi warna kekuningan/keoranyean, dan information biasa diberi warna kebiruan. Bila ada status/kondisi lain, desainer dapat memasukkannya ke dalam warna semantik.
 
-![Warna semantik](<../../../.gitbook/assets/image (34) (2).png>)
+![Warna semantik](<../../../.gitbook/assets/image (34).png>)
 
 #### Color Naming Convention
 

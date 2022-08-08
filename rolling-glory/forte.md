@@ -10,7 +10,7 @@ Definisi product dan service yang premium tersebut dijabarkan lebih dalam dengan
 
 ## Satisfaction 360
 
-![Satisfaction 360](../.gitbook/assets/image.png)
+![Satisfaction 360](<../.gitbook/assets/image (5).png>)
 
 Dengan Satisfaction 360, Rolling Glory memperhatikan tingkat kepuasan akan product yang dihasilkan tidak hanya berdasarkan kepuasan _**stakeholders**_ (_client, partner_), namun juga tingkat kepuasan dari _**end-users**_ yang akan memakai product tersebut dan team Rolling Glory yang mengembangkannya pun puas dengan hasilnya dan sesuai dengan standard kualitas Rolling Glory.
 
