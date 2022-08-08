@@ -16,7 +16,7 @@ Pada desain UI website, penggunaan column sebagai guide sudah sangat lazim, deng
 
 Salah satu sistem column pada mobile app atau website responsive, adalah penggunaan 12 column, sama seperti pada website full-width, karena 12 column memungkinkan desainer untuk menempatkan elemen UI dengan jumlah ganjil atau genap di satu baris (row).
 
-![12 columns untuk canvas mobile app](../../../.gitbook/assets/image.png)
+![12 columns untuk canvas mobile app](<../../../.gitbook/assets/image (34).png>)
 
 Untuk simplisitas, beberapa guide menyebutkan bahwa desain UI mobile app hanya membutuhkan 4 hingga 6 column. Hal ini memeungkinkan apabila app yang dibuat termasuk seamless dan sederhana, dengan sedikit elemen atau fitur di dalamnya. Namun apabila desain UI yang digarap merupakan app marketplace, dengan bejibun elemen, 4 atau 6 column bisa dibilang terlalu sedikit untuk mengakomodasi jenis elemen yang beragam dengan ukuran yang berbeda-beda.
 
@@ -30,7 +30,7 @@ Sebelum memasuki step desain wireframe/lo-fi, desainer dapat menentukan sistem c
 
 Berhubungan dengan spacing, gutter adalah jarak antar column, sementara margin adalah spasi di sebelah kiri dan kanan keseluruhan column. Secara umum, nilai margin untuk column pada desain UI mobile app adalah sebesar **16px**. Nilai ini sejalan dengan aturan spacing pada guide sebelumnya. Sementara, nilai dari gutter, biasanya lebih kecil dari nilai margin, dan pada kasus ini, berada di angka sebesar **8px**.
 
-![Gutter & margin](<../../../.gitbook/assets/image (1).png>)
+![Gutter & margin](<../../../.gitbook/assets/image (3).png>)
 
 Tentu aturan column, gutter dan margin ini tidak bersifat memaksa, maka dari itu desainer boleh merubahnya sesuai dengan kebutuhan projek/produk yang digarap.
 
