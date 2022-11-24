@@ -24,6 +24,7 @@
 * [Organization Structure](organization/organization.md)
 * [Roles](organization/roles.md)
 * [Career Grade & Performance Management](organization/career-grade-and-performance-management.md)
+* [Competencies Dictionary](organization/competencies-dictionary.md)
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
   * [Team Leader](organization/accountabilities-responsibilities/team-leader.md)
   * [Program Manager (PgM)](organization/accountabilities-responsibilities/program-manager-pgm.md)
@@ -126,4 +127,3 @@
 * [Tribe Leader Guideline](tribe-leader-guideline.md)
 * [HRIS Talenta Onboard](hris-talenta-onboard.md)
 * [Coaster Loyalty Reward](coaster-loyalty-reward.md)
-* [Competencies Dictionary](competencies-dictionary.md)

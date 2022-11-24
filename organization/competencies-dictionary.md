@@ -1,6 +1,6 @@
 # Competencies Dictionary
 
-Kamus Kompetensi Rolling Glory 2022&#x20;
+### Kamus Kompetensi Rolling Glory 2022&#x20;
 
 Kamus Kompetensi adalah daftar kompetensi yang diekspektasikan dimiliki oleh coaster di Rolling Glory sesuai dengan grade-nya.
 
@@ -15,8 +15,6 @@ Core Competencies&#x20;
 Leadership Competencies
 
 Management Competencies
-
-
 
 ### Link
 
