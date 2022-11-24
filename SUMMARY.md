@@ -126,3 +126,4 @@
 * [Tribe Leader Guideline](tribe-leader-guideline.md)
 * [HRIS Talenta Onboard](hris-talenta-onboard.md)
 * [Coaster Loyalty Reward](coaster-loyalty-reward.md)
+* [Competencies Dictionary](competencies-dictionary.md)
