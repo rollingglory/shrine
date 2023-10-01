@@ -2,29 +2,46 @@
 
 ## Roles & Responsibilities
 
-### Management Team
+### Project Management Team
 
-#### Account Manager
+#### 1. Program Manager
 
-#### Project Manager
+#### 2. Project Manager
 
 ### Project Team
 
-#### Business Analyst
+#### 1. Business Analyst
 
-#### Designer
+#### 2. Designer
 
-#### Developer
+#### 3. Engineer
 
-#### QA Tester
+#### 4. QA Tester
 
-### Operational Team
+### Infrastructure Team
 
-#### Studio Manager
+#### 1. System Admin
 
-#### HR Officer
+#### 2. DevOps Engineer
 
-### Finance Team
+#### 3. Web Administrator
 
-#### Finance Administrator
+### Business Development Team
 
+#### 1. Technical Sales
+
+### Production & Traffic Team
+
+#### 1. Traffic Manager
+
+### People & Culture Team
+
+#### 1. People Operations Officer
+
+#### 2. HR Officer
+
+#### 3. Studio Manager
+
+### Finance & Tax Team
+
+#### 1. Accounting Officer
