@@ -7,3 +7,7 @@
 {% content-ref url="team-lead.md" %}
 [team-lead.md](team-lead.md)
 {% endcontent-ref %}
+
+{% content-ref url="tribe-lead.md" %}
+[tribe-lead.md](tribe-lead.md)
+{% endcontent-ref %}

@@ -27,6 +27,7 @@
   * [Department & Team Leadership](organization/accountabilities-responsibilities/department-and-team-leadership/README.md)
     * [Department Head](organization/accountabilities-responsibilities/department-and-team-leadership/department-head.md)
     * [Team Lead](organization/accountabilities-responsibilities/department-and-team-leadership/team-lead.md)
+    * [Tribe Lead](organization/accountabilities-responsibilities/department-and-team-leadership/tribe-lead.md)
   * [Manager & Project Leadership](organization/accountabilities-responsibilities/manager-and-project-leadership/README.md)
     * [Program Manager (PgM)](organization/accountabilities-responsibilities/manager-and-project-leadership/program-manager-pgm.md)
     * [Project Manager (PM)](organization/accountabilities-responsibilities/manager-and-project-leadership/project-manager.md)
