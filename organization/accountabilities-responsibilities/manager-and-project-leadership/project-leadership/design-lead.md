@@ -6,8 +6,8 @@ Di Design Team struktural terbagi 3 role, Team Leader, Design Lead, Design Ops..
 
 Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
-{% content-ref url="team-leader.md" %}
-[team-leader.md](team-leader.md)
+{% content-ref url="../../archives/team-leader.md" %}
+[team-leader.md](../../archives/team-leader.md)
 {% endcontent-ref %}
 
 ### **Responsibilities**

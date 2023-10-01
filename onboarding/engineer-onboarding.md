@@ -12,14 +12,14 @@ Tim engineering di Rolling Glory pun tentu saja juga menerapkan nilai-nilai Kind
 
 Apakah ekspektasi Rolling Glory pada seorang coaster engineer? Semuanya tertuliskan di link Engineer Accountabilities & Responsibilities berikut:
 
-{% content-ref url="../organization/accountabilities-responsibilities/engineer.md" %}
-[engineer.md](../organization/accountabilities-responsibilities/engineer.md)
+{% content-ref url="../organization/accountabilities-responsibilities/project-team/engineer.md" %}
+[engineer.md](../organization/accountabilities-responsibilities/project-team/engineer.md)
 {% endcontent-ref %}
 
 Jika kamu seorang Tech Lead, baca ini juga:
 
-{% content-ref url="../organization/accountabilities-responsibilities/tech-lead.md" %}
-[tech-lead.md](../organization/accountabilities-responsibilities/tech-lead.md)
+{% content-ref url="../organization/accountabilities-responsibilities/manager-and-project-leadership/project-leadership/tech-lead.md" %}
+[tech-lead.md](../organization/accountabilities-responsibilities/manager-and-project-leadership/project-leadership/tech-lead.md)
 {% endcontent-ref %}
 
 ## Convention as a Culture

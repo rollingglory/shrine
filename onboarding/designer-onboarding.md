@@ -24,7 +24,7 @@ Design team terdiri dari roles yang cukup beragam, dan dengan tanggung jawab yan
 [design-team.md](../design-team/design-team.md)
 {% endcontent-ref %}
 
-{% content-ref url="../organization/accountabilities-responsibilities/designer.md" %}
-[designer.md](../organization/accountabilities-responsibilities/designer.md)
+{% content-ref url="../organization/accountabilities-responsibilities/project-team/designer.md" %}
+[designer.md](../organization/accountabilities-responsibilities/project-team/designer.md)
 {% endcontent-ref %}
 

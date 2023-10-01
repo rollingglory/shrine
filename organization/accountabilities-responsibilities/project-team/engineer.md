@@ -4,7 +4,7 @@
 
 Software engineer mempunyai tanggung jawab dalam **mengimplementasikan product digital** sesuai dengan requirement dan design yang sudah ditentukan **dengan kualitas yang premium**.
 
-Selain dari aspek kompetensi / kemampuan technical, engineer di Rolling Glory adalah seorang coaster juga yang dituntut juga untuk mengamalkan [RGB Glory Principles](../../rolling-glory/principles.md).
+Selain dari aspek kompetensi / kemampuan technical, engineer di Rolling Glory adalah seorang coaster juga yang dituntut juga untuk mengamalkan [RGB Glory Principles](../../../rolling-glory/principles.md).
 
 ### Responsibilities
 
@@ -22,7 +22,7 @@ Selain dari aspek kompetensi / kemampuan technical, engineer di Rolling Glory ad
 
 Seorang software engineer harus genuinely care pada product yang sedang dikembangkan, dengan sikap positif dan kemauan untuk melakukan extra mile jika memang dibutuhkan untuk memastikan aplikasi yang dikembangkan adalah produk yang premium dan menjadi solusi untuk client maupun end-user.
 
-Pengerjaan product digital juga dilakukan secara team, sehingga sifat team player adalah hal yang harus ada dalam proses kolaborasi. 
+Pengerjaan product digital juga dilakukan secara team, sehingga sifat team player adalah hal yang harus ada dalam proses kolaborasi.&#x20;
 
 #### Eagerness to learn
 
@@ -41,6 +41,4 @@ Software adalah bagian dari keseluruhan product development, engineer harus bisa
 Kolaborasi adalah kunci, keterbukaan dan  komunikasi adalah salah satu value kita. Seorang software engineer harus memiliki kemampuan komunikasi yang baik juga, terutama dalam menyampaikan  ide, masalah, ataupun feedback yang terkait engineering kepada team sehingga team dapat mengerti dengan baik. Selain itu seorang system engineer juga harus bisa memahami apa yang disampaikan oleh stakeholder, PM, designer, ataupun sesama engineer terkait task yang harus dikerjakan.
 
 _ref: https://hanrec.com/2018/09/06/soft-skills-in-tech-five-core-competencies-of-a-great-developer/_
-
-
 

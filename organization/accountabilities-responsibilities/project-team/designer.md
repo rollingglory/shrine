@@ -2,8 +2,8 @@
 
 Untuk melihat Panduan Roles Designer dan Responsibilites-nya bisa dilihat di sini
 
-{% content-ref url="../../design-team/design-team.md" %}
-[design-team.md](../../design-team/design-team.md)
+{% content-ref url="../../../design-team/design-team.md" %}
+[design-team.md](../../../design-team/design-team.md)
 {% endcontent-ref %}
 
 Di section ini lebih dibahas apa saja yang harus dipunyai oleh masing-masing roles
@@ -27,12 +27,12 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh 2D artist:
 
-![](../../.gitbook/assets/screen-shot-2020-11-18-at-10.45.29.png)
+![](../../../.gitbook/assets/screen-shot-2020-11-18-at-10.45.29.png)
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% content-ref url="../../rolling-glory/principles.md" %}
-[principles.md](../../rolling-glory/principles.md)
+{% content-ref url="../../../rolling-glory/principles.md" %}
+[principles.md](../../../rolling-glory/principles.md)
 {% endcontent-ref %}
 
 
@@ -56,12 +56,12 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UI designer
 
-![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.29.45.png)
+![](../../../.gitbook/assets/screen-shot-2020-11-11-at-09.29.45.png)
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% content-ref url="../../rolling-glory/principles.md" %}
-[principles.md](../../rolling-glory/principles.md)
+{% content-ref url="../../../rolling-glory/principles.md" %}
+[principles.md](../../../rolling-glory/principles.md)
 {% endcontent-ref %}
 
 ## UX Designer
@@ -85,20 +85,20 @@ Tambahan yang harus kamu punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Designer:
 
-![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.40.38.png)
+![](../../../.gitbook/assets/screen-shot-2020-11-11-at-09.40.38.png)
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:
 
-{% content-ref url="../../rolling-glory/principles.md" %}
-[principles.md](../../rolling-glory/principles.md)
+{% content-ref url="../../../rolling-glory/principles.md" %}
+[principles.md](../../../rolling-glory/principles.md)
 {% endcontent-ref %}
 
 ## Creative Conceptor
 
 Seorang Creative Conceptor mempunyai **tanggung jawab untuk memberikan solusi kreatif** dalam rangka menjawab kebutuhan klien, **sesuai dengan proses yang baik dan benar**.&#x20;
 
-{% content-ref url="../../production-management/pandora-research-guideline.md" %}
-[pandora-research-guideline.md](../../production-management/pandora-research-guideline.md)
+{% content-ref url="../../../production-management/pandora-research-guideline.md" %}
+[pandora-research-guideline.md](../../../production-management/pandora-research-guideline.md)
 {% endcontent-ref %}
 
 Sebagai CC kamu harus:
@@ -115,12 +115,12 @@ Tambahan yang kamu harus punya:
 
 Berikut sedikit visualisasi trait/character yang dibutuhkan oleh Creative Conceptor:
 
-![](../../.gitbook/assets/screen-shot-2020-11-11-at-09.51.07.png)
+![](../../../.gitbook/assets/screen-shot-2020-11-11-at-09.51.07.png)
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:&#x20;
 
-{% content-ref url="../../rolling-glory/principles.md" %}
-[principles.md](../../rolling-glory/principles.md)
+{% content-ref url="../../../rolling-glory/principles.md" %}
+[principles.md](../../../rolling-glory/principles.md)
 {% endcontent-ref %}
 
 ## UX Writer
@@ -170,7 +170,7 @@ Berikut sedikit visualisasi trait/character yang dibutuhkan oleh UX Researcher:
 
 Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principles:&#x20;
 
-{% content-ref url="../../rolling-glory/principles.md" %}
-[principles.md](../../rolling-glory/principles.md)
+{% content-ref url="../../../rolling-glory/principles.md" %}
+[principles.md](../../../rolling-glory/principles.md)
 {% endcontent-ref %}
 

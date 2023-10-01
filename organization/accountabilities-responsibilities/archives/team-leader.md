@@ -4,7 +4,7 @@
 
 Dalam setiap team fungsional/roles di Rolling Glory, akan ada seorang Team Leader yang memimpin. Team Lead ini merupakan bagian dari first level management yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam timnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis dan pengerjaan project, ilmu-ilmu terbaru, atau bahkan personal issue dengan team lead masing-masing.
 
-Seorang Team Leader di Rolling Glory dituntut juga untuk bisa menjadi panutan dan inspirasi coaster lain dalam mengamalkan [RGB Glory Principles](../../rolling-glory/principles.md).
+Seorang Team Leader di Rolling Glory dituntut juga untuk bisa menjadi panutan dan inspirasi coaster lain dalam mengamalkan [RGB Glory Principles](../../../rolling-glory/principles.md).
 
 ### Responsibilities
 
@@ -47,6 +47,4 @@ Seorang Team Leader di Rolling Glory dituntut juga untuk bisa menjadi panutan da
 3. **Problem solver** - Contribute to resolving—not creating—conflicts
 4. **Serve and Support** - Act as a cheerleader for every team member, ensuring that they’re both recognized and rewarded for accomplishments
 5. **Ownership** - Take ownership over every aspect of the team’s progress, demonstrating that the buck stops with you and that you’re up to the task
-
-
 
