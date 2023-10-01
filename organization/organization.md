@@ -1,10 +1,14 @@
 # Organization Structure
 
+Struktur Organisasi Rolling Glory terdiri dari beberapa elemen utama, termasuk model dan filosofi, sistem kepemimpinan dan manajemen, serta pembagian tugas dan tanggung jawab di antara coasters. Berikut adalah deskripsi lebih rinci tentang struktur organisasi perusahaan Rolling Glory.
+
 ### Model & Philosophy
 
-Rolling Glory memiliki struktur organisasi matrix yang mengkombinasikan pembagian team secara fungsional dalam team-team dengan role yang sama maupun pembagian team secara berdasarkan project dan task.
+Rolling Glory menggunakan struktur organisasi matriks yang menggabungkan pembagian tim berdasarkan fungsi dan proyek/tugas.
 
-Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasarkan struktur organisasi matrix tersebut, pola komunikasi di Rolling Glory mengadopsi model flat organization di mana tidak ada birokrasi dan komunikasi secara langsung adalah hal yang disarankan. Rolling Glory mempunyai prinsip bahwa setiap coaster mempunyai kedudukan dan suara yang sama dalam team, hanya berbeda di role dan responsibilities masing-masing.&#x20;
+Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasarkan struktur organisasi matrix tersebut, pola komunikasi di Rolling Glory mengadopsi model flat organization di mana tidak ada birokrasi dan komunikasi secara langsung adalah hal yang disarankan.&#x20;
+
+Rolling Glory menganut prinsip bahwa setiap coaster memiliki kedudukan dan suara yang sama dalam tim, perbedaan hanya terletak pada peran (role) dan tanggung jawab masing-masing.
 
 ### Rolling Glory Structure
 
@@ -14,11 +18,22 @@ Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasark
 
 ### Leader-Manager System
 
-Berdasarkan model organization matrix, tiap coaster akan tergabung dalam sebuah team fungsional (team PM, engineering, designer, operasional, dkk) dengan [Team Leader](accountabilities-responsibilities/team-leader.md) masing-masing, dan akan tergabung dalam satu atau lebih team project / task.
+Berdasarkan model organization matris, tiap coaster akan tergabung dalam sebuah team fungsional (team PM, Engineering, Designer, HR, dkk) dan akan tergabung dalam satu atau lebih team project/task.
 
-Dalam setiap team fungsional/roles, akan ada seorang Team Lead yang memimpin. Team Lead ini merupakan bagian dari _first management level_ yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam teamnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis project, ilmu-ilmu terbaru, atau bahkan personal issue dengan lead masing-masing.
+Dengan struktur ini, Rolling Glory mencoba menciptakan lingkungan yang menggabungkan fleksibilitas, komunikasi terbuka, dan tanggung jawab yang jelas untuk mendorong pertumbuhan dan kolaborasi antara karyawan dalam upaya untuk mencapai tujuan perusahaan.
 
-Dalam pengerjaan task sehari-hari, coaster akan mempunyai seorang manager/direct report yang akan memberikan task dan memanajemen pengerjaan task tersebut. Dalam sebuah team project, direct reportnya adalah seorang Project Manager, sedangkan dalam task-task yang di luar project, yang menjadi direct reportnya adalah manager dari team-team yang bersangkutan (misal direct report HR Officer adalah HR Manager, dkk).
+#### Departemen & Team Leadership
+
+Dalam setiap team fungsional/roles, akan ada seorang Team Lead yang memimpin. Team Lead ini merupakan bagian dari _first management level_ yang bertugas melayani team yang dipimpinnya secara profesional maupun personal. Team Lead akan bertanggung jawab dalam memastikan kualitas dan pertumbuhan tiap coaster dalam teamnya. Coaster bisa melakukan diskusi terkait team culture, hal-hal teknis project, ilmu-ilmu terbaru, atau bahkan personal issue dengan lead masing-masing.&#x20;
+
+Team Lead akan dipimpin oleh seorang Departemen Head. Dan untuk team yang tidak memiliki Team Lead, kepemimpinan akan dilakukan langsung oleh Departemen Head.
+
+#### Manager dan Project Leadership
+
+Dalam tugas sehari-hari, coaster memiliki seorang manager/direct report yang memberikan tugas dan mengelola pelaksanaan tugas tersebut. Ini tergantung pada apakah tugas tersebut berada dalam konteks proyek atau tugas di luar proyek (seperti tim Fintax, People & Culture).&#x20;
+
+* Dalam sebuah tim proyek, direct report coaster dapat berupa Project Manager dan Project Lead lainnya seperti Tech Lead atau Designer Lead, tergantung pada peran coaster dalam proyek tersebut.
+* Dalam tugas di luar proyek, direct report coaster adalah manajer dari tim atau departemen terkait. Misalnya, HR Officer memiliki HR Manager sebagai direktur yang memberikan tugas dan pengawasan.
 
 ### Cohesive Coherence 2020 (CoCo 2020)
 
