@@ -80,7 +80,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 
 ## Others
 
-****
+
 
 **Marketing**
 
@@ -97,7 +97,7 @@ Untuk lebih lengkap Design Team Leader bisa mengacu ke:
 * **Cooperation with client/pandora team** —  bertanggung jawab membuat/memastikan/me-review concept & proposal yang dibuat sudah sesuai dengan standard RGB, membantu koordinasi antara klien dengan tim.
 * **New project concepts** —  bertanggung jawab dalam mendalami (digging) kebutuhan klien, memastikan solusi desain/produk yang ditawarkan selalu inovatif.
 
-****
+
 
 **Design Ops**
 

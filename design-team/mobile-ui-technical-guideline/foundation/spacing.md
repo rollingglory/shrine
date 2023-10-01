@@ -4,9 +4,9 @@ description: Short distance relationship
 
 # Spacing
 
-Dalam menentukan jarak/spasi antar komponen dalam sebuah desain aplikasi _mobile_, digunakan apa yang disebut dengan _**base unit**_. _Base unit ****_ berupa suatu angka dasar yang menjadi acuan besaran spasi dari desain yang dibuat. Besaran spasi yang dipakai nantinya akan didapat dari kelipatan dan faktor dari _base unit_ itu sendiri.&#x20;
+Dalam menentukan jarak/spasi antar komponen dalam sebuah desain aplikasi _mobile_, digunakan apa yang disebut dengan _**base unit**_. _Base unit_ berupa suatu angka dasar yang menjadi acuan besaran spasi dari desain yang dibuat. Besaran spasi yang dipakai nantinya akan didapat dari kelipatan dan faktor dari _base unit_ itu sendiri.&#x20;
 
-Rolling Glory mengikuti acuan Apple dan Google dalam menentukan _base unit_ untuk spasi, yaitu sebesar **8 **_**pixel/point**_** ** atau oleh beberapa sumber biasa disebut _**Rule of 8**_. Artinya, segala spasi yang digunakan dalam desain merupakan faktor dan kelipatan dari 8, yaitu 1, 2, 4, 8, 16, 24, 32, dst.
+Rolling Glory mengikuti acuan Apple dan Google dalam menentukan _base unit_ untuk spasi, yaitu sebesar **8 **_**pixel/point**_ atau oleh beberapa sumber biasa disebut _**Rule of 8**_. Artinya, segala spasi yang digunakan dalam desain merupakan faktor dan kelipatan dari 8, yaitu 1, 2, 4, 8, 16, 24, 32, dst.
 
 ![Rule of 8](<../../../.gitbook/assets/image (34) (1).png>)
 

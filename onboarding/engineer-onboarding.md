@@ -24,7 +24,7 @@ Jika kamu seorang Tech Lead, baca ini juga:
 
 ## Convention as a Culture
 
-Secara umum, salah satu _team culture_ dari tim engineering Rolling Glory adalah _convention_ / kesepakatan dan keseragaman dalam _coding,_ dimulai dari _best practice_, _coding style, IDE, framework / library_ yang dipakai, hingga hal-hal lain seperti API format. _Convention_ diberlakukan dengan tujuan untuk __ menyeragamkan banyaknya engineer dalam team maupun project yang dikerjakan dalam Rolling Glory.&#x20;
+Secara umum, salah satu _team culture_ dari tim engineering Rolling Glory adalah _convention_ / kesepakatan dan keseragaman dalam _coding,_ dimulai dari _best practice_, _coding style, IDE, framework / library_ yang dipakai, hingga hal-hal lain seperti API format. _Convention_ diberlakukan dengan tujuan untuk  menyeragamkan banyaknya engineer dalam team maupun project yang dikerjakan dalam Rolling Glory.&#x20;
 
 Kesepakatan yang sudah ditentukan sudah dipertimbangkan tidak hanya dari perspektif teknologi saja namun tentunya juga dari sisi bisnis, sisi solusi yang tepat guna, _maintainability_, _scalability_, dan lain-lain, karena pada hakikatnya tim engineering adalah bagian dari _production_ _pipeline_ keseluruhan yang bertujuan untuk membuat sebuah aplikasi sebagai sebuah solusi akan masalah yang ada. Dan tentu saja kesepakatan-kesepakatan ini pun akan berkembang seiring waktu dan perkembangan teknologi, jadi jika menemukan hal-hal apapun terkait _engineering_ yang lebih baik, _let's discuss_!
 
@@ -76,4 +76,3 @@ Lalu silakan lanjut ke dokumentasi-dokumentasi yang relevan dengan role masing-m
 
 
 
-__

@@ -6,7 +6,7 @@ description: >-
 
 # Design System
 
-> A _collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. - Will Fanguy in_ [_https://www.invisionapp.com/inside-design/guide-to-design-systems/_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)__
+> A _collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. - Will Fanguy in_ [_https://www.invisionapp.com/inside-design/guide-to-design-systems/_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
 Aplikasi mobile memiliki tingkat kustomisasi yang cukup tinggi. Perbedaan yang mencolok mungkin akan terlihat dalam komponen-komponen khusus berdasarkan platform yang dituju (android atau ios).
 

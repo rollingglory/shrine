@@ -6,7 +6,7 @@ description: >-
 
 # Design System
 
-> A _collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. - Will Fanguy in_ [_https://www.invisionapp.com/inside-design/guide-to-design-systems/_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)__
+> A _collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. - Will Fanguy in_ [_https://www.invisionapp.com/inside-design/guide-to-design-systems/_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
 Di dalam ranah design system untuk pembuatan UI website, Rolling Glory membuat 2 klasifikasi untuk memudahkan designer dan engineer.
 

@@ -1,6 +1,6 @@
 # Selection
 
-Untuk melakukan seleksi di dalam aplikasi, terdapat _**single selection** _ dan _**multiple selection**_, dengan komponen masing-masing yaitu _radio_ dan _checkbox_. Secara umum dapat dibedakan dari bentuknya, dimana _radio_ memiliki bentuk dasar lingkaran, sementara _checkbox_ berupa persegi.
+Untuk melakukan seleksi di dalam aplikasi, terdapat _**single selection**_ dan _**multiple selection**_, dengan komponen masing-masing yaitu _radio_ dan _checkbox_. Secara umum dapat dibedakan dari bentuknya, dimana _radio_ memiliki bentuk dasar lingkaran, sementara _checkbox_ berupa persegi.
 
 ![Radio](<../../../.gitbook/assets/image (13).png>)
 

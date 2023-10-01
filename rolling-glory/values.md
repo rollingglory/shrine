@@ -103,7 +103,7 @@ Berikut **"**beberapa contoh/panduan" pengamalan value di RGB:
 
 ![](../.gitbook/assets/screen-shot-2020-11-11-at-11.03.28.png)
 
-****
+
 
 ### **Openness in Team:**&#x20;
 

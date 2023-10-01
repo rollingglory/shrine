@@ -6,4 +6,4 @@ Tribe Leader adalah sebuah sistem leadership yang digunakan oleh Rolling Glory s
 
 _Akses dengan account Rolling Glory:_
 
-__[https://docs.google.com/presentation/d/1ZlpFSypdMZcM6tCqLiOFZ0guyj1wEHVQYxcS2ay1E0Y/edit?usp=sharing](https://docs.google.com/presentation/d/1ZlpFSypdMZcM6tCqLiOFZ0guyj1wEHVQYxcS2ay1E0Y/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1ZlpFSypdMZcM6tCqLiOFZ0guyj1wEHVQYxcS2ay1E0Y/edit?usp=sharing](https://docs.google.com/presentation/d/1ZlpFSypdMZcM6tCqLiOFZ0guyj1wEHVQYxcS2ay1E0Y/edit?usp=sharing)

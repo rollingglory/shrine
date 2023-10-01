@@ -6,7 +6,7 @@ description: Styles of the family
 
 Tipografi yang digunakan dalam suatu aplikasi _mobile_ memiliki andil dalam merepresentasikan _brand_ yang diangkat. Selain keperluan tersebut, tipografi juga baiknya memiliki aturan penggunaan sebagai komponen dalam aplikasi serta bersifat memudahkan bagi pengguna yang membacanya.
 
-Teks yang terlalu kecil akan menyulitkan pengguna untuk membaca informasi yang disediakan, pun teks terlalu besar bisa mengganggu mata dari pengguna. Oleh karena itu, kebutuhan akan ukuran yang pasti sebagai dasar penggunaan teks dan skalanya menjadi penting, dan untuk mencapai hal tersebut, setidaknya diperlukan pertimbangan dalam menentukan _**font size**_ dan _**line height**_** ** yang cocok bagi aplikasi yang akan digarap.
+Teks yang terlalu kecil akan menyulitkan pengguna untuk membaca informasi yang disediakan, pun teks terlalu besar bisa mengganggu mata dari pengguna. Oleh karena itu, kebutuhan akan ukuran yang pasti sebagai dasar penggunaan teks dan skalanya menjadi penting, dan untuk mencapai hal tersebut, setidaknya diperlukan pertimbangan dalam menentukan _**font size**_ dan _**line height**_ yang cocok bagi aplikasi yang akan digarap.
 
 Kombinasi dari _font size_ dan _line height_ dengan rasio yang cocok akan memudahkan baik desainer dan developer dalam mengembangkan aplikasi, serta memudahkan pengguna dalam membaca informasi yang disajikan.
 
@@ -60,19 +60,7 @@ Perlu diketahui, skala di bawah ini bisa ditambah sesuai dengan kebutuhan dan kr
 
 **Mobile Type Scale**
 
-| Scale      | Font Size | Line Height\* (approx. 1,3x of font size) | Usage                                                 |
-| ---------- | --------- | ----------------------------------------- | ----------------------------------------------------- |
-| Headline 1 | 32/34     | 40/42                                     | iOS large title                                       |
-| Headline 2 | 24        | 30                                        | Banner title                                          |
-| Headline 3 | 20        | 26                                        | Header title, page title, banner title, section title |
-| Headline 4 | 18        | 24                                        | iOS page title                                        |
-| Subtitle 1 | 16        | 20                                        | Section title                                         |
-| Subtitle 2 | 14        | 18                                        | Secondary section title                               |
-| Body 1     | 16        | 20                                        | Primary body text                                     |
-| Body 2     | 14        | 18                                        | Secondary body text                                   |
-| Button     | 14        | 14                                        | Button                                                |
-| Caption    | 12        | 16                                        | Caption, label                                        |
-| Overline   | 10        | 13                                        | Secondary label, tag title                            |
+<table><thead><tr><th width="150">Scale</th><th width="150">Font Size</th><th width="150">Line Height* (approx. 1,3x of font size)</th><th width="300.1538461538462">Usage</th></tr></thead><tbody><tr><td>Headline 1</td><td>32/34</td><td>40/42</td><td>iOS large title</td></tr><tr><td>Headline 2</td><td>24</td><td>30</td><td>Banner title</td></tr><tr><td>Headline 3</td><td>20</td><td>26</td><td>Header title, page title, banner title, section title</td></tr><tr><td>Headline 4</td><td>18</td><td>24</td><td>iOS page title</td></tr><tr><td>Subtitle 1</td><td>16</td><td>20</td><td>Section title</td></tr><tr><td>Subtitle 2</td><td>14</td><td>18</td><td>Secondary section title</td></tr><tr><td>Body 1</td><td>16</td><td>20</td><td>Primary body text</td></tr><tr><td>Body 2</td><td>14</td><td>18</td><td>Secondary body text</td></tr><tr><td>Button</td><td>14</td><td>14</td><td>Button</td></tr><tr><td>Caption</td><td>12</td><td>16</td><td>Caption, label</td></tr><tr><td>Overline</td><td>10</td><td>13</td><td>Secondary label, tag title</td></tr></tbody></table>
 
 Beberapa hal yang perlu diperhatikan untuk _text scale_ di atas adalah:
 

@@ -33,7 +33,7 @@ Dunia mempunyai makna yang luas dan akan berbeda-beda untuk tiap orang.&#x20;
 
 Rolling Glory mendefinisikan dunia menjadi beberapa lapisan, dimulai dari dunia yang paling kecil, yaitu studio Rolling Glory sendiri dengan segenap individu/coaster di Rolling Glory, keluarga, dan orang-orang yang dekat dengan kita.
 
-Kemudian klien dan partner __ bisnis yang bekerja sama dengan Rolling Glory, hingga _end user_ dan konsumer dari klien yang menggunakan produk-produk buatan Rolling Glory. Secara skala pun dunia Rolling Glory bisa lebih besar lagi, mulai dari pengguna di Indonesia, Asia Tenggara, Asia, sampai dunia.
+Kemudian klien dan partner bisnis yang bekerja sama dengan Rolling Glory, hingga _end user_ dan konsumer dari klien yang menggunakan produk-produk buatan Rolling Glory. Secara skala pun dunia Rolling Glory bisa lebih besar lagi, mulai dari pengguna di Indonesia, Asia Tenggara, Asia, sampai dunia.
 
 Dunia-dunia inilah yang akan coba dilayani sebaik-baiknya oleh Rolling Glory.&#x20;
 

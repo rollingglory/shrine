@@ -150,7 +150,7 @@ Di luar ini tentu saja kamu harus bisa mempraktekkan/mengamalkan glory principle
 
 ## UX Researcher
 
-Seorang UX Researcher **bertanggung jawab dalam melakukan riset terhadap user ataupun project/product** yang sedang didevelop. **** UX researcher harus **membuat dokumen report** based on hasil riset nya.
+Seorang UX Researcher **bertanggung jawab dalam melakukan riset terhadap user ataupun project/product** yang sedang didevelop. UX researcher harus **membuat dokumen report** based on hasil riset nya.
 
 sebagai UX Researcher kamu harus:
 
