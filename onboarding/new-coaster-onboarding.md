@@ -12,17 +12,23 @@ Rolling Glory memiliki prinsip-prinsip yang dipegang teguh dan selalu berusaha u
 
 Principles ini terdiri dari **Mission & Vision**, **Values**, **Forte**, dan **Spirit**. Tentunya Rolling Glory tidak ingin prinsip-prinsip tersebut hanya menjadi jargon semata, oleh karena itu, ada section juga yang memuat contoh-contoh pengamalan dalam kehidupan sehari-hari juga.
 
-{% page-ref page="../rolling-glory/principles.md" %}
+{% content-ref url="../rolling-glory/principles.md" %}
+[principles.md](../rolling-glory/principles.md)
+{% endcontent-ref %}
 
 ### Organization Structure
 
 Setelah meresapi Glory Principles, berikut adalah beberapa hal tentang struktur organisasi, filosofi maupun implementasinya:
 
-{% page-ref page="../organization/organization.md" %}
+{% content-ref url="../organization/organization.md" %}
+[organization.md](../organization/organization.md)
+{% endcontent-ref %}
 
 #### Production Pipeline
 
-{% page-ref page="../production-management/production-pipeline.md" %}
+{% content-ref url="../production-management/production-pipeline.md" %}
+[production-pipeline.md](../production-management/production-pipeline.md)
+{% endcontent-ref %}
 
 ### Jam Kerja dan Pengambilan Cuti
 
@@ -30,17 +36,21 @@ Nah, udah kebayang kan Rolling Glory seperti apa dan bagaimana cara kerjanya.
 
 Berikut adalah hal-hal terkait Jam Kerja yang perlu kamu ketahui, lengkap dengan bagaimana terkait cuti dan cara mengajukan cuti jika dibutuhkan:
 
-{% page-ref page="../work-hour-and-leave-policy.md" %}
+{% content-ref url="../hr/work-hour-and-leave-policy.md" %}
+[work-hour-and-leave-policy.md](../hr/work-hour-and-leave-policy.md)
+{% endcontent-ref %}
 
 ### Ekstra Kurikuler
 
-Yap, seperti yang sudah disampaikan sebelumnya, kita di Rolling Glory tidak hanya bekerja bersama, tapi juga berkarya bersama, hidup bersama. 
+Yap, seperti yang sudah disampaikan sebelumnya, kita di Rolling Glory tidak hanya bekerja bersama, tapi juga berkarya bersama, hidup bersama.&#x20;
 
 Ada group-group di Telegram yang menaungi berbagai kesenangan, hobi, ataupun hal-hal lain, silakan cari apa yang cocok buat kamu dan pastikan kamu bergabung.
 
 Wajib untuk join minimal 3 group yang sesuai dengan kamu ya:
 
-{% page-ref page="../rolling-ekstra-kurikuler.md" %}
+{% content-ref url="../rolling-ekstra-kurikuler.md" %}
+[rolling-ekstra-kurikuler.md](../rolling-ekstra-kurikuler.md)
+{% endcontent-ref %}
 
 ## Sudah Kak, secara general sudah kebayang, lalu apalagi?
 
@@ -48,23 +58,33 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 ### Project Manager
 
-{% page-ref page="project-manager-onboarding.md" %}
+{% content-ref url="project-manager-onboarding.md" %}
+[project-manager-onboarding.md](project-manager-onboarding.md)
+{% endcontent-ref %}
 
 ### Engineer
 
-{% page-ref page="engineer-onboarding.md" %}
+{% content-ref url="engineer-onboarding.md" %}
+[engineer-onboarding.md](engineer-onboarding.md)
+{% endcontent-ref %}
 
 ### Designer
 
-{% page-ref page="designer-onboarding.md" %}
+{% content-ref url="designer-onboarding.md" %}
+[designer-onboarding.md](designer-onboarding.md)
+{% endcontent-ref %}
 
 ### QA Tester
 
-{% page-ref page="qa-onboarding.md" %}
+{% content-ref url="qa-onboarding.md" %}
+[qa-onboarding.md](qa-onboarding.md)
+{% endcontent-ref %}
 
 ### Web Administrator
 
-{% page-ref page="web-administrator-onboarding.md" %}
+{% content-ref url="web-administrator-onboarding.md" %}
+[web-administrator-onboarding.md](web-administrator-onboarding.md)
+{% endcontent-ref %}
 
 
 
@@ -76,5 +96,4 @@ Sip, berikut silakan baca hal-hal di bawah ini sesuai dengan role kamu
 
 
 
-### 
-
+###
