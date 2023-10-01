@@ -22,10 +22,8 @@
 ## Organization
 
 * [Organization Structure](organization/organization.md)
-* [Roles](organization/roles.md)
-* [Career Grade & Performance Management](organization/career-grade-and-performance-management.md)
-* [Competencies Dictionary](organization/competencies-dictionary.md)
 * [Accountabilities & Responsibilities](organization/accountabilities-responsibilities/README.md)
+  * [All Roles](organization/accountabilities-responsibilities/roles.md)
   * [Department & Team Leadership](organization/accountabilities-responsibilities/department-and-team-leadership/README.md)
     * [Department Head](organization/accountabilities-responsibilities/department-and-team-leadership/department-head.md)
     * [Team Lead](organization/accountabilities-responsibilities/department-and-team-leadership/team-lead.md)
@@ -44,6 +42,8 @@
   * [Archives](organization/accountabilities-responsibilities/archives/README.md)
     * [Project Manager Lead](organization/accountabilities-responsibilities/archives/project-manager-lead.md)
     * [Team Leader](organization/accountabilities-responsibilities/archives/team-leader.md)
+* [Career Grade & Performance Management](organization/career-grade-and-performance-management.md)
+* [Competencies Dictionary](organization/competencies-dictionary.md)
 
 ## Onboarding
 

@@ -28,12 +28,26 @@ Dalam setiap team fungsional/roles, akan ada seorang Team Lead yang memimpin. Te
 
 Team Lead akan dipimpin oleh seorang Departemen Head. Dan untuk team yang tidak memiliki Team Lead, kepemimpinan akan dilakukan langsung oleh Departemen Head.
 
+Referensi lebih lengkap:&#x20;
+
+{% content-ref url="accountabilities-responsibilities/department-and-team-leadership/" %}
+[department-and-team-leadership](accountabilities-responsibilities/department-and-team-leadership/)
+{% endcontent-ref %}
+
 #### Manager dan Project Leadership
 
 Dalam tugas sehari-hari, coaster memiliki seorang manager/direct report yang memberikan tugas dan mengelola pelaksanaan tugas tersebut. Ini tergantung pada apakah tugas tersebut berada dalam konteks proyek atau tugas di luar proyek (seperti tim Fintax, People & Culture).&#x20;
 
 * Dalam sebuah tim proyek, direct report coaster dapat berupa Project Manager dan Project Lead lainnya seperti Tech Lead atau Designer Lead, tergantung pada peran coaster dalam proyek tersebut.
 * Dalam tugas di luar proyek, direct report coaster adalah manajer dari tim atau departemen terkait. Misalnya, HR Officer memiliki HR Manager sebagai direktur yang memberikan tugas dan pengawasan.
+
+Referensi lebih lengkap:&#x20;
+
+{% content-ref url="accountabilities-responsibilities/manager-and-project-leadership/" %}
+[manager-and-project-leadership](accountabilities-responsibilities/manager-and-project-leadership/)
+{% endcontent-ref %}
+
+
 
 ### Cohesive Coherence 2020 (CoCo 2020)
 
