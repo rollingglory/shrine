@@ -10,11 +10,9 @@ Walaupun menggunakan model dengan role dan responsibilities yang jelas berdasark
 
 Rolling Glory menganut prinsip bahwa setiap coaster memiliki kedudukan dan suara yang sama dalam tim, perbedaan hanya terletak pada peran (role) dan tanggung jawab masing-masing.
 
-### Rolling Glory Structure
+### Organization Structure
 
-![Struktur Organisasi Rolling Glory (2020)](<../.gitbook/assets/image (3) (1).png>)
-
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Struktur Organisasi Rolling Glory</p></figcaption></figure>
 
 ### Leader-Manager System
 

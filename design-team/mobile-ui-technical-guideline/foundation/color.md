@@ -27,7 +27,7 @@ Secara umum, dengan membawa brand dari projek/produk yang digarap, warna pada de
 
 Warna-warna primer adalah warna yang paling sering digunakan pada UI, membedakan produk dengan produk lainnya. Warna primer biasanya diambil dari warna utama brand yang diusung. Menggunakan warna brand sebagai warna primer memperkuat identitas brand pada UI yg dibuat.
 
-![Warna primer dan warna brand](<../../../.gitbook/assets/image (3).png>)
+![Warna primer dan warna brand](<../../../.gitbook/assets/image (3) (2).png>)
 
 **Secondary colors**
 
